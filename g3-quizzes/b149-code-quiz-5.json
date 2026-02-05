@@ -1,0 +1,262 @@
+{
+  "quiz_id": "g3_quiz_20",
+  "quiz_name": "QUIZ #5 B149 CODE",
+  "topic": "CSA B149 Code",
+  "question_count": 23,
+  "source_file": "QUIZ #5 B149 CODE.docx",
+  "questions": [
+    {
+      "quiz_id": "g3_quiz_20",
+      "question_number": 1,
+      "question_text": "Who may refuse to grant the authorization or revoke, suspend, or refuse to renew an authorization, if the authorization holder is in contravention of this Act?",
+      "options": {
+        "A": "Minister of Consumer and Commercial Relations",
+        "B": "TSSA Fuel Safety Director",
+        "C": "TSSA Fuel Safety Inspector",
+        "D": "Premier of Ontario"
+      }
+    },
+    {
+      "quiz_id": "g3_quiz_20",
+      "question_number": 2,
+      "question_text": "Who may only use force to enter and inspect a place where there is an immediate threat to public safety and only such force that is reasonably necessary in the circumstances?",
+      "options": {
+        "A": "Gas Technician 2",
+        "B": "TSSA Director",
+        "C": "TSSA Inspector",
+        "D": "Ministry of Labour Inspector"
+      }
+    },
+    {
+      "quiz_id": "g3_quiz_20",
+      "question_number": 3,
+      "question_text": "Who shall order such investigation as he or she considers necessary on being notified of an accident or incident?",
+      "options": {
+        "A": "Employer of Gas Technician",
+        "B": "TSSA Director",
+        "C": "TSSA Inspector",
+        "D": "Ministry of Labour Inspector"
+      }
+    },
+    {
+      "quiz_id": "g3_quiz_20",
+      "question_number": 4,
+      "question_text": "Every ___________ shall take all reasonable precautions to ensure that they and their agents and employees comply with this Act, the regulations or a Ministers order",
+      "options": {
+        "A": "TSSA Director",
+        "B": "TSSA Inspector",
+        "C": "Employer",
+        "D": "Supervisor"
+      }
+    },
+    {
+      "quiz_id": "g3_quiz_20",
+      "question_number": 5,
+      "question_text": "Who is the \"authority having jurisdiction\" referenced in the Code for Ontario",
+      "options": {
+        "A": "Ministry of Training, Colleges, Universities",
+        "B": "TSSA",
+        "C": "Ministry of Labour",
+        "D": "Ministry of the Environment"
+      }
+    },
+    {
+      "quiz_id": "g3_quiz_20",
+      "question_number": 6,
+      "question_text": "An automatically controlled forced air furnace shall be equipped with a high temperature limit control, the maximum setting of the control shall be?",
+      "options": {
+        "A": "200 degrees F",
+        "B": "250 degrees F",
+        "C": "300 degrees F",
+        "D": "350 degrees F"
+      }
+    },
+    {
+      "quiz_id": "g3_quiz_20",
+      "question_number": 7,
+      "question_text": "What is the maximum gas pressure allowed in a building under construction (construction heater application)?",
+      "options": {
+        "A": "2 PSIG",
+        "B": "20 PSIG",
+        "C": "25 PSIG",
+        "D": "50 PSIG"
+      }
+    },
+    {
+      "quiz_id": "g3_quiz_20",
+      "question_number": 8,
+      "question_text": "A Notice of Proposal is not required to be provided by TSSA when?",
+      "options": {
+        "A": "When certification is being suspended due to negligence",
+        "B": "When revoking a certification",
+        "C": "When suspending a certification due to failure to pay certification fees",
+        "D": "When certification is not granted"
+      }
+    },
+    {
+      "quiz_id": "g3_quiz_20",
+      "question_number": 9,
+      "question_text": "Which certification agency listed is not certified for appliance approvals in Ontario?",
+      "options": {
+        "A": "Ministry of Transportation",
+        "B": "Canadian Standards Association",
+        "C": "Underwriters Laboratories Canada",
+        "D": "Underwriters Laboratories International"
+      }
+    },
+    {
+      "quiz_id": "g3_quiz_20",
+      "question_number": 10,
+      "question_text": "Welded gas piping must comply with?",
+      "options": {
+        "A": "Transport of Dangerous Goods Regulations",
+        "B": "Hydrocarbon and Gasoline Pipeline Act",
+        "C": "TIG and MIG Welding Act",
+        "D": "Technical Standards and Safety Act"
+      }
+    },
+    {
+      "quiz_id": "g3_quiz_20",
+      "question_number": 11,
+      "question_text": "A Technician not agreeing with a Directors ruling may?",
+      "options": {
+        "A": "Continue performing duties as a Gas Technician",
+        "B": "Appeal to the Director of Fuels Safety at TSSA",
+        "C": "Appeal to the Director of TSSA",
+        "D": "Appeal to the Ontario Divisional Court"
+      }
+    },
+    {
+      "quiz_id": "g3_quiz_20",
+      "question_number": 12,
+      "question_text": "A person might be refused authorization where?",
+      "options": {
+        "A": "The person is not qualified",
+        "B": "The person resides in another Province or Territory",
+        "C": "The person resides in another country",
+        "D": "The person is qualified in another Province or Territory"
+      }
+    },
+    {
+      "quiz_id": "g3_quiz_20",
+      "question_number": 13,
+      "question_text": "A Safety Order can be given?",
+      "options": {
+        "A": "In writing only",
+        "B": "Orally or in Writing",
+        "C": "Only after a hearing has taken place",
+        "D": "Only after prior notice has been given"
+      }
+    },
+    {
+      "quiz_id": "g3_quiz_20",
+      "question_number": 14,
+      "question_text": "No person shall remove a seal affixed by an Inspector:",
+      "options": {
+        "A": "Without consent from the Director of Fuel Safety TSSA",
+        "B": "Without the consent of the Distributor",
+        "C": "Without the consent of the TSSA Fuel Safety Inspector who affixed the seal",
+        "D": "Without consent from your Employer"
+      }
+    },
+    {
+      "quiz_id": "g3_quiz_20",
+      "question_number": 15,
+      "question_text": "The maximum fine for contravention of the Acts and Regulations for an individual is?",
+      "options": {
+        "A": "$5000",
+        "B": "$10,000",
+        "C": "$50,000",
+        "D": "$100,000"
+      }
+    },
+    {
+      "quiz_id": "g3_quiz_20",
+      "question_number": 16,
+      "question_text": "A Hydrocarbon is defined as?",
+      "options": {
+        "A": "Chemical compound of Hydro electricity and Water",
+        "B": "Chemical compound of Hydrogen and Carbon Dioxide",
+        "C": "Chemical compound of Hydrogen and Carbon Monoxide",
+        "D": "Chemical compound of Hydrogen and Carbon"
+      }
+    },
+    {
+      "quiz_id": "g3_quiz_20",
+      "question_number": 17,
+      "question_text": "Who has the responsibility under the Act of Inspecting and Accepting an Installation before supplying gas for the first time?",
+      "options": {
+        "A": "TSSA Fuel Safety Inspector",
+        "B": "Municipality Plumbing Inspector",
+        "C": "The Distributor",
+        "D": "Ministry of Labour Inspector"
+      }
+    },
+    {
+      "quiz_id": "g3_quiz_20",
+      "question_number": 18,
+      "question_text": "No person shall operate a container refill center unless?",
+      "options": {
+        "A": "The operator of the refill center posts a personal bond of $500,000",
+        "B": "The refill center is licensed",
+        "C": "The refill center is located more than 0.5 kilometres from a residential area",
+        "D": "The refill center is insured for $2,000,000 liability"
+      }
+    },
+    {
+      "quiz_id": "g3_quiz_20",
+      "question_number": 19,
+      "question_text": "An \"indirect fired appliance\" is defined as?",
+      "options": {
+        "A": "An appliance in which the flue gases are not mixed with the medium being heated",
+        "B": "An appliance in which the flue gases are intermixed with the medium being heated",
+        "C": "An appliance with all combustion air supplied directly from, and all combustion products directly vented to the outdoors by independent enclosed passageways connected directly to the appliance",
+        "D": "An appliance with storage capability only, and where heat is transferred from one heating medium to another"
+      }
+    },
+    {
+      "quiz_id": "g3_quiz_20",
+      "question_number": 20,
+      "question_text": "A \"service regulator\" is defined as?",
+      "options": {
+        "A": "Pressure regulator located in the valve train of an appliance",
+        "B": "Pressure regulator located between the utility owned regulator and the       appliance regulator",
+        "C": "Pressure regulator installed on a service line to control the pressure of the gas delivered to the customer",
+        "D": "Overpressure protection device that functions by discharging gas from the downstream system"
+      }
+    },
+    {
+      "quiz_id": "g3_quiz_20",
+      "question_number": 21,
+      "question_text": " A proved pilot is?",
+      "options": {
+        "A": "A pilot flame supervised by a primary safety control that senses the presence of a pilot prior to gas being admitted to the main burner",
+        "B": "A pilot flame that burns without turndown throughout the entire time the burner is in service, whether the main burner is firing or not",
+        "C": "A pilot that is automatically lighted each time there is a call for heat and that is cut off automatically at the end of the trial for ignition period of the main burner",
+        "D": "A pilot that is automatically lighted each time there is a call for heat and that burns during the entire period that the main burner is firing"
+      }
+    },
+    {
+      "quiz_id": "g3_quiz_20",
+      "question_number": 22,
+      "question_text": "A stop fill valve is?",
+      "options": {
+        "A": "A valve that automatically shuts off the supply of gas when de-energized by a combustion safety control, safety limit control, or loss of an actuating medium",
+        "B": "A manually operated, lubricated plug type, quarter turn valve that has stops in the open and closed positions and has an attached handle or loose fitting key or extended handle wrench, and that is located downstream of all safety shut off valves on the valve train and as close to the burner as practicable",
+        "C": "A relief valve installed in the piping or tubing system downstream of a final stage pressure regulator that is not equipped with an internal relief valve",
+        "D": "A device in a container that is intended to automatically shut off the flow of liquid into the container when a predetermined fixed level is achieved"
+      }
+    },
+    {
+      "quiz_id": "g3_quiz_20",
+      "question_number": 23,
+      "question_text": "Induced draft is?",
+      "options": {
+        "A": "A mechanical draft produced by a device upstream from the combustion zone of an appliance",
+        "B": "A mechanical draft produced by a device downstream from the combustion zone of an appliance",
+        "C": "A draft other than a mechanical draft",
+        "D": "A draft produced by a mechanical device, such as a fan, blower, or aspirator, that can supplement natural draft"
+      }
+    }
+  ]
+}

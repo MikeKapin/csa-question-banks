@@ -1,0 +1,536 @@
+{
+  "exam_id": "exam_1",
+  "exam_name": "Exam 1",
+  "question_count": 48,
+  "source_file": "Exam 1.docx",
+  "questions": [
+    {
+      "question_number": 1,
+      "question_text": "The best method of removing dust from a house is by",
+      "options": {
+        "A": "Humidification",
+        "B": "Exfiltration",
+        "C": "Filtration",
+        "D": "Infiltration"
+      },
+      "correct_answer": null
+    },
+    {
+      "question_number": 2,
+      "question_text": "When air is heated, its humidity level will",
+      "options": {
+        "A": "Decrease",
+        "B": "Increase to a point, then decrease",
+        "C": "Increase",
+        "D": "Remain constant"
+      },
+      "correct_answer": null
+    },
+    {
+      "question_number": 3,
+      "question_text": "The best way to seal against air leaks is to",
+      "options": {
+        "A": "Insulate",
+        "B": "Ventilate",
+        "C": "Pressurize",
+        "D": "Caulk"
+      },
+      "correct_answer": null
+    },
+    {
+      "question_number": 4,
+      "question_text": "A depressurization test conducted on a house will help determine the",
+      "options": {
+        "A": "Relative humidity in the house",
+        "B": "Number of air changes per hour in the house",
+        "C": "Heat loss of the house",
+        "D": "Potential for pressure-induced back drafting in the house"
+      },
+      "correct_answer": null
+    },
+    {
+      "question_number": 5,
+      "question_text": "Vapour barriers should be installed on",
+      "options": {
+        "A": "The cold side of the insulation",
+        "B": "The inside of the insulation",
+        "C": "The warm side of the insulation",
+        "D": "The outside of the insulation"
+      },
+      "correct_answer": null
+    },
+    {
+      "question_number": 6,
+      "question_text": "Air enters the house through a process called",
+      "options": {
+        "A": "Aspiration",
+        "B": "infiltration",
+        "C": "Expiration",
+        "D": "Exfiltration"
+      },
+      "correct_answer": null
+    },
+    {
+      "question_number": 7,
+      "question_text": "What is the most common cause of flue gas spillage from gas appliances?",
+      "options": {
+        "A": "Negative air pressure caused by mechanical systems",
+        "B": "Chimneys which are too short",
+        "C": "Positive air pressure caused by mechanical systems",
+        "D": "Cracked or leaking heat exchangers"
+      },
+      "correct_answer": null
+    },
+    {
+      "question_number": 8,
+      "question_text": "The transfer of heat through a fluid",
+      "options": {
+        "A": "The transfer of heat from particle to particle",
+        "B": "A wave form of heat transfer",
+        "C": "The transfer of heat through a vacuum",
+        "D": "Exhaust fans in a home will"
+      },
+      "correct_answer": null
+    },
+    {
+      "question_number": 9,
+      "question_text": "Ensure positive pressure in the home",
+      "options": {
+        "A": "Assist in filtering the air in the home",
+        "B": "Remove excess moisture from the home",
+        "C": "Limit the \"distribution effect\" in the home",
+        "D": "After a direct vent radiant heating system is installed in a new house, the customer complains that \"the walls and windows are wet\". From the following list, choose the best corrective action:"
+      },
+      "correct_answer": null
+    },
+    {
+      "question_number": 10,
+      "question_text": "Advise the customer that the problem will disappear when the building dries out",
+      "options": {
+        "A": "Recommend the installation of a mechanical ventilation system",
+        "B": "After confirming that the heat exchanger is not cracked, advise the customer to call another contractor",
+        "C": "Recommend that a window be left open a bit",
+        "D": "The instrument used to perform a passive depressurization test is a"
+      },
+      "correct_answer": null
+    },
+    {
+      "question_number": 11,
+      "question_text": "The best way to remove odors from a house is to",
+      "options": {
+        "A": "Install mechanical attic ventilation",
+        "B": "Ventilate the house",
+        "C": "Filter the air in the house",
+        "D": "Humidify the air in the house"
+      },
+      "correct_answer": null
+    },
+    {
+      "question_number": 12,
+      "question_text": "A poorly insulated building could result in",
+      "options": {
+        "A": "Decreased fuel costs",
+        "B": "Increased fuel consumption",
+        "C": "Insufficient building air supply",
+        "D": "Excessive moisture in the building"
+      },
+      "correct_answer": null
+    },
+    {
+      "question_number": 13,
+      "question_text": "Dilution air is defined as",
+      "options": {
+        "A": "The air mixed with the fuel before combustion takes place",
+        "B": "The air mixed with the fuel after combustion takes place",
+        "C": "The extra air added to ensure complete combustion",
+        "D": "The air introduced at the draft hood to assist in the venting action"
+      },
+      "correct_answer": null
+    },
+    {
+      "question_number": 14,
+      "question_text": "The two readings required for obtaining the humidity in the air are",
+      "options": {
+        "A": "Dry bulb & static pressure",
+        "B": "Dry bulb & velocity pressure",
+        "C": "Dry bulb & air temperature",
+        "D": "Dry bulb & wet bulb temperatures"
+      },
+      "correct_answer": null
+    },
+    {
+      "question_number": 15,
+      "question_text": "If condensation starts forming on windows in the home, what action should be taken?",
+      "options": {
+        "A": "Raise the humidity level at the humidistat",
+        "B": "Lower the humidity level at the humidistat",
+        "C": "Turn off the humidifier",
+        "D": "Turn the humidistat to the 100% setting"
+      },
+      "correct_answer": null
+    },
+    {
+      "question_number": 16,
+      "question_text": "Since 1996,the most common type of home construction is called",
+      "options": {
+        "A": "\"platform\" style",
+        "B": "\"envelope\" style",
+        "C": "\"solid brick\" style",
+        "D": "\"balloon\" style"
+      },
+      "correct_answer": null
+    },
+    {
+      "question_number": 17,
+      "question_text": "A commercial forced air furnace transfers heat in what medium?",
+      "options": {
+        "A": "Conductive",
+        "B": "Thermal",
+        "C": "Convective",
+        "D": "Radiant"
+      },
+      "correct_answer": null
+    },
+    {
+      "question_number": 18,
+      "question_text": "Relative humidity is defined as",
+      "options": {
+        "A": "The amount of moisture contained in a given quantity of air",
+        "B": "The percentage of moisture that a quantity of air is holding in relation to how much it can hold",
+        "C": "The percentage of moisture contained in any quantity or temperature of air",
+        "D": "The amount of moisture contained in the air at any given temperature"
+      },
+      "correct_answer": null
+    },
+    {
+      "question_number": 19,
+      "question_text": "If the ductwork in a crawl space condensates, what could be done to remedy this problem?",
+      "options": {
+        "A": "Internally insulate the ductwork",
+        "B": "Insulate the crawlspace",
+        "C": "Externally insulate the ductwork",
+        "D": "Raise the setting on the thermometer"
+      },
+      "correct_answer": null
+    },
+    {
+      "question_number": 20,
+      "question_text": "What type of heat transfer is used on the top burners of a range?",
+      "options": {
+        "A": "Convection",
+        "B": "Conduction",
+        "C": "Induction",
+        "D": "Radiation"
+      },
+      "correct_answer": null
+    },
+    {
+      "question_number": 21,
+      "question_text": "An example of radiation type of heat transfer on a range",
+      "options": {
+        "A": "Overhead broiler",
+        "B": "Oven",
+        "C": "Grill burner",
+        "D": "Top burners"
+      },
+      "correct_answer": null
+    },
+    {
+      "question_number": 22,
+      "question_text": "The \"stack effect\" in a house is increased by",
+      "options": {
+        "A": "Bathroom and kitchen exhaust fans",
+        "B": "Difference in temperature inside to outside",
+        "C": "Leaking windows & doors",
+        "D": "Not enough combustion air"
+      },
+      "correct_answer": null
+    },
+    {
+      "question_number": 23,
+      "question_text": "In a tightly constructed (modern, well-sealed) house, as the number of occupants increases, the",
+      "options": {
+        "A": "Relative humidity increases",
+        "B": "Carbon monoxide level increases",
+        "C": "Relative humidity decreases",
+        "D": "Carbon monoxide level decreases"
+      },
+      "correct_answer": null
+    },
+    {
+      "question_number": 24,
+      "question_text": "The components of the building envelope include",
+      "options": {
+        "A": "Occupants & activities inside the house",
+        "B": "Roof, walls, windows & foundations",
+        "C": "Central heating, air conditioners, air circulation equipment",
+        "D": "Plant, trees, wind & humidity"
+      },
+      "correct_answer": null
+    },
+    {
+      "question_number": 25,
+      "question_text": "The air pressure inside a house is directly related to",
+      "options": {
+        "A": "The number of occupants in the house",
+        "B": "The relative humidity within the house",
+        "C": "The velocity of the wind outside the house",
+        "D": "The size of the house"
+      },
+      "correct_answer": null
+    },
+    {
+      "question_number": 26,
+      "question_text": "Elevated levels of co ² in a building may be caused by",
+      "options": {
+        "A": "Spillage of flue gases",
+        "B": "Lack of ventilation",
+        "C": "Activities of the occupants",
+        "D": "All the available choices"
+      },
+      "correct_answer": null
+    },
+    {
+      "question_number": 27,
+      "question_text": "What effect could negative pressure in a building have on the venting of an appliance",
+      "options": {
+        "A": "It may cause a downdraft condition at appliances",
+        "B": "It will have no effect on appliances",
+        "C": "It may cause an updraft condition at appliances",
+        "D": "It may increase the flue gas temperature of appliances"
+      },
+      "correct_answer": null
+    },
+    {
+      "question_number": 28,
+      "question_text": "To ensure that negative building pressure never causes pressure-induced back drafting",
+      "options": {
+        "A": "Never operate the exhaust fans when appliances are operating",
+        "B": "Open a window when the appliances are operating",
+        "C": "Use sealed combustion direct vent appliances",
+        "D": "Use a draft inducer on all wood appliances"
+      },
+      "correct_answer": null
+    },
+    {
+      "question_number": 29,
+      "question_text": "The recommended range of relative humidity in a house to control indoor air contaminants, increase comfort, and maintain the structural integrity of the house is",
+      "options": {
+        "A": "9% to 20%",
+        "B": "30% to 50%",
+        "C": "60% to 80%",
+        "D": "90% to 100%"
+      },
+      "correct_answer": null
+    },
+    {
+      "question_number": 30,
+      "question_text": "The \"systems Approach\" as it applies to a building is a means of understanding how fuel fired appliances affect & are affected by",
+      "options": {
+        "A": "The type of heating/cooling system in the house",
+        "B": "The outside environment, building, occupant",
+        "C": "The heat loss of the structure",
+        "D": "The total heating/cooling load matched to the output capacity of the heating/cooling equipment"
+      },
+      "correct_answer": null
+    },
+    {
+      "question_number": 31,
+      "question_text": "The flue & ventilation effect in a building causes",
+      "options": {
+        "A": "Infiltration of air to replace that which is exhausted through vents & exhaust devices",
+        "B": "Exfiltration of air due to positive pressure created by the venting combustion gases exhaust devices",
+        "C": "Unnecessary heat loss & should be prevented by sealing the building",
+        "D": "Negative pressures on the upper floors compared to lower floors & basements"
+      },
+      "correct_answer": null
+    },
+    {
+      "question_number": 32,
+      "question_text": "Prevent moisture travel through the walls of a building",
+      "options": {
+        "A": "Reduce air leakage into a building",
+        "B": "Maintain the relative humidity in a building",
+        "C": "Should be flexible as possible",
+        "D": "An exhaust air fan in a bathroom"
+      },
+      "correct_answer": null
+    },
+    {
+      "question_number": 33,
+      "question_text": "Removes all pollutants from the air",
+      "options": {
+        "A": "Helps reduce excessive moisture build up in the building",
+        "B": "Moves pollutants & excess air to the outdoors",
+        "C": "Removes various odors from all parts of the building",
+        "D": "Which of the following actions will limit the problems caused by the \"distribution effect\" on conventional vented forced air furnaces"
+      },
+      "correct_answer": null
+    },
+    {
+      "question_number": 34,
+      "question_text": "Seal the ductwork in the furnace area",
+      "options": {
+        "A": "Balance the volume of supply & return air in each room or floor",
+        "B": "Ensure a tight seal around the furnace filter & blower door",
+        "C": "All of the available choices",
+        "D": "The minimum number of air changes per hour (ach) in a residence to maintain a healthy indoor air quality is"
+      },
+      "correct_answer": null
+    },
+    {
+      "question_number": 35,
+      "question_text": "The maximum negative building pressure that a natural draft vented appliance should be exposed to is:",
+      "options": {
+        "A": "-5 Pa  (-0.02\"wc)",
+        "B": "-10 Pa  (-0.04\"wc)",
+        "C": "-15 Pa  (-0.06\"wc)",
+        "D": "-20 Pa  (-0.08\"wc)"
+      },
+      "correct_answer": null
+    },
+    {
+      "question_number": 36,
+      "question_text": "Which of the following can cause a negative pressure in a building",
+      "options": {
+        "A": "Lack of make up or combustion air",
+        "B": "Over firing gas appliances",
+        "C": "Under firing gas appliances",
+        "D": "A blocked chimney"
+      },
+      "correct_answer": null
+    },
+    {
+      "question_number": 37,
+      "question_text": "The main purpose of the building skin is to",
+      "options": {
+        "A": "Protect the underlying materials",
+        "B": "Reduce heat gain",
+        "C": "Improve resistance to vapor flow",
+        "D": "Maintain the depressurization limit"
+      },
+      "correct_answer": null
+    },
+    {
+      "question_number": 38,
+      "question_text": "What are the two main sources of moisture problems",
+      "options": {
+        "A": "People and plants",
+        "B": "Aquariums & pets",
+        "C": "Cooking & bathing",
+        "D": "Earth crawl spaces & open sump pits"
+      },
+      "correct_answer": null
+    },
+    {
+      "question_number": 39,
+      "question_text": "What are two types of convection heating",
+      "options": {
+        "A": "Catalytic & gasification",
+        "B": "Natural & forced",
+        "C": "Direct & indirect",
+        "D": "Conductive & non conductive"
+      },
+      "correct_answer": null
+    },
+    {
+      "question_number": 40,
+      "question_text": "What is static pressure",
+      "options": {
+        "A": "Measure of effect of electrical interference",
+        "B": "Pressure exerted when a fan is at rest",
+        "C": "Measured pressure less atmospheric pressure",
+        "D": "A measure of pressure available from a fan to move a given amount of air"
+      },
+      "correct_answer": null
+    },
+    {
+      "question_number": 41,
+      "question_text": "What R value is required in an attic",
+      "options": {
+        "A": "R12",
+        "B": "R20",
+        "C": "R30",
+        "D": "R40"
+      },
+      "correct_answer": null
+    },
+    {
+      "question_number": 42,
+      "question_text": "Where is the greatest heat loss from a house",
+      "options": {
+        "A": "Attic",
+        "B": "Main floor",
+        "C": "Walls",
+        "D": "Basement"
+      },
+      "correct_answer": null
+    },
+    {
+      "question_number": 43,
+      "question_text": "What percent of total heat loss does the basement account for",
+      "options": {
+        "A": "Up to 10%",
+        "B": "Up to 25%",
+        "C": "Up to 35%",
+        "D": "Up to 50%"
+      },
+      "correct_answer": null
+    },
+    {
+      "question_number": 44,
+      "question_text": "Frost build up in an attic indicates what",
+      "options": {
+        "A": "Insufficient ridge vents",
+        "B": "Insufficient attic ventilation",
+        "C": "Too little insulation",
+        "D": "Moisture problems"
+      },
+      "correct_answer": null
+    },
+    {
+      "question_number": 45,
+      "question_text": "How much of the insulation value of the wall is on the cold side of the vapor barrier",
+      "options": {
+        "A": "One third",
+        "B": "Two thirds",
+        "C": "One quarter",
+        "D": "100%"
+      },
+      "correct_answer": null
+    },
+    {
+      "question_number": 46,
+      "question_text": "What is the number one source of energy loss in a building",
+      "options": {
+        "A": "Improperly installed combustion appliances",
+        "B": "Air leakage",
+        "C": "Improperly installed insulation",
+        "D": "Windows"
+      },
+      "correct_answer": null
+    },
+    {
+      "question_number": 47,
+      "question_text": "Insulation should be kept how far away from a metal chimney that penetrates the attic",
+      "options": {
+        "A": "½\"",
+        "B": "1\"",
+        "C": "2\"",
+        "D": "4\""
+      },
+      "correct_answer": null
+    },
+    {
+      "question_number": 48,
+      "question_text": "Insulation is measured by",
+      "options": {
+        "A": "Density",
+        "B": "Thickness",
+        "C": "Thermal conductivity",
+        "D": "R factor"
+      },
+      "correct_answer": null
+    }
+  ]
+}

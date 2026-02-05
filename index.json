@@ -1,0 +1,477 @@
+{
+  "repository": "csa-question-banks",
+  "description": "Complete G2 and G3 question banks for CSA Gas Technician certification",
+  "version": "1.0.0",
+  "created": "2026-02-05",
+  "statistics": {
+    "total_g2_exams": 38,
+    "total_g2_questions": 2103,
+    "total_g3_quizzes": 26,
+    "total_g3_questions": 403,
+    "grand_total_questions": 2506
+  },
+  "g2_exams": {
+    "total_exams": 38,
+    "total_questions": 2103,
+    "exams": [
+      {
+        "exam_id": "exam_1",
+        "exam_name": "Exam 1",
+        "question_count": 48,
+        "source_file": "Exam 1.docx",
+        "file": "g2-exams/exam-01.json"
+      },
+      {
+        "exam_id": "exam_2",
+        "exam_name": "Exam 2",
+        "question_count": 27,
+        "source_file": "Exam 2.docx",
+        "file": "g2-exams/exam-02.json"
+      },
+      {
+        "exam_id": "exam_5",
+        "exam_name": "Exam 5",
+        "question_count": 55,
+        "source_file": "Exam 5.docx",
+        "file": "g2-exams/exam-05.json"
+      },
+      {
+        "exam_id": "exam_6",
+        "exam_name": "Exam 6",
+        "question_count": 36,
+        "source_file": "Exam 6.docx",
+        "file": "g2-exams/exam-06.json"
+      },
+      {
+        "exam_id": "exam_8",
+        "exam_name": "Exam 8",
+        "question_count": 3,
+        "source_file": "Exam 8.docx",
+        "file": "g2-exams/exam-08.json"
+      },
+      {
+        "exam_id": "exam_9",
+        "exam_name": "Exam 9",
+        "question_count": 28,
+        "source_file": "Exam 9.docx",
+        "file": "g2-exams/exam-09.json"
+      },
+      {
+        "exam_id": "exam_10",
+        "exam_name": "Exam 10",
+        "question_count": 30,
+        "source_file": "Exam 10.docx",
+        "file": "g2-exams/exam-10.json"
+      },
+      {
+        "exam_id": "exam_11",
+        "exam_name": "Exam 11",
+        "question_count": 48,
+        "source_file": "Exam 11.docx",
+        "file": "g2-exams/exam-11.json"
+      },
+      {
+        "exam_id": "exam_12",
+        "exam_name": "Exam 12",
+        "question_count": 48,
+        "source_file": "Exam 12.docx",
+        "file": "g2-exams/exam-12.json"
+      },
+      {
+        "exam_id": "exam_13",
+        "exam_name": "Exam 13",
+        "question_count": 49,
+        "source_file": "Exam 13.docx",
+        "file": "g2-exams/exam-13.json"
+      },
+      {
+        "exam_id": "exam_14",
+        "exam_name": "Exam 14",
+        "question_count": 31,
+        "source_file": "Exam 14.docx",
+        "file": "g2-exams/exam-14.json"
+      },
+      {
+        "exam_id": "exam_15",
+        "exam_name": "Exam 15",
+        "question_count": 32,
+        "source_file": "Exam 15.docx",
+        "file": "g2-exams/exam-15.json"
+      },
+      {
+        "exam_id": "exam_16",
+        "exam_name": "Exam 16",
+        "question_count": 46,
+        "source_file": "Exam 16.docx",
+        "file": "g2-exams/exam-16.json"
+      },
+      {
+        "exam_id": "exam_17",
+        "exam_name": "Exam 17",
+        "question_count": 47,
+        "source_file": "Exam 17.docx",
+        "file": "g2-exams/exam-17.json"
+      },
+      {
+        "exam_id": "exam_18",
+        "exam_name": "Exam 18",
+        "question_count": 46,
+        "source_file": "Exam 18.docx",
+        "file": "g2-exams/exam-18.json"
+      },
+      {
+        "exam_id": "exam_19",
+        "exam_name": "Exam 19",
+        "question_count": 47,
+        "source_file": "Exam 19.docx",
+        "file": "g2-exams/exam-19.json"
+      },
+      {
+        "exam_id": "exam_20",
+        "exam_name": "Exam 20",
+        "question_count": 48,
+        "source_file": "Exam 20.docx",
+        "file": "g2-exams/exam-20.json"
+      },
+      {
+        "exam_id": "exam_21",
+        "exam_name": "Exam 21",
+        "question_count": 49,
+        "source_file": "Exam 21.docx",
+        "file": "g2-exams/exam-21.json"
+      },
+      {
+        "exam_id": "exam_22",
+        "exam_name": "Exam 22",
+        "question_count": 51,
+        "source_file": "Exam 22.docx",
+        "file": "g2-exams/exam-22.json"
+      },
+      {
+        "exam_id": "exam_28",
+        "exam_name": "Exam 28",
+        "question_count": 77,
+        "source_file": "Exam 28.docx",
+        "file": "g2-exams/exam-28.json"
+      },
+      {
+        "exam_id": "exam_29",
+        "exam_name": "Exam 29",
+        "question_count": 77,
+        "source_file": "Exam 29.docx",
+        "file": "g2-exams/exam-29.json"
+      },
+      {
+        "exam_id": "exam_30",
+        "exam_name": "Exam 30",
+        "question_count": 82,
+        "source_file": "Exam 30.docx",
+        "file": "g2-exams/exam-30.json"
+      },
+      {
+        "exam_id": "exam_32",
+        "exam_name": "Exam 32",
+        "question_count": 85,
+        "source_file": "Exam 32.docx",
+        "file": "g2-exams/exam-32.json"
+      },
+      {
+        "exam_id": "exam_33",
+        "exam_name": "Exam 33",
+        "question_count": 65,
+        "source_file": "Exam 33.docx",
+        "file": "g2-exams/exam-33.json"
+      },
+      {
+        "exam_id": "mod_23_forced_air_add_ons_exam",
+        "exam_name": "Mod 23 Forced Air Add ons Exam",
+        "question_count": 57,
+        "source_file": "Mod 23 Forced Air Add ons Exam.docx",
+        "file": "g2-exams/mod-23-forced-air-add-ons-exam.json"
+      },
+      {
+        "exam_id": "exam_26",
+        "exam_name": "G2 TSSA Practice Exam #1 2023 - Answer Key",
+        "question_count": 179,
+        "source_file": "G2 TSSA Practice Exam #1 2023 - Answer Key.docx",
+        "file": "g2-exams/g2-tssa-practice-exam-1-2023.json"
+      },
+      {
+        "exam_id": "exam_27",
+        "exam_name": "G2 TSSA Practice Exam #2  2023 - Answer Key",
+        "question_count": 159,
+        "source_file": "G2 TSSA Practice Exam #2  2023 - Answer Key.docx",
+        "file": "g2-exams/g2-tssa-practice-exam-2-2023.json"
+      },
+      {
+        "exam_id": "exam_28",
+        "exam_name": "G2 TSSA Practice Exam #3  2023 - Answer Key",
+        "question_count": 177,
+        "source_file": "G2 TSSA Practice Exam #3  2023 - Answer Key.docx",
+        "file": "g2-exams/g2-tssa-practice-exam-3-2023.json"
+      },
+      {
+        "exam_id": "exam_29",
+        "exam_name": "G2 TSSA Practice Exam #4  2023 - Answer Key",
+        "question_count": 1,
+        "source_file": "G2 TSSA Practice Exam #4  2023 - Answer Key.docx",
+        "file": "g2-exams/g2-tssa-practice-exam-4-2023.json"
+      },
+      {
+        "exam_id": "exam_30",
+        "exam_name": "G2 TSSA Practice Exam #6  2023 - Answer Key 2",
+        "question_count": 50,
+        "source_file": "G2 TSSA Practice Exam #6  2023 - Answer Key 2.docx",
+        "file": "g2-exams/g2-tssa-practice-exam-6-2023.json"
+      },
+      {
+        "exam_id": "exam_31",
+        "exam_name": "GAS TECH 2 LEVEL 2 FINAL REVIEW 2 - ANSWER KEY",
+        "question_count": 26,
+        "source_file": "GAS TECH 2 LEVEL 2 FINAL REVIEW 2 - ANSWER KEY.docx",
+        "file": "g2-exams/gas-tech-2-level-2-final-review-2.json"
+      },
+      {
+        "exam_id": "exam_32",
+        "exam_name": "Gas Tech II  - TSSA Practice Exam #1 - Answer Key",
+        "question_count": 50,
+        "source_file": "Gas Tech II  - TSSA Practice Exam #1 - Answer Key.docx",
+        "file": "g2-exams/gas-tech-ii-tssa-practice-exam-1.json"
+      },
+      {
+        "exam_id": "exam_33",
+        "exam_name": "Gas Tech II - TSSA Practice Exam # 2 - Answer Key",
+        "question_count": 70,
+        "source_file": "Gas Tech II - TSSA Practice Exam # 2 - Answer Key.docx",
+        "file": "g2-exams/gas-tech-ii-tssa-practice-exam-2.json"
+      },
+      {
+        "exam_id": "exam_34",
+        "exam_name": "GAS TECH II LEVEL 3 - FINAL EXAM ANSWER KEY",
+        "question_count": 39,
+        "source_file": "GAS TECH II LEVEL 3 - FINAL EXAM ANSWER KEY.docx",
+        "file": "g2-exams/gas-tech-ii-level-3-final-exam.json"
+      },
+      {
+        "exam_id": "exam_35",
+        "exam_name": "Modules 19, 23, 24 Feb 2017 Fanshawe watermarkedanswers - Copy",
+        "question_count": 17,
+        "source_file": "Modules 19, 23, 24 Feb 2017 Fanshawe watermarkedanswers - Copy.docx",
+        "file": "g2-exams/modules-19-23-24-feb-2017.json"
+      },
+      {
+        "exam_id": "exam_36",
+        "exam_name": "Exam 3",
+        "question_count": 37,
+        "source_file": "Exam 3.doc",
+        "file": "g2-exams/exam-03.json"
+      },
+      {
+        "exam_id": "exam_37",
+        "exam_name": "Exam 4",
+        "question_count": 50,
+        "source_file": "Exam 4.doc",
+        "file": "g2-exams/exam-04.json"
+      },
+      {
+        "exam_id": "exam_38",
+        "exam_name": "Exam 7",
+        "question_count": 36,
+        "source_file": "Exam 7.doc",
+        "file": "g2-exams/exam-07.json"
+      }
+    ]
+  },
+  "g3_quizzes": {
+    "total_quizzes": 26,
+    "total_questions": 403,
+    "by_topic": {
+      "Unit 3 - Gas Properties": [
+        {
+          "quiz_id": "g3_quiz_1",
+          "quiz_name": "CSA_GasTrade-Ed7_Quiz_u03-ch2",
+          "question_count": 1,
+          "file": "g3-quizzes/unit-03-gas-properties.json"
+        }
+      ],
+      "Unit 4 - Codes & Standards": [
+        {
+          "quiz_id": "g3_quiz_2",
+          "quiz_name": "CSA_GasTrade-Ed7_Quiz_u04-ch1",
+          "question_count": 4,
+          "file": "g3-quizzes/unit-04-codes-standards-ch1.json"
+        },
+        {
+          "quiz_id": "g3_quiz_3",
+          "quiz_name": "CSA_GasTrade-Ed7_Quiz_u04A-ch3",
+          "question_count": 1,
+          "file": "g3-quizzes/unit-04a-codes-standards-ch3.json"
+        },
+        {
+          "quiz_id": "g3_quiz_4",
+          "quiz_name": "CSA_GasTrade-Ed7_Quiz_u04A-ch4",
+          "question_count": 1,
+          "file": "g3-quizzes/unit-04a-codes-standards-ch4.json"
+        }
+      ],
+      "Unit 5 - Electricity & Combustion": [
+        {
+          "quiz_id": "g3_quiz_5",
+          "quiz_name": "CSA_GasTrade-Ed7_Quiz_u05-ch5",
+          "question_count": 1,
+          "file": "g3-quizzes/unit-05-electricity-combustion.json"
+        }
+      ],
+      "Unit 6 - Technical Manuals": [
+        {
+          "quiz_id": "g3_quiz_6",
+          "quiz_name": "CSA_GasTrade-Ed7_Quiz_u06-ch2",
+          "question_count": 1,
+          "file": "g3-quizzes/unit-06-technical-manuals-ch2.json"
+        },
+        {
+          "quiz_id": "g3_quiz_7",
+          "quiz_name": "CSA_GasTrade-Ed7_Quiz_u06-ch3",
+          "question_count": 1,
+          "file": "g3-quizzes/unit-06-technical-manuals-ch3.json"
+        },
+        {
+          "quiz_id": "g3_quiz_8",
+          "quiz_name": "CSA_GasTrade-Ed7_Quiz_u06-ch4",
+          "question_count": 1,
+          "file": "g3-quizzes/unit-06-technical-manuals-ch4.json"
+        }
+      ],
+      "Unit 7 - Customer Relations": [
+        {
+          "quiz_id": "g3_quiz_9",
+          "quiz_name": "CSA_GasTrade-Ed7_Quiz_u07-ch1",
+          "question_count": 1,
+          "file": "g3-quizzes/unit-07-customer-relations-ch1.json"
+        },
+        {
+          "quiz_id": "g3_quiz_10",
+          "quiz_name": "CSA_GasTrade-Ed7_Quiz_u07-ch3",
+          "question_count": 1,
+          "file": "g3-quizzes/unit-07-customer-relations-ch3.json"
+        }
+      ],
+      "Unit 8 - Piping Systems": [
+        {
+          "quiz_id": "g3_quiz_11",
+          "quiz_name": "CSA_GasTrade-Ed7_Quiz_u08-ch2",
+          "question_count": 1,
+          "file": "g3-quizzes/unit-08-piping-systems-ch2.json"
+        },
+        {
+          "quiz_id": "g3_quiz_12",
+          "quiz_name": "CSA_GasTrade-Ed7_Quiz_u08-ch4",
+          "question_count": 1,
+          "file": "g3-quizzes/unit-08-piping-systems-ch4.json"
+        },
+        {
+          "quiz_id": "g3_quiz_13",
+          "quiz_name": "CSA_GasTrade-Ed7_Quiz_u08-ch5",
+          "question_count": 1,
+          "file": "g3-quizzes/unit-08-piping-systems-ch5.json"
+        },
+        {
+          "quiz_id": "g3_quiz_14",
+          "quiz_name": "CSA_GasTrade-Ed7_Quiz_u08-ch6",
+          "question_count": 1,
+          "file": "g3-quizzes/unit-08-piping-systems-ch6.json"
+        }
+      ],
+      "Unit 9 - Gas Appliances": [
+        {
+          "quiz_id": "g3_quiz_15",
+          "quiz_name": "CSA_GasTrade-Ed7_Quiz_u09-ch1",
+          "question_count": 1,
+          "file": "g3-quizzes/unit-09-gas-appliances-ch1.json"
+        },
+        {
+          "quiz_id": "g3_quiz_16",
+          "quiz_name": "CSA_GasTrade-Ed7_Quiz_u09-ch2",
+          "question_count": 1,
+          "file": "g3-quizzes/unit-09-gas-appliances-ch2.json"
+        },
+        {
+          "quiz_id": "g3_quiz_17",
+          "quiz_name": "CSA_GasTrade-Ed7_Quiz_u09-ch3",
+          "question_count": 1,
+          "file": "g3-quizzes/unit-09-gas-appliances-ch3.json"
+        },
+        {
+          "quiz_id": "g3_quiz_18",
+          "quiz_name": "CSA_GasTrade-Ed7_Quiz_u09-ch4",
+          "question_count": 1,
+          "file": "g3-quizzes/unit-09-gas-appliances-ch4.json"
+        }
+      ],
+      "General": [
+        {
+          "quiz_id": "g3_quiz_19",
+          "quiz_name": "Flash Cards",
+          "question_count": 14,
+          "file": "g3-quizzes/flash-cards.json"
+        }
+      ],
+      "CSA B149 Code": [
+        {
+          "quiz_id": "g3_quiz_20",
+          "quiz_name": "QUIZ #5 B149 CODE",
+          "question_count": 23,
+          "file": "g3-quizzes/b149-code-quiz-5.json"
+        }
+      ],
+      "TSSA G3 Exam Prep": [
+        {
+          "quiz_id": "g3_exam_prep_21",
+          "quiz_name": "G3 Prep Test (212) & Final Quiz - Answers (198)",
+          "question_count": 6,
+          "file": "g3-quizzes/g3-prep-test-final-quiz.json"
+        },
+        {
+          "quiz_id": "g3_exam_prep_22",
+          "quiz_name": "G3 TSSA Prep Exam #1 2022 - Answer Key",
+          "question_count": 161,
+          "file": "g3-quizzes/g3-tssa-prep-exam-1-2022.json"
+        },
+        {
+          "quiz_id": "g3_exam_prep_23",
+          "quiz_name": "GAS TECH 3 LEVEL 2 Review - JUNE 2017",
+          "question_count": 69,
+          "file": "g3-quizzes/gas-tech-3-level-2-review-june-2017.json"
+        },
+        {
+          "quiz_id": "g3_exam_prep_25",
+          "quiz_name": "QUIZ #3  TSSA Act",
+          "question_count": 9,
+          "file": "g3-quizzes/tssa-act-quiz-3.json"
+        }
+      ],
+      "CSA B149.1-25 Code - Definitions": [
+        {
+          "quiz_id": "g3_quiz_25",
+          "quiz_name": "B149.1-25 Section 3 - Definitions",
+          "question_count": 50,
+          "file": "g3-quizzes/b149-1-25-section-3-definitions.json"
+        }
+      ]
+    }
+  },
+  "data_source": "CSA dev-tools MCP server",
+  "extraction_tools": [
+    "mcp__dev-tools__dev_list_exams",
+    "mcp__dev-tools__dev_list_g3_quizzes",
+    "mcp__dev-tools__dev_get_exam_questions",
+    "mcp__dev-tools__dev_get_random_g3_questions"
+  ],
+  "notes": [
+    "All questions extracted from official TSSA G2 and G3 training materials",
+    "Question banks include practice exams, unit quizzes, and final reviews",
+    "Some exams may not include answer keys (correct_answer fields may be null)",
+    "G2 focuses on commercial and residential gas fitting",
+    "G3 focuses on basic gas fitting and appliance servicing"
+  ]
+}
