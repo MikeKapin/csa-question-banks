@@ -1,0 +1,22 @@
+{
+  "exam_id": "g3_quiz_13",
+  "exam_name": "CSA_GasTrade-Ed7_Quiz_u08-ch5",
+  "topic": "Unit 8 - Piping Systems",
+  "exam_type": "unit_quiz",
+  "question_count": 1,
+  "source_file": "CSA_GasTrade-Ed7_Quiz_u08-ch5.docx",
+  "questions": [
+    {
+      "question_number": 1,
+      "question_text": "What are the three most common materials used for water distribution piping?",
+      "options": {
+        "A": "Colour coded blue, available in coils or rigid lengths = Type L Copper",
+        "B": "Series 80, 100, 125, 160, 200 – may be used for cold water only = PVC",
+        "C": "(Polypropylene) may be used for hot and cold-water distribution = PP-R",
+        "D": "(Chlorinated) may be used for hot and cold-water distribution = CPVC"
+      },
+      "correct_answer": null,
+      "source_file": "CSA_GasTrade-Ed7_Quiz_u08-ch5.docx"
+    }
+  ]
+}

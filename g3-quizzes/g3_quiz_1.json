@@ -1,0 +1,22 @@
+{
+  "exam_id": "g3_quiz_1",
+  "exam_name": "CSA_GasTrade-Ed7_Quiz_u03-ch2",
+  "topic": "Unit 3 - Gas Properties",
+  "exam_type": "unit_quiz",
+  "question_count": 1,
+  "source_file": "CSA_GasTrade-Ed7_Quiz_u03-ch2.docx",
+  "questions": [
+    {
+      "question_number": 1,
+      "question_text": "What is the term used for the chemical process in which the rapid oxidation of fuel results in the production of heat?",
+      "options": {
+        "A": "Supplied to ensure that complete combustion has occurred = Excess air",
+        "B": "Supplied from around the flames = Secondary air",
+        "C": "Supplied to the combustion chamber in excess of the air required for perfect combustion = Excess air",
+        "D": "Supplied to cool the hot vent gases = Dilution air"
+      },
+      "correct_answer": null,
+      "source_file": "CSA_GasTrade-Ed7_Quiz_u03-ch2.docx"
+    }
+  ]
+}

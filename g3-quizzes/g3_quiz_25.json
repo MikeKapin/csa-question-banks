@@ -1,0 +1,610 @@
+{
+  "exam_id": "g3_quiz_25",
+  "exam_name": "B149.1-25 Section 3 - Definitions",
+  "topic": "CSA B149.1-25 Code - Definitions",
+  "exam_type": "unit_quiz",
+  "question_count": 50,
+  "source_file": "Generated from B149.1-25 Sec 3 Definitions.txt",
+  "questions": [
+    {
+      "question_text": "What is the definition of combustion air?",
+      "options": {
+        "A": "The ambient air that is admitted to a venting system at the draft hood",
+        "B": "The air required for satisfactory combustion of gas, including excess air",
+        "C": "Air that is admitted to a space containing an appliance to replace exhausted air",
+        "D": "That portion of combustion air supplied in excess of theoretical requirements"
+      },
+      "correct_answer": "B",
+      "question_number": 1,
+      "source": "B149.1-25 Section 3 Definitions"
+    },
+    {
+      "question_text": "Which category of appliance operates with a nonpositive vent static pressure and with a flue loss not less than 17%?",
+      "options": {
+        "A": "Category I appliance",
+        "B": "Category II appliance",
+        "C": "Category III appliance",
+        "D": "Category IV appliance"
+      },
+      "correct_answer": "A",
+      "question_number": 2,
+      "source": "B149.1-25 Section 3 Definitions"
+    },
+    {
+      "question_text": "What is a Category IV appliance?",
+      "options": {
+        "A": "An appliance that operates with a nonpositive vent static pressure and with a flue loss not less than 17%",
+        "B": "An appliance that operates with a nonpositive vent static pressure and with a flue loss less than 17%",
+        "C": "An appliance that operates with a positive vent static pressure and with a flue loss not less than 17%",
+        "D": "An appliance that operates with a positive vent static pressure and with a flue loss less than 17%"
+      },
+      "correct_answer": "D",
+      "question_number": 3,
+      "source": "B149.1-25 Section 3 Definitions"
+    },
+    {
+      "question_text": "What is the definition of 'excess air'?",
+      "options": {
+        "A": "The air required for satisfactory combustion of gas",
+        "B": "That portion of the combustion air supplied to the combustion zone in excess of that theoretically required",
+        "C": "The ambient air admitted to a venting system at the draft hood",
+        "D": "Air that replaces air exhausted through a ventilation opening"
+      },
+      "correct_answer": "B",
+      "question_number": 4,
+      "source": "B149.1-25 Section 3 Definitions"
+    },
+    {
+      "question_text": "Which type of automatic vent damper device is controlled by electrical energy?",
+      "options": {
+        "A": "Thermally actuated vent damper device",
+        "B": "Electrically operated vent damper device",
+        "C": "Mechanical vent damper device",
+        "D": "Pneumatic vent damper device"
+      },
+      "correct_answer": "B",
+      "question_number": 5,
+      "source": "B149.1-25 Section 3 Definitions"
+    },
+    {
+      "question_text": "What is a draft hood designed to do?",
+      "options": {
+        "A": "Only ensure ready escape of flue gases",
+        "B": "Only prevent backdraft from entering the combustion chamber",
+        "C": "Ensure escape of flue gases, prevent backdraft, and neutralize stack action effects",
+        "D": "Only neutralize the effect of stack action"
+      },
+      "correct_answer": "C",
+      "question_number": 6,
+      "source": "B149.1-25 Section 3 Definitions"
+    },
+    {
+      "question_text": "What is the definition of a direct-vent appliance?",
+      "options": {
+        "A": "An appliance where combustion products are mixed with the medium being heated",
+        "B": "An appliance where all combustion air is supplied directly from outdoors and products vented directly outdoors",
+        "C": "An appliance that uses room air for combustion",
+        "D": "An appliance with a draft hood for venting"
+      },
+      "correct_answer": "B",
+      "question_number": 7,
+      "source": "B149.1-25 Section 3 Definitions"
+    },
+    {
+      "question_text": "What is the difference between forced draft and induced draft?",
+      "options": {
+        "A": "Forced draft is natural, induced draft is mechanical",
+        "B": "Forced draft is upstream from combustion zone, induced draft is downstream",
+        "C": "Forced draft is downstream, induced draft is upstream",
+        "D": "There is no difference between them"
+      },
+      "correct_answer": "B",
+      "question_number": 8,
+      "source": "B149.1-25 Section 3 Definitions"
+    },
+    {
+      "question_text": "What is a continuous pilot?",
+      "options": {
+        "A": "A pilot that is automatically lighted each time there is a call for heat",
+        "B": "A pilot that burns without turndown whether the main burner is firing or not",
+        "C": "A pilot that is cut off at the end of the trial-for-ignition period",
+        "D": "A pilot that burns at low turndown and increases upon call for heat"
+      },
+      "correct_answer": "B",
+      "question_number": 9,
+      "source": "B149.1-25 Section 3 Definitions"
+    },
+    {
+      "question_text": "What is an intermittent pilot?",
+      "options": {
+        "A": "A pilot that burns continuously without turndown",
+        "B": "A pilot automatically lighted with each call for heat and burns while main burner fires",
+        "C": "A pilot that is cut off at the end of the trial-for-ignition period",
+        "D": "A pilot that increases flow upon call for heat"
+      },
+      "correct_answer": "B",
+      "question_number": 10,
+      "source": "B149.1-25 Section 3 Definitions"
+    },
+    {
+      "question_text": "What is the definition of 'approved'?",
+      "options": {
+        "A": "Certified by a testing laboratory",
+        "B": "Acceptable to the manufacturer",
+        "C": "Acceptable to the authority having jurisdiction",
+        "D": "Certified to CSA standards only"
+      },
+      "correct_answer": "C",
+      "question_number": 11,
+      "source": "B149.1-25 Section 3 Definitions"
+    },
+    {
+      "question_text": "What is a barometric damper?",
+      "options": {
+        "A": "A device that prevents backdraft",
+        "B": "A draft-control device intended to stabilize natural draft by admitting room air",
+        "C": "A device that increases draft pressure",
+        "D": "A device that prevents flue gas escape"
+      },
+      "correct_answer": "B",
+      "question_number": 12,
+      "source": "B149.1-25 Section 3 Definitions"
+    },
+    {
+      "question_text": "What is the definition of combustion products?",
+      "options": {
+        "A": "Only carbon dioxide and water vapor",
+        "B": "Constituents that result from combustion including inert gases but excluding excess air",
+        "C": "Only flue gases and carbon monoxide",
+        "D": "All gases including excess air"
+      },
+      "correct_answer": "B",
+      "question_number": 13,
+      "source": "B149.1-25 Section 3 Definitions"
+    },
+    {
+      "question_text": "What is a fan-assisted burner?",
+      "options": {
+        "A": "A burner with combustion air supplied by mechanical device at pressure to overcome burner resistance only",
+        "B": "A burner with combustion air supplied to overcome burner and appliance resistance",
+        "C": "A burner not equipped with mechanical device for supplying combustion air",
+        "D": "A burner that uses natural draft only"
+      },
+      "correct_answer": "A",
+      "question_number": 14,
+      "source": "B149.1-25 Section 3 Definitions"
+    },
+    {
+      "question_text": "What is a forced-draft burner?",
+      "options": {
+        "A": "A burner with air supplied to overcome burner resistance only",
+        "B": "A burner with air supplied at sufficient pressure to overcome resistance of both burner and appliance",
+        "C": "A burner not equipped with mechanical device",
+        "D": "A burner that relies on natural draft"
+      },
+      "correct_answer": "B",
+      "question_number": 15,
+      "source": "B149.1-25 Section 3 Definitions"
+    },
+    {
+      "question_text": "What is the definition of 'certified' with respect to an appliance?",
+      "options": {
+        "A": "Approved by the authority having jurisdiction",
+        "B": "Investigated and identified by a designated testing organization as conforming to recognized standards",
+        "C": "Manufactured according to company standards",
+        "D": "Inspected by the gas utility"
+      },
+      "correct_answer": "B",
+      "question_number": 16,
+      "source": "B149.1-25 Section 3 Definitions"
+    },
+    {
+      "question_text": "What is a factory-built chimney?",
+      "options": {
+        "A": "A chimney of brick or stone constructed on site",
+        "B": "A single-wall metal chimney constructed on site",
+        "C": "A chimney consisting entirely of factory-made parts designed to be assembled without site fabrication",
+        "D": "Any chimney built in a factory setting"
+      },
+      "correct_answer": "C",
+      "question_number": 17,
+      "source": "B149.1-25 Section 3 Definitions"
+    },
+    {
+      "question_text": "What is the definition of 'combustible' material?",
+      "options": {
+        "A": "Any material that can burn",
+        "B": "Material that fails to conform to CAN/ULC-S114 requirements for non-combustibility",
+        "C": "Material with a specific heat rating",
+        "D": "Any organic material"
+      },
+      "correct_answer": "B",
+      "question_number": 18,
+      "source": "B149.1-25 Section 3 Definitions"
+    },
+    {
+      "question_text": "What is concealed piping or tubing?",
+      "options": {
+        "A": "Piping that passes through a wall or partition",
+        "B": "Piping hidden from view in a finished building and can only be exposed by use of a tool",
+        "C": "Piping located underground",
+        "D": "Piping covered by insulation"
+      },
+      "correct_answer": "B",
+      "question_number": 19,
+      "source": "B149.1-25 Section 3 Definitions"
+    },
+    {
+      "question_text": "What is delivery pressure?",
+      "options": {
+        "A": "The inlet gas pressure to the appliance",
+        "B": "The outlet gas pressure from the service regulator for natural gas or second stage propane regulator",
+        "C": "The pressure in the distribution system",
+        "D": "The pressure at the main burner"
+      },
+      "correct_answer": "B",
+      "question_number": 20,
+      "source": "B149.1-25 Section 3 Definitions"
+    },
+    {
+      "question_text": "What is design pressure?",
+      "options": {
+        "A": "The minimum pressure a system can handle",
+        "B": "The average operating pressure",
+        "C": "The maximum inlet pressure a gas piping system is capable and intended to continuously sustain under normal conditions",
+        "D": "The pressure at the appliance inlet"
+      },
+      "correct_answer": "C",
+      "question_number": 21,
+      "source": "B149.1-25 Section 3 Definitions"
+    },
+    {
+      "question_text": "What is a direct-fired appliance?",
+      "options": {
+        "A": "An appliance where combustion products are intermixed with the medium being heated",
+        "B": "An appliance where combustion products are not mixed with the medium being heated",
+        "C": "An appliance with direct venting to outdoors",
+        "D": "An appliance with a sealed combustion chamber"
+      },
+      "correct_answer": "A",
+      "question_number": 22,
+      "source": "B149.1-25 Section 3 Definitions"
+    },
+    {
+      "question_text": "What is an indirect-fired appliance?",
+      "options": {
+        "A": "An appliance where flue gases are mixed with the medium being heated",
+        "B": "An appliance where combustion products or flue gases are not mixed within the appliance with the medium being heated",
+        "C": "An appliance that requires indirect venting",
+        "D": "An appliance with an indirect ignition system"
+      },
+      "correct_answer": "B",
+      "question_number": 23,
+      "source": "B149.1-25 Section 3 Definitions"
+    },
+    {
+      "question_text": "What is natural draft?",
+      "options": {
+        "A": "Draft produced by a fan or blower",
+        "B": "Draft produced upstream from the combustion zone",
+        "C": "A draft other than a mechanical draft",
+        "D": "Draft produced by a mechanical aspirator"
+      },
+      "correct_answer": "C",
+      "question_number": 24,
+      "source": "B149.1-25 Section 3 Definitions"
+    },
+    {
+      "question_text": "What is a drip pocket?",
+      "options": {
+        "A": "A pocket designed for collection of dirt",
+        "B": "A pocket in a piping system designed for collection of condensate",
+        "C": "A pocket for collecting debris",
+        "D": "A safety relief pocket"
+      },
+      "correct_answer": "B",
+      "question_number": 25,
+      "source": "B149.1-25 Section 3 Definitions"
+    },
+    {
+      "question_text": "What is a dwelling unit?",
+      "options": {
+        "A": "Any residential building",
+        "B": "A housekeeping unit used as a domicile containing cooking, eating, living, sleeping, and sanitary facilities",
+        "C": "Any building with sleeping accommodation",
+        "D": "A single room used for living"
+      },
+      "correct_answer": "B",
+      "question_number": 26,
+      "source": "B149.1-25 Section 3 Definitions"
+    },
+    {
+      "question_text": "What is a fan-assisted combustion system?",
+      "options": {
+        "A": "An appliance with natural draft enhanced by a fan",
+        "B": "An appliance equipped with integral mechanical means to draw or force products of combustion through combustion chamber and/or heat exchanger",
+        "C": "An appliance with a draft hood and fan",
+        "D": "An appliance with external mechanical draft"
+      },
+      "correct_answer": "B",
+      "question_number": 27,
+      "source": "B149.1-25 Section 3 Definitions"
+    },
+    {
+      "question_text": "What is a flue collar?",
+      "options": {
+        "A": "The portion of an appliance designed for attachment of a draft hood, vent connector, or venting system",
+        "B": "A collar used to seal the flue pipe",
+        "C": "A decorative collar around the flue",
+        "D": "A safety device on the flue pipe"
+      },
+      "correct_answer": "A",
+      "question_number": 28,
+      "source": "B149.1-25 Section 3 Definitions"
+    },
+    {
+      "question_text": "What is an automatic flue damper?",
+      "options": {
+        "A": "A damper that must be manually adjusted",
+        "B": "A flue damper designed to fully open before ignition and interlocked to close gas supply or fall fully open upon loss of driving medium",
+        "C": "A damper that partially closes during operation",
+        "D": "A damper that operates only when the appliance is off"
+      },
+      "correct_answer": "B",
+      "question_number": 29,
+      "source": "B149.1-25 Section 3 Definitions"
+    },
+    {
+      "question_text": "What is a gas connector?",
+      "options": {
+        "A": "Any pipe connecting gas supply to appliance",
+        "B": "A factory-fabricated assembly consisting of gas conduit and fittings designed to convey fuel from supply piping to appliance gas inlet",
+        "C": "A flexible hose only",
+        "D": "A rigid pipe connection only"
+      },
+      "correct_answer": "B",
+      "question_number": 30,
+      "source": "B149.1-25 Section 3 Definitions"
+    },
+    {
+      "question_text": "What is a gas convenience outlet?",
+      "options": {
+        "A": "A simple shut-off valve",
+        "B": "A permanently mounted hand-operated device with integral manually operated gas valve and thermal shut-off",
+        "C": "A quick disconnect fitting",
+        "D": "An automatic gas valve"
+      },
+      "correct_answer": "B",
+      "question_number": 31,
+      "source": "B149.1-25 Section 3 Definitions"
+    },
+    {
+      "question_text": "What is a heat reclaimer?",
+      "options": {
+        "A": "A device to reclaim heat from combustion air",
+        "B": "A device installed externally or internally to a venting system to extract heat from flue gases",
+        "C": "A secondary heat exchanger",
+        "D": "A device to reclaim condensate"
+      },
+      "correct_answer": "B",
+      "question_number": 32,
+      "source": "B149.1-25 Section 3 Definitions"
+    },
+    {
+      "question_text": "What is a construction heater?",
+      "options": {
+        "A": "A permanent heating system for buildings",
+        "B": "A portable heater intended only for temporary use in heating buildings under construction, alteration, or repair",
+        "C": "A heater designed for outdoor use only",
+        "D": "A high-efficiency heater"
+      },
+      "correct_answer": "B",
+      "question_number": 33,
+      "source": "B149.1-25 Section 3 Definitions"
+    },
+    {
+      "question_text": "What is interrupted ignition?",
+      "options": {
+        "A": "A source of ignition that continues during the entire period that flame is present",
+        "B": "A source of ignition that ceases to function after the trial-for-ignition period",
+        "C": "An ignition source that operates continuously",
+        "D": "An ignition source that requires manual activation"
+      },
+      "correct_answer": "B",
+      "question_number": 34,
+      "source": "B149.1-25 Section 3 Definitions"
+    },
+    {
+      "question_text": "What is a lock-up regulator?",
+      "options": {
+        "A": "A regulator that locks in a fixed position",
+        "B": "A feature of a pressure regulator capable of maintaining reduced outlet pressure when fuel flow condition is static",
+        "C": "A regulator that requires a key to adjust",
+        "D": "A regulator that automatically shuts off"
+      },
+      "correct_answer": "B",
+      "question_number": 35,
+      "source": "B149.1-25 Section 3 Definitions"
+    },
+    {
+      "question_text": "What is a lubricated-plug-type valve?",
+      "options": {
+        "A": "Any valve with lubrication",
+        "B": "A manually operated valve of plug and barrel type with means for maintaining lubricant between bearing surfaces",
+        "C": "An automatic valve with lubrication",
+        "D": "A ball valve with oil"
+      },
+      "correct_answer": "B",
+      "question_number": 36,
+      "source": "B149.1-25 Section 3 Definitions"
+    },
+    {
+      "question_text": "What is maximum operating pressure?",
+      "options": {
+        "A": "The normal operating pressure",
+        "B": "The maximum pressure to which any component or portion of the fuel system can be subjected",
+        "C": "The design pressure of the system",
+        "D": "The delivery pressure to the appliance"
+      },
+      "correct_answer": "B",
+      "question_number": 37,
+      "source": "B149.1-25 Section 3 Definitions"
+    },
+    {
+      "question_text": "What is a mobile home?",
+      "options": {
+        "A": "Any moveable structure",
+        "B": "A dwelling consisting of a vehicular portable structure built on a chassis designed for use with or without permanent foundation",
+        "C": "A recreational vehicle",
+        "D": "A temporary shelter"
+      },
+      "correct_answer": "B",
+      "question_number": 38,
+      "source": "B149.1-25 Section 3 Definitions"
+    },
+    {
+      "question_text": "What is an operating control?",
+      "options": {
+        "A": "A safety device",
+        "B": "A control used to regulate or control the normal operation of an appliance",
+        "C": "An emergency shut-off",
+        "D": "A manual override switch"
+      },
+      "correct_answer": "B",
+      "question_number": 39,
+      "source": "B149.1-25 Section 3 Definitions"
+    },
+    {
+      "question_text": "What is a monitoring regulator?",
+      "options": {
+        "A": "A regulator that displays pressure readings",
+        "B": "An overpressure protection device that functions as a second gas pressure regulator in series with the primary regulator",
+        "C": "A regulator that monitors gas flow",
+        "D": "A regulator with electronic monitoring"
+      },
+      "correct_answer": "B",
+      "question_number": 40,
+      "source": "B149.1-25 Section 3 Definitions"
+    },
+    {
+      "question_text": "What is an overpressure shut-off device?",
+      "options": {
+        "A": "A device that relieves excess pressure",
+        "B": "A device that monitors pressure",
+        "C": "An overpressure protection device that functions by completely shutting off the flow of gas into the downstream system",
+        "D": "A device that regulates pressure"
+      },
+      "correct_answer": "C",
+      "question_number": 41,
+      "source": "B149.1-25 Section 3 Definitions"
+    },
+    {
+      "question_text": "What is a proved pilot?",
+      "options": {
+        "A": "A pilot that has been tested and certified",
+        "B": "A pilot flame supervised by a primary safety control that senses presence of pilot prior to gas being admitted to main burner",
+        "C": "A pilot that burns continuously",
+        "D": "A pilot with high reliability"
+      },
+      "correct_answer": "B",
+      "question_number": 42,
+      "source": "B149.1-25 Section 3 Definitions"
+    },
+    {
+      "question_text": "What is a power venter?",
+      "options": {
+        "A": "A built-in fan in the appliance",
+        "B": "A field-installed device that provides mechanical draft located between appliance flue outlet and vent termination",
+        "C": "A natural draft enhancer",
+        "D": "A combustion air blower"
+      },
+      "correct_answer": "B",
+      "question_number": 43,
+      "source": "B149.1-25 Section 3 Definitions"
+    },
+    {
+      "question_text": "What is a service regulator?",
+      "options": {
+        "A": "A regulator on the appliance",
+        "B": "A regulator for servicing purposes",
+        "C": "A pressure regulator installed on a service line to control the pressure of gas delivered to the customer",
+        "D": "A temporary regulator"
+      },
+      "correct_answer": "C",
+      "question_number": 44,
+      "source": "B149.1-25 Section 3 Definitions"
+    },
+    {
+      "question_text": "What is a quick-disconnect device?",
+      "options": {
+        "A": "Any quick connection fitting",
+        "B": "A hand-operated device for connecting/disconnecting with automatic shut-off when disconnected, certified to CSA/ANSI 221.41/CSA 6.9",
+        "C": "A push-to-connect fitting",
+        "D": "A threaded connection"
+      },
+      "correct_answer": "B",
+      "question_number": 45,
+      "source": "B149.1-25 Section 3 Definitions"
+    },
+    {
+      "question_text": "What does 'readily accessible' mean?",
+      "options": {
+        "A": "Within reach with a ladder",
+        "B": "In a convenient location",
+        "C": "Capable of being reached quickly without climbing over obstacles, removal of obstacles, or use of portable ladder",
+        "D": "Visible from a distance"
+      },
+      "correct_answer": "C",
+      "question_number": 46,
+      "source": "B149.1-25 Section 3 Definitions"
+    },
+    {
+      "question_text": "What is a safety shut-off valve?",
+      "options": {
+        "A": "Any manually operated shut-off valve",
+        "B": "A valve that automatically shuts off gas supply when de-energized by a combustion safety control or loss of actuating medium",
+        "C": "A valve at the meter",
+        "D": "An emergency shut-off valve"
+      },
+      "correct_answer": "B",
+      "question_number": 47,
+      "source": "B149.1-25 Section 3 Definitions"
+    },
+    {
+      "question_text": "What is a Type B vent?",
+      "options": {
+        "A": "A metal chimney",
+        "B": "A vent complying with CAN/ULC-S605 consisting of factory-made parts for venting gas appliances",
+        "C": "A masonry chimney",
+        "D": "A flexible vent pipe"
+      },
+      "correct_answer": "B",
+      "question_number": 48,
+      "source": "B149.1-25 Section 3 Definitions"
+    },
+    {
+      "question_text": "What is a vent connector?",
+      "options": {
+        "A": "The entire venting system",
+        "B": "That part of venting system that conducts flue gases from flue collar of appliance to chimney or vent",
+        "C": "A connection fitting only",
+        "D": "The termination of the vent"
+      },
+      "correct_answer": "B",
+      "question_number": 49,
+      "source": "B149.1-25 Section 3 Definitions"
+    },
+    {
+      "question_text": "What is a special venting system?",
+      "options": {
+        "A": "Any custom-made venting system",
+        "B": "A venting system certified with the appliance and supplied or specified by the appliance manufacturer",
+        "C": "A venting system for special applications",
+        "D": "An oversized venting system"
+      },
+      "correct_answer": "B",
+      "question_number": 50,
+      "source": "B149.1-25 Section 3 Definitions"
+    }
+  ]
+}

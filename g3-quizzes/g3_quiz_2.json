@@ -1,0 +1,55 @@
+{
+  "exam_id": "g3_quiz_2",
+  "exam_name": "CSA_GasTrade-Ed7_Quiz_u04-ch1",
+  "topic": "Unit 4 - Codes & Standards",
+  "exam_type": "unit_quiz",
+  "question_count": 4,
+  "source_file": "CSA_GasTrade-Ed7_Quiz_u04-ch1.docx",
+  "questions": [
+    {
+      "question_number": 1,
+      "question_text": "Which of the following describes a continuous pilot?",
+      "options": {
+        "A": "One- and two-family dwellings and row housing = 2 psi (14kPa)",
+        "B": "Residential (other than one- and two-family dwellings and row housing) = 5 psig (35 kPa) or 20 psig (140 kPa)",
+        "C": "Hotels and motels = 5 psig (35 kPa) or 20 psig (140 kPa)",
+        "D": "Care or detention and assembly buildings = 5 psig (35 kPa) or 20 psig (140 kPa)"
+      },
+      "correct_answer": null,
+      "source_file": "CSA_GasTrade-Ed7_Quiz_u04-ch1.docx"
+    },
+    {
+      "question_number": 2,
+      "question_text": "Where can you determine the volume of gas to be used for sizing pipe systems to an appliance?",
+      "options": {
+        "A": "Above = 1 inch (25 mm)",
+        "B": "Front = 24 inches (600 mm)",
+        "C": "Back and sides = 6 inches (150 mm)"
+      },
+      "correct_answer": null,
+      "source_file": "CSA_GasTrade-Ed7_Quiz_u04-ch1.docx"
+    },
+    {
+      "question_number": 3,
+      "question_text": "When piping is extended from one building to another, where must the shut-off valves be located?",
+      "options": {
+        "A": "Above = 1 inch (25 mm)",
+        "B": "Front = 24 inches (600 mm)",
+        "C": "Back and sides = 6 inches (150 mm)"
+      },
+      "correct_answer": null,
+      "source_file": "CSA_GasTrade-Ed7_Quiz_u04-ch1.docx"
+    },
+    {
+      "question_number": 4,
+      "question_text": "Match the minimum clearance is required for each side of a swimming pool heater and the combustible material?",
+      "options": {
+        "A": "Vertical = 18 inches (450 mm)",
+        "B": "Sides and rear = 18 inches (450 mm)",
+        "C": "Front = 48 inches (1200 mm)"
+      },
+      "correct_answer": null,
+      "source_file": "CSA_GasTrade-Ed7_Quiz_u04-ch1.docx"
+    }
+  ]
+}

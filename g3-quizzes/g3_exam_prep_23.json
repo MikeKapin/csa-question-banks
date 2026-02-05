@@ -1,0 +1,792 @@
+{
+  "exam_id": "g3_exam_prep_23",
+  "exam_name": "GAS TECH 3 LEVEL 2 Review - JUNE 2017",
+  "topic": "TSSA G3 Exam Prep",
+  "exam_type": "unit_quiz",
+  "question_count": 69,
+  "source_file": "GAS TECH 3 LEVEL 2 Review - JUNE 2017.docx",
+  "questions": [
+    {
+      "question_number": 1,
+      "question_text": "Name: _________________________________",
+      "options": {
+        "A": "Hot            A\t                B\tC",
+        "B": "Neutral\t  E\t D",
+        "C": "Diagram #1"
+      },
+      "correct_answer": null,
+      "source_file": "GAS TECH 3 LEVEL 2 Review - JUNE 2017.docx"
+    },
+    {
+      "question_number": 2,
+      "question_text": "The above electrical diagram is a?",
+      "options": {
+        "A": "Series circuit",
+        "B": "Parallel Circuit",
+        "C": "Series-Parallel circuit",
+        "D": "Capacitive circuit"
+      },
+      "correct_answer": null,
+      "source_file": "GAS TECH 3 LEVEL 2 Review - JUNE 2017.docx"
+    },
+    {
+      "question_number": 3,
+      "question_text": "In diagram 1 if each light bulb is 4 Ohms what would the total resistance of the circuit be?",
+      "options": {
+        "A": "4 ohms",
+        "B": "8 ohms",
+        "C": "12 ohms",
+        "D": "16 ohms"
+      },
+      "correct_answer": null,
+      "source_file": "GAS TECH 3 LEVEL 2 Review - JUNE 2017.docx"
+    },
+    {
+      "question_number": 4,
+      "question_text": "In diagram 1 if all 4 light bulbs are 60 watt, and the supply voltage is 120 volts, how many volts would be expected at point A with the switch closed?",
+      "options": {
+        "A": "30 volts",
+        "B": "60 volts",
+        "C": "90 volts",
+        "D": "120 volts"
+      },
+      "correct_answer": null,
+      "source_file": "GAS TECH 3 LEVEL 2 Review - JUNE 2017.docx"
+    },
+    {
+      "question_number": 5,
+      "question_text": "In diagram 1 if all 4 light bulbs are 60 watt, and the supply voltage is 120 volts, how many volts would be expected at point B with the switch closed?",
+      "options": {
+        "A": "30 volts",
+        "B": "60 volts",
+        "C": "90 volts",
+        "D": "120 volts"
+      },
+      "correct_answer": null,
+      "source_file": "GAS TECH 3 LEVEL 2 Review - JUNE 2017.docx"
+    },
+    {
+      "question_number": 6,
+      "question_text": "In diagram 1 if all 4 light bulbs are 60 watt, and the supply voltage is 120 volts, how many volts would be expected at point C with the switch closed?",
+      "options": {
+        "A": "30 volts",
+        "B": "60 volts",
+        "C": "90 volts",
+        "D": "120 volts"
+      },
+      "correct_answer": null,
+      "source_file": "GAS TECH 3 LEVEL 2 Review - JUNE 2017.docx"
+    },
+    {
+      "question_number": 7,
+      "question_text": "In diagram 1 if all 4 light bulbs are 60 watt, and the supply voltage is 120 volts, how many volts would be expected at point D with the switch closed?",
+      "options": {
+        "A": "0 volts",
+        "B": "30 volts",
+        "C": "60 volts",
+        "D": "120 volts"
+      },
+      "correct_answer": null,
+      "source_file": "GAS TECH 3 LEVEL 2 Review - JUNE 2017.docx"
+    },
+    {
+      "question_number": 8,
+      "question_text": "In diagram 1 if all 4 light bulbs are 60 watt, and the supply voltage is 120 volts, how many volts would be expected at point E with the switch closed?",
+      "options": {
+        "A": "0 volts",
+        "B": "30 volts",
+        "C": "60 volts",
+        "D": "120 volts"
+      },
+      "correct_answer": null,
+      "source_file": "GAS TECH 3 LEVEL 2 Review - JUNE 2017.docx"
+    },
+    {
+      "question_number": 9,
+      "question_text": "The voltage drop across a 24 volt “closed” switch should be?",
+      "options": {
+        "A": "0 volts",
+        "B": "24 volts",
+        "C": "120 volts",
+        "D": "240 volts"
+      },
+      "correct_answer": null,
+      "source_file": "GAS TECH 3 LEVEL 2 Review - JUNE 2017.docx"
+    },
+    {
+      "question_number": 10,
+      "question_text": "The voltage drop across a 120 volt “open” switch should be?",
+      "options": {
+        "A": "0 volts",
+        "B": "24 volts",
+        "C": "120 volts",
+        "D": "240 volts"
+      },
+      "correct_answer": null,
+      "source_file": "GAS TECH 3 LEVEL 2 Review - JUNE 2017.docx"
+    },
+    {
+      "question_number": 11,
+      "question_text": "In diagram 2 if all 4 light bulbs are 60 watt, and the supply voltage is 120 volts, how many volts would be expected at point A with the switch open?",
+      "options": {
+        "A": "0 volts",
+        "B": "30 volts",
+        "C": "60 volts",
+        "D": "120 volts"
+      },
+      "correct_answer": null,
+      "source_file": "GAS TECH 3 LEVEL 2 Review - JUNE 2017.docx"
+    },
+    {
+      "question_number": 12,
+      "question_text": "In diagram 2 if all 4 light bulbs are 60 watt, and the supply voltage is 240 volts, how many volts would be expected at point B with the switch closed?",
+      "options": {
+        "A": "60 volts",
+        "B": "120 volts",
+        "C": "180 volts",
+        "D": "240 volts"
+      },
+      "correct_answer": null,
+      "source_file": "GAS TECH 3 LEVEL 2 Review - JUNE 2017.docx"
+    },
+    {
+      "question_number": 13,
+      "question_text": "In diagram 2 if all 4 light bulbs are 100 watt, and the supply voltage is 120 volts, how many volts would be expected at point E with the switch closed?",
+      "options": {
+        "A": "0 volts",
+        "B": "30 volts",
+        "C": "60 volts",
+        "D": "120 volt"
+      },
+      "correct_answer": null,
+      "source_file": "GAS TECH 3 LEVEL 2 Review - JUNE 2017.docx"
+    },
+    {
+      "question_number": 14,
+      "question_text": "In diagram 3 if each light bulb is 10 ohms, what would Rt be if the switch was closed?",
+      "options": {
+        "A": "0 ohms",
+        "B": "10 ohms"
+      },
+      "correct_answer": null,
+      "source_file": "GAS TECH 3 LEVEL 2 Review - JUNE 2017.docx"
+    },
+    {
+      "question_number": 15,
+      "question_text": "5 ohms",
+      "options": {
+        "A": "40 ohms",
+        "B": "In diagram 3 if each light bulb draws 120 volts how many volts should there be at point A and M with the switch open",
+        "C": "0 volts",
+        "D": "1 volts"
+      },
+      "correct_answer": null,
+      "source_file": "GAS TECH 3 LEVEL 2 Review - JUNE 2017.docx"
+    },
+    {
+      "question_number": 16,
+      "question_text": "In diagram 3 if supply voltage is 120 volts, how many volts to ground would you have at point A with the switch open?",
+      "options": {
+        "A": "0 volts",
+        "B": "30 volts",
+        "C": "60 volts",
+        "D": "90 volts"
+      },
+      "correct_answer": null,
+      "source_file": "GAS TECH 3 LEVEL 2 Review - JUNE 2017.docx"
+    },
+    {
+      "question_number": 17,
+      "question_text": "In diagram 3 how many volts to ground would you have at point B with the switch open?",
+      "options": {
+        "A": "0 volts",
+        "B": "30 volts",
+        "C": "60 volts",
+        "D": "90 volts"
+      },
+      "correct_answer": null,
+      "source_file": "GAS TECH 3 LEVEL 2 Review - JUNE 2017.docx"
+    },
+    {
+      "question_number": 18,
+      "question_text": "In diagram 3 how many volts to ground would you have at point C with the switch open?",
+      "options": {
+        "A": "0 volts",
+        "B": "30 volts",
+        "C": "60 volts",
+        "D": "90 volts"
+      },
+      "correct_answer": null,
+      "source_file": "GAS TECH 3 LEVEL 2 Review - JUNE 2017.docx"
+    },
+    {
+      "question_number": 19,
+      "question_text": "In diagram 3 how many volts to ground would you have at point D with the switch open?",
+      "options": {
+        "A": "0 volts",
+        "B": "30 volts",
+        "C": "60 volts",
+        "D": "90 volts"
+      },
+      "correct_answer": null,
+      "source_file": "GAS TECH 3 LEVEL 2 Review - JUNE 2017.docx"
+    },
+    {
+      "question_number": 20,
+      "question_text": "In diagram 3 how many volts to ground would you have at point E with the switch open?",
+      "options": {
+        "A": "0 volts",
+        "B": "30 volts",
+        "C": "60 volts",
+        "D": "90 volts"
+      },
+      "correct_answer": null,
+      "source_file": "GAS TECH 3 LEVEL 2 Review - JUNE 2017.docx"
+    },
+    {
+      "question_number": 21,
+      "question_text": "In diagram 3 how many volts to ground would you have at point F with the switch open?",
+      "options": {
+        "A": "0 volts",
+        "B": "30 volts",
+        "C": "60 volts",
+        "D": "90 volts"
+      },
+      "correct_answer": null,
+      "source_file": "GAS TECH 3 LEVEL 2 Review - JUNE 2017.docx"
+    },
+    {
+      "question_number": 22,
+      "question_text": "In diagram 3 how many volts to ground would you have at point G with the switch open?",
+      "options": {
+        "A": "0 volts",
+        "B": "30 volts",
+        "C": "60 volts",
+        "D": "90 volts"
+      },
+      "correct_answer": null,
+      "source_file": "GAS TECH 3 LEVEL 2 Review - JUNE 2017.docx"
+    },
+    {
+      "question_number": 23,
+      "question_text": "In diagram 3 how many volts to ground would you have at point H with the switch open?",
+      "options": {
+        "A": "0 volts",
+        "B": "30 volts",
+        "C": "60 volts",
+        "D": "90 volts"
+      },
+      "correct_answer": null,
+      "source_file": "GAS TECH 3 LEVEL 2 Review - JUNE 2017.docx"
+    },
+    {
+      "question_number": 24,
+      "question_text": "In diagram 3 how many volts to ground would you have at point I with the switch open?",
+      "options": {
+        "A": "0 volts",
+        "B": "30 volts",
+        "C": "60 volts",
+        "D": "90 volts"
+      },
+      "correct_answer": null,
+      "source_file": "GAS TECH 3 LEVEL 2 Review - JUNE 2017.docx"
+    },
+    {
+      "question_number": 25,
+      "question_text": "In diagram 3 how many volts to ground would you have at point J with the switch open?",
+      "options": {
+        "A": "0 volts",
+        "B": "30 volts",
+        "C": "60 volts",
+        "D": "90 volts"
+      },
+      "correct_answer": null,
+      "source_file": "GAS TECH 3 LEVEL 2 Review - JUNE 2017.docx"
+    },
+    {
+      "question_number": 26,
+      "question_text": "In diagram 3 how many volts to ground would you have at point K with the switch open?",
+      "options": {
+        "A": "0 volts",
+        "B": "30 volts",
+        "C": "60 volts",
+        "D": "90 volts"
+      },
+      "correct_answer": null,
+      "source_file": "GAS TECH 3 LEVEL 2 Review - JUNE 2017.docx"
+    },
+    {
+      "question_number": 27,
+      "question_text": "In diagram 3 how many volts to ground would you have at point L with the switch open?",
+      "options": {
+        "A": "0 volts",
+        "B": "30 volts",
+        "C": "60 volts",
+        "D": "90 volts"
+      },
+      "correct_answer": null,
+      "source_file": "GAS TECH 3 LEVEL 2 Review - JUNE 2017.docx"
+    },
+    {
+      "question_number": 28,
+      "question_text": "In diagram 3 how many volts to ground would you have at point M with the switch open?",
+      "options": {
+        "A": "0 volts",
+        "B": "30 volts",
+        "C": "60 volts",
+        "D": "90 volts"
+      },
+      "correct_answer": null,
+      "source_file": "GAS TECH 3 LEVEL 2 Review - JUNE 2017.docx"
+    },
+    {
+      "question_number": 29,
+      "question_text": "What is the total resistance of a 3 resistors in parallel, one 20 ohm, one 30 ohm, one 40 ohm?",
+      "options": {},
+      "correct_answer": null,
+      "source_file": "GAS TECH 3 LEVEL 2 Review - JUNE 2017.docx"
+    },
+    {
+      "question_number": 30,
+      "question_text": "What is the total resistance of a 3 resistors in series, one 10 ohm, one 15 ohm, one 20 ohm?",
+      "options": {},
+      "correct_answer": null,
+      "source_file": "GAS TECH 3 LEVEL 2 Review - JUNE 2017.docx"
+    },
+    {
+      "question_number": 31,
+      "question_text": "45 ohms",
+      "options": {
+        "A": "45 ohms",
+        "B": "90 ohms"
+      },
+      "correct_answer": null,
+      "source_file": "GAS TECH 3 LEVEL 2 Review - JUNE 2017.docx"
+    },
+    {
+      "question_number": 32,
+      "question_text": "If voltage remains constant and resistance doubles, what happens to the amperage?",
+      "options": {
+        "A": "Amperage goes down",
+        "B": "Amperage goes up",
+        "C": "Amperage remains the same",
+        "D": "Amperage drops to zero"
+      },
+      "correct_answer": null,
+      "source_file": "GAS TECH 3 LEVEL 2 Review - JUNE 2017.docx"
+    },
+    {
+      "question_number": 33,
+      "question_text": "On a step down transformer, which side has more wire windings?",
+      "options": {
+        "A": "primary",
+        "B": "secondary",
+        "C": "they have the same number of windings",
+        "D": "all of the above"
+      },
+      "correct_answer": null,
+      "source_file": "GAS TECH 3 LEVEL 2 Review - JUNE 2017.docx"
+    },
+    {
+      "question_number": 34,
+      "question_text": "What is a capacitors job?",
+      "options": {
+        "A": "to increase load amps",
+        "B": "to decrease load amps and increase starting torque",
+        "C": "to store energy",
+        "D": "none of the above"
+      },
+      "correct_answer": null,
+      "source_file": "GAS TECH 3 LEVEL 2 Review - JUNE 2017.docx"
+    },
+    {
+      "question_number": 35,
+      "question_text": "How is copper tubing size determined?",
+      "options": {
+        "A": "inner diameter",
+        "B": "outer diameter",
+        "C": "by measuring it",
+        "D": "by reading the label"
+      },
+      "correct_answer": null,
+      "source_file": "GAS TECH 3 LEVEL 2 Review - JUNE 2017.docx"
+    },
+    {
+      "question_number": 36,
+      "question_text": "How is iron pipe size determined?",
+      "options": {
+        "A": "inner diameter",
+        "B": "outer diameter",
+        "C": "by measuring it",
+        "D": "by reading the label"
+      },
+      "correct_answer": null,
+      "source_file": "GAS TECH 3 LEVEL 2 Review - JUNE 2017.docx"
+    },
+    {
+      "question_number": 37,
+      "question_text": "What is the minimum dirt pocket size?",
+      "options": {
+        "A": "2 inches",
+        "B": "3 inches",
+        "C": "3 inches or the same as piping diameter, whichever is greater.",
+        "D": "4 inches"
+      },
+      "correct_answer": null,
+      "source_file": "GAS TECH 3 LEVEL 2 Review - JUNE 2017.docx"
+    },
+    {
+      "question_number": 38,
+      "question_text": "Burried underground piping should be how deep below grade?",
+      "options": {
+        "A": "15 inches",
+        "B": "18 inches",
+        "C": "24 inches",
+        "D": "30 inches"
+      },
+      "correct_answer": null,
+      "source_file": "GAS TECH 3 LEVEL 2 Review - JUNE 2017.docx"
+    },
+    {
+      "question_number": 39,
+      "question_text": "What is the maximum allowable spacing for 3/4\" horizontal tubing supports?",
+      "options": {
+        "A": "2 feet",
+        "B": "6 feet",
+        "C": "8 feet",
+        "D": "15 feet"
+      },
+      "correct_answer": null,
+      "source_file": "GAS TECH 3 LEVEL 2 Review - JUNE 2017.docx"
+    },
+    {
+      "question_number": 40,
+      "question_text": "Piping of NPS 2-1/2\" and over shall have what type of joints?",
+      "options": {
+        "A": "threaded pipe joints",
+        "B": "compression pipe joints",
+        "C": "welded pipe joints",
+        "D": "twist on pipe joints"
+      },
+      "correct_answer": null,
+      "source_file": "GAS TECH 3 LEVEL 2 Review - JUNE 2017.docx"
+    },
+    {
+      "question_number": 41,
+      "question_text": "Piping under a commercial driveway or parking lot must be what depth?",
+      "options": {
+        "A": "15 inches",
+        "B": "18 inches",
+        "C": "20 inches",
+        "D": "24 inches"
+      },
+      "correct_answer": null,
+      "source_file": "GAS TECH 3 LEVEL 2 Review - JUNE 2017.docx"
+    },
+    {
+      "question_number": 42,
+      "question_text": "Manual shut off valves shall be of what type?",
+      "options": {
+        "A": "ball",
+        "B": "plug",
+        "C": "eccentric",
+        "D": "all of the above"
+      },
+      "correct_answer": null,
+      "source_file": "GAS TECH 3 LEVEL 2 Review - JUNE 2017.docx"
+    },
+    {
+      "question_number": 43,
+      "question_text": "What is the longest run?",
+      "options": {
+        "A": "90 feet",
+        "B": "95 feet",
+        "C": "110 feet",
+        "D": "100 feet"
+      },
+      "correct_answer": null,
+      "source_file": "GAS TECH 3 LEVEL 2 Review - JUNE 2017.docx"
+    },
+    {
+      "question_number": 44,
+      "question_text": "What is the piping system total btu/h?",
+      "options": {
+        "A": "350,000 Btuh",
+        "B": "970,000 Btuh",
+        "C": "975,000 Btuh",
+        "D": "1,000,000 Btuh"
+      },
+      "correct_answer": null,
+      "source_file": "GAS TECH 3 LEVEL 2 Review - JUNE 2017.docx"
+    },
+    {
+      "question_number": 45,
+      "question_text": "What is the correct pipe size for section A?",
+      "options": {
+        "A": "1 inch",
+        "B": "2 inch",
+        "C": "2-1/2 inch",
+        "D": "3 inch"
+      },
+      "correct_answer": null,
+      "source_file": "GAS TECH 3 LEVEL 2 Review - JUNE 2017.docx"
+    },
+    {
+      "question_number": 46,
+      "question_text": "What is the correct pipe size for section B?",
+      "options": {
+        "A": "1 inch",
+        "B": "2 inch",
+        "C": "2-1/2 inch",
+        "D": "3/4 inch"
+      },
+      "correct_answer": null,
+      "source_file": "GAS TECH 3 LEVEL 2 Review - JUNE 2017.docx"
+    },
+    {
+      "question_number": 47,
+      "question_text": "What is the correct pipe size for section C?",
+      "options": {
+        "A": "1 inch",
+        "B": "1-1/2 inch",
+        "C": "2 inch",
+        "D": "2-1/2 inch"
+      },
+      "correct_answer": null,
+      "source_file": "GAS TECH 3 LEVEL 2 Review - JUNE 2017.docx"
+    },
+    {
+      "question_number": 48,
+      "question_text": "What is the correct pipe size for section D?",
+      "options": {
+        "A": "3/4 inch",
+        "B": "1 inch",
+        "C": "1-1/4 inch",
+        "D": "1-1/2 inch"
+      },
+      "correct_answer": null,
+      "source_file": "GAS TECH 3 LEVEL 2 Review - JUNE 2017.docx"
+    },
+    {
+      "question_number": 49,
+      "question_text": "What is the correct pipe size for section E?",
+      "options": {
+        "A": "3/4 inch",
+        "B": "1 inch",
+        "C": "1-1/4 inch",
+        "D": "1-1/2 inch"
+      },
+      "correct_answer": null,
+      "source_file": "GAS TECH 3 LEVEL 2 Review - JUNE 2017.docx"
+    },
+    {
+      "question_number": 50,
+      "question_text": "What is the correct pipe size for section F?",
+      "options": {
+        "A": "3/4 inch",
+        "B": "1 inch",
+        "C": "1-1/4 inch",
+        "D": "1-1/2 inch"
+      },
+      "correct_answer": null,
+      "source_file": "GAS TECH 3 LEVEL 2 Review - JUNE 2017.docx"
+    },
+    {
+      "question_number": 51,
+      "question_text": "What is the correct pipe size for section G?",
+      "options": {
+        "A": "3/4 inch",
+        "B": "1 inch",
+        "C": "1-1/4 inch",
+        "D": "1-1/2 inch"
+      },
+      "correct_answer": null,
+      "source_file": "GAS TECH 3 LEVEL 2 Review - JUNE 2017.docx"
+    },
+    {
+      "question_number": 52,
+      "question_text": "What pipe sizing charts would you use for propane systems?",
+      "options": {
+        "A": "A",
+        "B": "B",
+        "C": "C",
+        "D": "D"
+      },
+      "correct_answer": null,
+      "source_file": "GAS TECH 3 LEVEL 2 Review - JUNE 2017.docx"
+    },
+    {
+      "question_number": 53,
+      "question_text": "Can a quick disconnect be used in place of a manual shut off valve?",
+      "options": {
+        "A": "No",
+        "B": "Yes"
+      },
+      "correct_answer": null,
+      "source_file": "GAS TECH 3 LEVEL 2 Review - JUNE 2017.docx"
+    },
+    {
+      "question_number": 54,
+      "question_text": "What code clause would pertain  to the above question?",
+      "options": {},
+      "correct_answer": null,
+      "source_file": "GAS TECH 3 LEVEL 2 Review - JUNE 2017.docx"
+    },
+    {
+      "question_number": 55,
+      "question_text": "Which code applies to gas connectors?",
+      "options": {},
+      "correct_answer": null,
+      "source_file": "GAS TECH 3 LEVEL 2 Review - JUNE 2017.docx"
+    },
+    {
+      "question_number": 56,
+      "question_text": "What are the pressure test requirements for a dwelling unit with a working pressure of up to and including 2 psi with a piping or tubing length of less than 200 feet?",
+      "options": {
+        "A": "15 psi for 15 minutes",
+        "B": "15 psi for 60 minutes",
+        "C": "50 psi for 60 minutes",
+        "D": "soap and dial is sufficient"
+      },
+      "correct_answer": null,
+      "source_file": "GAS TECH 3 LEVEL 2 Review - JUNE 2017.docx"
+    },
+    {
+      "question_number": 57,
+      "question_text": "What clause is \"The person doing the purging shall stay in constant attendance.\"?",
+      "options": {},
+      "correct_answer": null,
+      "source_file": "GAS TECH 3 LEVEL 2 Review - JUNE 2017.docx"
+    },
+    {
+      "question_number": 58,
+      "question_text": "All natural gas piping systems shall be what for identification?",
+      "options": {
+        "A": "painted yellow",
+        "B": "banded yellow",
+        "C": "labeled as natural gas or propane",
+        "D": "all of the above"
+      },
+      "correct_answer": null,
+      "source_file": "GAS TECH 3 LEVEL 2 Review - JUNE 2017.docx"
+    },
+    {
+      "question_number": 59,
+      "question_text": "Power is represented by what ?",
+      "options": {
+        "A": "Watts",
+        "B": "Volts",
+        "C": "Amps",
+        "D": "Horsepower"
+      },
+      "correct_answer": null,
+      "source_file": "GAS TECH 3 LEVEL 2 Review - JUNE 2017.docx"
+    },
+    {
+      "question_number": 60,
+      "question_text": "How many Btuh's  does a  2kW electric heater produce?",
+      "options": {
+        "A": "6,827 btuh"
+      },
+      "correct_answer": null,
+      "source_file": "GAS TECH 3 LEVEL 2 Review - JUNE 2017.docx"
+    },
+    {
+      "question_number": 61,
+      "question_text": "59 btuh",
+      "options": {
+        "A": "6,827,103 btuh",
+        "B": "4,500 btuh"
+      },
+      "correct_answer": null,
+      "source_file": "GAS TECH 3 LEVEL 2 Review - JUNE 2017.docx"
+    },
+    {
+      "question_number": 62,
+      "question_text": "Can piping or tubing be installed in a false ceiling space, including one used as a return air plenum of a central warm air or air conditioning system?",
+      "options": {
+        "A": "yes",
+        "B": "no"
+      },
+      "correct_answer": null,
+      "source_file": "GAS TECH 3 LEVEL 2 Review - JUNE 2017.docx"
+    },
+    {
+      "question_number": 63,
+      "question_text": "What code clause specifies that the ends of all piping shall be reamed?",
+      "options": {},
+      "correct_answer": null,
+      "source_file": "GAS TECH 3 LEVEL 2 Review - JUNE 2017.docx"
+    },
+    {
+      "question_number": 64,
+      "question_text": "Can piping be supported by other piping or tubing?",
+      "options": {
+        "A": "yes",
+        "B": "no"
+      },
+      "correct_answer": null,
+      "source_file": "GAS TECH 3 LEVEL 2 Review - JUNE 2017.docx"
+    },
+    {
+      "question_number": 65,
+      "question_text": "What is the maximum spacing of supports for 3 inch NPS gas tubing run horizontally?",
+      "options": {
+        "A": "6 feet",
+        "B": "10 feet",
+        "C": "15 feet",
+        "D": "20 feet"
+      },
+      "correct_answer": null,
+      "source_file": "GAS TECH 3 LEVEL 2 Review - JUNE 2017.docx"
+    },
+    {
+      "question_number": 66,
+      "question_text": "When a filter is used in a piping system, where should the low pressure indicator be installed?",
+      "options": {
+        "A": "At the appliance",
+        "B": "upstream of the filter",
+        "C": "downstream of the filter",
+        "D": "downstream of the appliance"
+      },
+      "correct_answer": null,
+      "source_file": "GAS TECH 3 LEVEL 2 Review - JUNE 2017.docx"
+    },
+    {
+      "question_number": 67,
+      "question_text": "What must a bushing be hade of if changing 2 or more pipe sizes?",
+      "options": {
+        "A": "steel",
+        "B": "seamless copper",
+        "C": "steel or malleable iron",
+        "D": "all of the above"
+      },
+      "correct_answer": null,
+      "source_file": "GAS TECH 3 LEVEL 2 Review - JUNE 2017.docx"
+    },
+    {
+      "question_number": 68,
+      "question_text": "What must be obtained before beginning electrical work?",
+      "options": {
+        "A": "an electrical meter",
+        "B": "a padlock",
+        "C": "a permit",
+        "D": "an electrical code book"
+      },
+      "correct_answer": null,
+      "source_file": "GAS TECH 3 LEVEL 2 Review - JUNE 2017.docx"
+    },
+    {
+      "question_number": 69,
+      "question_text": "Methods of leak detection in piping systems are?",
+      "options": {
+        "A": "soap and dial test",
+        "B": "electric sniff meter test",
+        "C": "pressure test",
+        "D": "all of the above"
+      },
+      "correct_answer": null,
+      "source_file": "GAS TECH 3 LEVEL 2 Review - JUNE 2017.docx"
+    }
+  ]
+}

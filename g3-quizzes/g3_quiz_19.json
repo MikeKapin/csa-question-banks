@@ -1,0 +1,167 @@
+{
+  "exam_id": "g3_quiz_19",
+  "exam_name": "Flash Cards",
+  "topic": "General",
+  "exam_type": "unit_quiz",
+  "question_count": 14,
+  "source_file": "Flash Cards.docx",
+  "questions": [
+    {
+      "question_number": 1,
+      "question_text": "Q:  What do electrical drawings include?",
+      "options": {
+        "A": "A:  Supply Voltage, Internal Wiring, Field Wiring, Location of controls",
+        "B": "A:  Wiring diagrams"
+      },
+      "correct_answer": null,
+      "source_file": "Flash Cards.docx"
+    },
+    {
+      "question_number": 2,
+      "question_text": "Q:  To obtain a pressure reading in a U-tube water column the amount of water column displaced on the pressure side of the manomenter is added to what?",
+      "options": {
+        "A": "A:  Added to the amount displaced on the atmospheric side",
+        "B": "A:  The air that is mixed with gas prior to ignition",
+        "C": "A:  1.52"
+      },
+      "correct_answer": null,
+      "source_file": "Flash Cards.docx"
+    },
+    {
+      "question_number": 3,
+      "question_text": "Q:  What is the space ratio for converting propane from liquid to gas?",
+      "options": {
+        "A": "A:  270:1",
+        "B": "A:  Section 8",
+        "C": "A:  References",
+        "D": "A:  Scope"
+      },
+      "correct_answer": null,
+      "source_file": "Flash Cards.docx"
+    },
+    {
+      "question_number": 4,
+      "question_text": "Q:  What section in the code book is for Definitions?",
+      "options": {
+        "A": "A:  Section 3",
+        "B": "A:  British Thermal Unit"
+      },
+      "correct_answer": null,
+      "source_file": "Flash Cards.docx"
+    },
+    {
+      "question_number": 5,
+      "question_text": "Q:  Natural Gas / Propane in liquid states.  Does it occupy more or less space when converted to gas?",
+      "options": {
+        "A": "A:  More Space",
+        "B": "A:  Section 4",
+        "C": "A:  1/2 psig",
+        "D": "A: 1/4 psig"
+      },
+      "correct_answer": null,
+      "source_file": "Flash Cards.docx"
+    },
+    {
+      "question_number": 6,
+      "question_text": "Q:  What section in the code is for Pressure Controls?",
+      "options": {
+        "A": "A:  Section 5",
+        "B": "A:  211/01",
+        "C": "A:  212/01",
+        "D": "A:  TSSA"
+      },
+      "correct_answer": null,
+      "source_file": "Flash Cards.docx"
+    },
+    {
+      "question_number": 7,
+      "question_text": "Q:  Charts, graphs and tables are used in this trade.  What are they?",
+      "options": {
+        "A": "A:  Circle graph, bar graph, line graph and trouble shooting chart",
+        "B": "A:  920 F – 1020 F / 493 C – 549 C",
+        "C": "A:  Air that is mixed and added at the point of combustion and surrounds the flame",
+        "D": "A:  3600 F / 1927 C"
+      },
+      "correct_answer": null,
+      "source_file": "Flash Cards.docx"
+    },
+    {
+      "question_number": 8,
+      "question_text": "Q:  What is the lower explosive limit (LEL) of natural gas?",
+      "options": {
+        "A": "A:  4%",
+        "B": "A:  20% oxygen, 80% Nitrogen"
+      },
+      "correct_answer": null,
+      "source_file": "Flash Cards.docx"
+    },
+    {
+      "question_number": 9,
+      "question_text": "Q:  What is the specific gravity of liquid propane and is it heavier or lighter than water?",
+      "options": {
+        "A": "A:  0.51    and is lighter than water",
+        "B": "A:  Horizontal and virtical views at the same time",
+        "C": "A:  Assebly, Orthographic and Pictoral",
+        "D": "A: Methane, Ethane and Propane"
+      },
+      "correct_answer": null,
+      "source_file": "Flash Cards.docx"
+    },
+    {
+      "question_number": 10,
+      "question_text": "Q:  Orthographic drawings are what?",
+      "options": {
+        "A": "A:  Individual views of the front, rear, sides, top and bottom of an object.",
+        "B": "A:  How a system works.",
+        "C": "A:  3 dimensional objects on a 2 dimensional piece of paper.",
+        "D": "A:  Several sides at the same time."
+      },
+      "correct_answer": null,
+      "source_file": "Flash Cards.docx"
+    },
+    {
+      "question_number": 11,
+      "question_text": "Q:  What is the most commonly used pictoral drawing?",
+      "options": {
+        "A": "A:  Isometric drawings",
+        "B": "A:  Flow Rate X Heat Value       cfh X 1000 natural gas and cfh X 2500 propane"
+      },
+      "correct_answer": null,
+      "source_file": "Flash Cards.docx"
+    },
+    {
+      "question_number": 12,
+      "question_text": "Q:  How many PPM does it take to start noticing symptoms of carbon monoxide?",
+      "options": {
+        "A": "A:  200 ppm in a couple hours",
+        "B": "A:  85% - 90%",
+        "C": "A:  14.73 psia",
+        "D": "A:  Any air above the theoretical amount for perfect combustion"
+      },
+      "correct_answer": null,
+      "source_file": "Flash Cards.docx"
+    },
+    {
+      "question_number": 13,
+      "question_text": "Q:  Broken or dotted lines on a wiring diagram indicates?",
+      "options": {
+        "A": "A:  Field Wiring",
+        "B": "A:  Btu’s"
+      },
+      "correct_answer": null,
+      "source_file": "Flash Cards.docx"
+    },
+    {
+      "question_number": 14,
+      "question_text": "Q:  Most natural gas burners produce CO in what range?",
+      "options": {
+        "A": "A:  0 – 50 ppm",
+        "B": "A:  0.6",
+        "C": "A:  I.D.  Inner Diameter",
+        "D": "A:  Gas Code"
+      },
+      "correct_answer": null,
+      "source_file": "Flash Cards.docx"
+    }
+  ]
+}

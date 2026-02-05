@@ -1,0 +1,21 @@
+{
+  "exam_id": "g3_quiz_16",
+  "exam_name": "CSA_GasTrade-Ed7_Quiz_u09-ch2",
+  "topic": "Unit 9 - Gas Appliances",
+  "exam_type": "unit_quiz",
+  "question_count": 1,
+  "source_file": "CSA_GasTrade-Ed7_Quiz_u09-ch2.docx",
+  "questions": [
+    {
+      "question_number": 1,
+      "question_text": "What term is used to describe a burner flame that moves back through the burner nozzle?",
+      "options": {
+        "A": "______________ use a mechanical device to mix the required amounts of air and gas before ignition = Premix burners",
+        "B": "The ________________ uses air under pressure to entrain gas at atmospheric pressure = Aspirator type of burner",
+        "C": "The ________________ provides complete premixing with mechanical mixers = Blower-mix burner"
+      },
+      "correct_answer": null,
+      "source_file": "CSA_GasTrade-Ed7_Quiz_u09-ch2.docx"
+    }
+  ]
+}

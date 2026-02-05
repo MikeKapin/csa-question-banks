@@ -1,0 +1,22 @@
+{
+  "exam_id": "g3_quiz_10",
+  "exam_name": "CSA_GasTrade-Ed7_Quiz_u07-ch3",
+  "topic": "Unit 7 - Customer Relations",
+  "exam_type": "unit_quiz",
+  "question_count": 1,
+  "source_file": "CSA_GasTrade-Ed7_Quiz_u07-ch3.docx",
+  "questions": [
+    {
+      "question_number": 1,
+      "question_text": "What should be done after a customer’s problem has been solved and the work is complete?",
+      "options": {
+        "A": "Utilizing ___________ listening techniques assures the customer of your attentiveness to their problem = Effective",
+        "B": "_______________ to a customer’s remarks in a confident, serious, and professional manner indicates you understand the seriousness of their concerns = Responding",
+        "C": "Ensuring you do not display ________________ body language or speak to the customer in a detrimental manner shows your respect for him/her = Arrogant",
+        "D": "Listening for _____________ as well as facts assists the gas technician/fitter in assessing the urgency the customer has in having the problem resolved = Feelings"
+      },
+      "correct_answer": null,
+      "source_file": "CSA_GasTrade-Ed7_Quiz_u07-ch3.docx"
+    }
+  ]
+}

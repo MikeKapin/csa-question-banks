@@ -1,0 +1,22 @@
+{
+  "exam_id": "g3_quiz_9",
+  "exam_name": "CSA_GasTrade-Ed7_Quiz_u07-ch1",
+  "topic": "Unit 7 - Customer Relations",
+  "exam_type": "unit_quiz",
+  "question_count": 1,
+  "source_file": "CSA_GasTrade-Ed7_Quiz_u07-ch1.docx",
+  "questions": [
+    {
+      "question_number": 1,
+      "question_text": "Which of the following methods is used to project a professional attitude?",
+      "options": {
+        "A": "Establishing eye contact when talking, taking notes = Communication",
+        "B": "Eating or smoking on the customer’s premises = Workplace behaviour",
+        "C": "Being sympathetic to the customer’s problem = Communication",
+        "D": "Always wearing clothing that is clean, and that fits well = Appearance"
+      },
+      "correct_answer": null,
+      "source_file": "CSA_GasTrade-Ed7_Quiz_u07-ch1.docx"
+    }
+  ]
+}

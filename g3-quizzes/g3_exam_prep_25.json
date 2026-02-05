@@ -1,0 +1,118 @@
+{
+  "exam_id": "g3_exam_prep_25",
+  "exam_name": "QUIZ #3  TSSA Act",
+  "topic": "TSSA G3 Exam Prep",
+  "exam_type": "unit_quiz",
+  "question_count": 9,
+  "source_file": "QUIZ #3  TSSA Act.docx",
+  "questions": [
+    {
+      "question_number": 1,
+      "question_text": "When an appliance is installed on a roof, the clearance between the appliance and the edge of the roof or other hazard shall be at least?",
+      "options": {
+        "A": "3 feet",
+        "B": "5 feet",
+        "C": "6 feet",
+        "D": "10 feet"
+      },
+      "correct_answer": null,
+      "source_file": "QUIZ #3  TSSA Act.docx"
+    },
+    {
+      "question_number": 2,
+      "question_text": "For natural gas, threaded piping less than NPS ½ used in a piping system shall be?",
+      "options": {
+        "A": "Plastic pipe",
+        "B": "Copper tubing",
+        "C": "Schedule 40 black pipe",
+        "D": "Schedule 80 black pipe"
+      },
+      "correct_answer": null,
+      "source_file": "QUIZ #3  TSSA Act.docx"
+    },
+    {
+      "question_number": 3,
+      "question_text": "A gas connector shall?",
+      "options": {
+        "A": "Not pass through a floor, wall, ceiling or partition",
+        "B": "Not be used",
+        "C": "Not pass through an exterior wall",
+        "D": "Not be used on a suspended appliance"
+      },
+      "correct_answer": null,
+      "source_file": "QUIZ #3  TSSA Act.docx"
+    },
+    {
+      "question_number": 4,
+      "question_text": "A coil type boiler or water tube boiler having an input in excess of 400,000 Btu/hr requiring forced circulation to prevent overheating of the coils or tubes shall be equipped with a _______?",
+      "options": {
+        "A": "Internal check valve",
+        "B": "Flow sensing device",
+        "C": "High water cut off device",
+        "D": "Dual solenoid gas valve"
+      },
+      "correct_answer": null,
+      "source_file": "QUIZ #3  TSSA Act.docx"
+    },
+    {
+      "question_number": 5,
+      "question_text": "A moisture exhaust duct shall not terminate within _______feet in any direction of any pressure regulator vent termination or fresh air intake",
+      "options": {
+        "A": "2",
+        "B": "3",
+        "C": "4",
+        "D": "6"
+      },
+      "correct_answer": null,
+      "source_file": "QUIZ #3  TSSA Act.docx"
+    },
+    {
+      "question_number": 6,
+      "question_text": "A hotplate shall be connected with ____________  and secured to prevent movement",
+      "options": {
+        "A": "An approved gas connector",
+        "B": "Rigid piping",
+        "C": "Approved copper tubing",
+        "D": "Approved hotplate gas connector"
+      },
+      "correct_answer": null,
+      "source_file": "QUIZ #3  TSSA Act.docx"
+    },
+    {
+      "question_number": 7,
+      "question_text": "A type L vent may be used in lieu of a ____________ vent",
+      "options": {
+        "A": "Type B",
+        "B": "Type A",
+        "C": "Type BH",
+        "D": "Type BW"
+      },
+      "correct_answer": null,
+      "source_file": "QUIZ #3  TSSA Act.docx"
+    },
+    {
+      "question_number": 8,
+      "question_text": "A vent shall not terminate?",
+      "options": {
+        "A": "Less than 6 feet above a paved driveway or sidewalk located on public property",
+        "B": "Within 7 feet of a mechanical air supply inlet to any building",
+        "C": "Less than 10 feet above a paved driveway or sidewalk located on public property",
+        "D": "Within 6 feet of a mechanical air supply inlet to any building"
+      },
+      "correct_answer": null,
+      "source_file": "QUIZ #3  TSSA Act.docx"
+    },
+    {
+      "question_number": 9,
+      "question_text": "A power venter certified for use as an add on to a water heater may be used on a water heater that has an input of _________ Btu/hr or less",
+      "options": {
+        "A": "30,000",
+        "B": "40,000",
+        "C": "50,000",
+        "D": "60,000"
+      },
+      "correct_answer": null,
+      "source_file": "QUIZ #3  TSSA Act.docx"
+    }
+  ]
+}

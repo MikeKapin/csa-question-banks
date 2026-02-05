@@ -1,0 +1,22 @@
+{
+  "exam_id": "g3_quiz_7",
+  "exam_name": "CSA_GasTrade-Ed7_Quiz_u06-ch3",
+  "topic": "Unit 6 - Technical Manuals",
+  "exam_type": "unit_quiz",
+  "question_count": 1,
+  "source_file": "CSA_GasTrade-Ed7_Quiz_u06-ch3.docx",
+  "questions": [
+    {
+      "question_number": 1,
+      "question_text": "Which type of drawing uses separate, but related, two-dimensional views of an object?",
+      "options": {
+        "A": "A/An ____________ gives no regard to spatial considerations because only the parts and their functions are important in these drawings.  It does not show the actual size, shape, or location of components or devices within the system but rather emphasizes connections, functions, and flow = Schematic",
+        "B": "____________ visually represent pipes, fittings, valves, and other components, so they clearly illustrate and explain a piping system and how it operates = Lines and symbols",
+        "C": "Piping drawings can be either orthographic or ____________.  The latter often shows all the pieces in symbol form = Isometric",
+        "D": "A/An ______________ projection is a two-dimensional look at an object = Orthographic"
+      },
+      "correct_answer": null,
+      "source_file": "CSA_GasTrade-Ed7_Quiz_u06-ch3.docx"
+    }
+  ]
+}

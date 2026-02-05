@@ -1,0 +1,22 @@
+{
+  "exam_id": "g3_quiz_8",
+  "exam_name": "CSA_GasTrade-Ed7_Quiz_u06-ch4",
+  "topic": "Unit 6 - Technical Manuals",
+  "exam_type": "unit_quiz",
+  "question_count": 1,
+  "source_file": "CSA_GasTrade-Ed7_Quiz_u06-ch4.docx",
+  "questions": [
+    {
+      "question_number": 1,
+      "question_text": "Which of the following is not a general way graphs and charts are used?",
+      "options": {
+        "A": "________ charts/graphs are visual representations of numerical values = Bar",
+        "B": "________charts are also referred to as sector charts = Pie",
+        "C": "________charts are used to represent small numbers of plotted values and to make a simple comparison of two values along two axes = Bar",
+        "D": "________ are used to compare large numbers of values in a compact space, to calculate values that fall between the plotted points, and to compare trends = X-Y graphs"
+      },
+      "correct_answer": null,
+      "source_file": "CSA_GasTrade-Ed7_Quiz_u06-ch4.docx"
+    }
+  ]
+}

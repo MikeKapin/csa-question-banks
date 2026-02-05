@@ -1,0 +1,22 @@
+{
+  "exam_id": "g3_quiz_18",
+  "exam_name": "CSA_GasTrade-Ed7_Quiz_u09-ch4",
+  "topic": "Unit 9 - Gas Appliances",
+  "exam_type": "unit_quiz",
+  "question_count": 1,
+  "source_file": "CSA_GasTrade-Ed7_Quiz_u09-ch4.docx",
+  "questions": [
+    {
+      "question_number": 1,
+      "question_text": "What is the purpose of an operating aquastat?",
+      "options": {
+        "A": "Senses the operation of a circulating pump = Flow Switch",
+        "B": "A water temperature sensing device that will shut off the burner(s) if the temperature exceeds the desired operating range of the boiler or water heater = High temperature aquastat",
+        "C": "Shuts off the burner(s) in the event that the pressure in a boiler exceeds its desired operating range = High limit pressure switch",
+        "D": "Turns a steam boiler on and off to maintain a desired steam pressure = Operating pressure switch"
+      },
+      "correct_answer": null,
+      "source_file": "CSA_GasTrade-Ed7_Quiz_u09-ch4.docx"
+    }
+  ]
+}

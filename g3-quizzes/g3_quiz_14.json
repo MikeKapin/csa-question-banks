@@ -1,0 +1,21 @@
+{
+  "exam_id": "g3_quiz_14",
+  "exam_name": "CSA_GasTrade-Ed7_Quiz_u08-ch6",
+  "topic": "Unit 8 - Piping Systems",
+  "exam_type": "unit_quiz",
+  "question_count": 1,
+  "source_file": "CSA_GasTrade-Ed7_Quiz_u08-ch6.docx",
+  "questions": [
+    {
+      "question_number": 1,
+      "question_text": "Are fitting allowances for a specific diameter and type of fitting the same for all manufacturers?",
+      "options": {
+        "A": "A natural gas piping system operating at a pressure between 7 in w.c. and 14 in w.c. must not have a pressure drop greater than ________ w.c. = 1 inch",
+        "B": "The pressure drop in a propane gas piping system of 11 in w.c. must not exceed _______ w.c. = 1 inch",
+        "C": "Up to __________ w.c. is acceptable for a natural gas piping system operating at less than 7 in w.c. = 0.5 inch"
+      },
+      "correct_answer": null,
+      "source_file": "CSA_GasTrade-Ed7_Quiz_u08-ch6.docx"
+    }
+  ]
+}

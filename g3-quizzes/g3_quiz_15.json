@@ -1,0 +1,22 @@
+{
+  "exam_id": "g3_quiz_15",
+  "exam_name": "CSA_GasTrade-Ed7_Quiz_u09-ch1",
+  "topic": "Unit 9 - Gas Appliances",
+  "exam_type": "unit_quiz",
+  "question_count": 1,
+  "source_file": "CSA_GasTrade-Ed7_Quiz_u09-ch1.docx",
+  "questions": [
+    {
+      "question_number": 1,
+      "question_text": "What two products are produced by the complete combustion of natural gas or propane?",
+      "options": {
+        "A": "A double-acting ________________ swings in to regulate the stack draft and also swings out to relieve a down-draft into the room = Barometric damper",
+        "B": "Many domestic gas burners are of the atmospheric type and require a neutral over fire draft in the combustion chamber. _________________ maintains this neutral pressure over the fire = Draft hood",
+        "C": "A _______________ with a clay tile liner can be lined with a metallic liner system = Chimney",
+        "D": "A ______________ relies on the upward movement of hot gases = Natural draft vent"
+      },
+      "correct_answer": null,
+      "source_file": "CSA_GasTrade-Ed7_Quiz_u09-ch1.docx"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "exam_id": "g3_quiz_3",
+  "exam_name": "CSA_GasTrade-Ed7_Quiz_u04A-ch3",
+  "topic": "Unit 4 - Codes & Standards",
+  "exam_type": "unit_quiz",
+  "question_count": 1,
+  "source_file": "CSA_GasTrade-Ed7_Quiz_u04A-ch3.docx",
+  "questions": [
+    {
+      "question_number": 1,
+      "question_text": "What is one correct action that a holder of a certificate or ROT must take if he or she finds that an appliance is in an unacceptable condition but does not constitute an immediate hazard?",
+      "options": {
+        "A": "Direct supervision = Supervision by a supervising certificate holder who is on site in close proximity to a trainee and is available to assist and supervise the trainee",
+        "B": "General supervision = Supervision by a supervising certificate holder who may or may not be on site but who is readily available to assist a trainee"
+      },
+      "correct_answer": null,
+      "source_file": "CSA_GasTrade-Ed7_Quiz_u04A-ch3.docx"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "exam_id": "g3_quiz_4",
+  "exam_name": "CSA_GasTrade-Ed7_Quiz_u04A-ch4",
+  "topic": "Unit 4 - Codes & Standards",
+  "exam_type": "unit_quiz",
+  "question_count": 1,
+  "source_file": "CSA_GasTrade-Ed7_Quiz_u04A-ch4.docx",
+  "questions": [
+    {
+      "question_number": 1,
+      "question_text": "Are the provisions outlined in a CSA B149 Annex mandatory?",
+      "options": {
+        "A": "Indicates that you must meet all the requirements that a word links = And",
+        "B": "Indicates an advisory or optional statement = May",
+        "C": "Indicates that you must meet only one of the requirements that a word links = Or",
+        "D": "Indicates a mandatory requirement = Shall"
+      },
+      "correct_answer": null,
+      "source_file": "CSA_GasTrade-Ed7_Quiz_u04A-ch4.docx"
+    }
+  ]
+}

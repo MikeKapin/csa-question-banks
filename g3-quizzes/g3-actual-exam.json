@@ -1,0 +1,2304 @@
+{
+  "exam_id": "g3-actual-exam",
+  "exam_name": "G3 Actual Exam Questions",
+  "exam_type": "actual_exam",
+  "question_count": 165,
+  "description": "Comprehensive collection of actual G3 exam questions",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which of the following types of fire extinguishers should be used on electrical fires:",
+      "options": [
+        "Class A",
+        "Class B",
+        "Class C",
+        "Class D"
+      ],
+      "correct": 2,
+      "reasoning": "Class C fire extinguishers are specifically designed for electrical fires. They use non-conductive agents like CO2 or dry chemical to safely suppress fires involving energized electrical equipment without risk of electrical shock to the operator.",
+      "csaReference": "OHSA Fire Protection Standards; NFPA 10",
+      "notes": "Remember: Class A = ordinary combustibles, Class B = flammable liquids, Class C = electrical equipment, Class D = combustible metals"
+    },
+    {
+      "id": 2,
+      "question": "A Class D fire extinguisher:",
+      "options": [
+        "Is to be used on fires involving electrical equipment, such as appliances, wiring, circuit breakers and outlets.",
+        "Is to be used on fires involving combustible materials such as paper, wood, cardboard, and most plastics.",
+        "Is to be used on fires involving chemicals such as combustible metals, such as magnesium, titanium, potassium and sodium.",
+        "Is to be used on fires involving cooking oils, trans-fats, or fats in cooking appliances and are typically found in restaurant and cafeteria kitchens."
+      ],
+      "correct": 2,
+      "reasoning": "Class D fire extinguishers are specifically designed for combustible metal fires. These metals include magnesium, titanium, potassium, and sodium, which require special dry powder agents that smother the fire without reacting with the burning metal.",
+      "csaReference": "OHSA Fire Protection Standards; NFPA 10",
+      "notes": "Class K is for cooking oils and fats, not Class D"
+    },
+    {
+      "id": 3,
+      "question": "A Class C fire extinguisher:",
+      "options": [
+        "Is to be used on fires involving combustible materials such as paper, wood, cardboard, and most plastics.",
+        "Is to be used on fires involving electrical equipment, such as appliances, wiring, circuit breakers and outlets.",
+        "Is to be used on fires involving flammable or combustible liquids such as gasoline, kerosene, grease and oil",
+        "Is to be used on fires involving chemicals such as combustible metals, such as magnesium, titanium, potassium and sodium."
+      ],
+      "correct": 1,
+      "reasoning": "Class C fire extinguishers are designed for electrical fires involving equipment like appliances, wiring, circuit breakers, and outlets. They use non-conductive agents to prevent electrical shock during fire suppression.",
+      "csaReference": "OHSA Fire Protection Standards; NFPA 10",
+      "notes": "Always de-energize electrical equipment if safe to do so before fighting the fire"
+    },
+    {
+      "id": 4,
+      "question": "What does OHSA stand for:",
+      "options": [
+        "Ontario Health and Standards Act",
+        "Ontario Health and Safety Act",
+        "Occupational Health and Safety Act",
+        "Occupational Health and Standards Act"
+      ],
+      "correct": 2,
+      "reasoning": "OHSA stands for Occupational Health and Safety Act, which is the provincial legislation in Ontario that sets out the rights and duties of all parties in the workplace regarding health and safety.",
+      "csaReference": "Ontario Occupational Health and Safety Act, R.S.O. 1990",
+      "notes": "This is fundamental knowledge for all trades workers in Ontario"
+    },
+    {
+      "id": 5,
+      "question": "A Class B fire extinguisher:",
+      "options": [
+        "Is to be used on fires involving cooking oils, trans-fats, or fats in cooking appliances and are typically found in restaurant and cafeteria kitchens.",
+        "Is to be used on fires involving combustible materials such as paper, wood, cardboard, and most plastics.",
+        "Is to be used on fires involving chemicals such as combustible metals, such as magnesium, titanium, potassium and sodium.",
+        "Is to be used on fires involving flammable or combustible liquids such as gasoline, kerosene, grease and oil."
+      ],
+      "correct": 3,
+      "reasoning": "Class B fire extinguishers are designed for fires involving flammable and combustible liquids including gasoline, kerosene, grease, and oil. They work by removing oxygen or interrupting the chemical chain reaction of combustion.",
+      "csaReference": "OHSA Fire Protection Standards; NFPA 10",
+      "notes": "Common agents include CO2, dry chemical, and foam"
+    },
+    {
+      "id": 6,
+      "question": "A Class A fire extinguisher:",
+      "options": [
+        "Is to be used on fires involving chemicals such as combustible metals, such as magnesium, titanium, potassium and sodium.",
+        "Is to be used on fires involving combustible materials such as paper, wood, cardboard, and most plastics.",
+        "Is to be used on fires involving flammable or combustible liquids such as gasoline, kerosene, grease and oil.",
+        "Is to be used on fires involving cooking oils, trans-fats, or fats in cooking appliances and are typically found in restaurant and cafeteria kitchens."
+      ],
+      "correct": 1,
+      "reasoning": "Class A fire extinguishers are designed for ordinary combustibles like paper, wood, cardboard, cloth, and most plastics. These materials leave ash when burned, hence 'A' for 'Ash'.",
+      "csaReference": "OHSA Fire Protection Standards; NFPA 10",
+      "notes": "Water and foam extinguishers are common for Class A fires"
+    },
+    {
+      "id": 7,
+      "question": "Where should the nozzle of a fire extinguisher be pointed:",
+      "options": [
+        "at the base of the fire",
+        "at the centre of the fire",
+        "at the top of the fire",
+        "at the side of the fire"
+      ],
+      "correct": 0,
+      "reasoning": "The nozzle should be aimed at the base of the fire where the fuel source is located. This technique, part of the PASS method (Pull, Aim, Squeeze, Sweep), is most effective in extinguishing the fire by attacking its source.",
+      "csaReference": "OHSA Fire Safety Training Standards; NFPA 10",
+      "notes": "PASS method: Pull pin, Aim at base, Squeeze handle, Sweep side to side"
+    },
+    {
+      "id": 8,
+      "question": "Which of the following statements is true:",
+      "options": [
+        "workers do not have to wear hard hats on a job site, even if instructed not to do so by the employer",
+        "workers must wear the protective clothing that the employer instructs them to wear on the job site",
+        "workers do not have to be aware of the contents of the Occupational Health and Safety Act",
+        "unnecessary running or rough or boisterous conduct on job sites is NOT prohibited by the Occupational Health and Safety Act"
+      ],
+      "correct": 1,
+      "reasoning": "Under OHSA, workers have a legal obligation to wear protective equipment required by their employer. This is part of the worker's duties to protect their own health and safety and comply with the Act and regulations.",
+      "csaReference": "OHSA Section 28 - Duties of Workers",
+      "notes": "Workers must use/wear equipment, protective devices or clothing required by employer"
+    },
+    {
+      "id": 9,
+      "question": "An employer of a Gas Technician is:",
+      "options": [
+        "responsible for ensuring that technicians are appropriately certified",
+        "not responsible for ensuring that safety instruction is provided to workers",
+        "responsible for ensuring that workers arrive safely on the job site",
+        "responsible for providing all safety clothing to workers"
+      ],
+      "correct": 0,
+      "reasoning": "Employers must ensure that gas technicians hold valid certificates for the work they perform. This is a regulatory requirement under the Technical Standards and Safety Act and ensures only qualified personnel work on gas equipment.",
+      "csaReference": "O. Reg. 215/01 - Fuel Industry Certificates",
+      "notes": "Employers must verify certification before allowing work on gas equipment"
+    },
+    {
+      "id": 10,
+      "question": "Why should garbage and debris be removed from a job site:",
+      "options": [
+        "to present a neat appearance",
+        "to prevent possible slips, trips or falls",
+        "to reduce the possibility of tool loss in debris",
+        "to reduce the likelihood of rodents on the job site"
+      ],
+      "correct": 1,
+      "reasoning": "The primary safety reason for removing garbage and debris is to prevent slips, trips, and falls, which are among the most common workplace injuries. Good housekeeping is a fundamental safety practice required under OHSA.",
+      "csaReference": "OHSA General Regulations - Housekeeping Requirements",
+      "notes": "Slips, trips, and falls are leading causes of workplace injuries"
+    },
+    {
+      "id": 11,
+      "question": "How should an electric drill be disconnected:",
+      "options": [
+        "by pulling on the drill's cord",
+        "by pulling the plug at the outlet",
+        "by using a pair of insulated channel lock pliers",
+        "with the chuck key"
+      ],
+      "correct": 1,
+      "reasoning": "Electric tools should always be disconnected by grasping and pulling the plug at the outlet, not the cord. Pulling on the cord can damage the internal wiring and create electrical hazards.",
+      "csaReference": "Electrical Safety Code; OHSA Electrical Safety Standards",
+      "notes": "Never pull on the cord as it can damage the wire connections"
+    },
+    {
+      "id": 12,
+      "question": "Convert 40° C to Fahrenheit:",
+      "options": [
+        "4.04° F",
+        "40° F",
+        "94° F",
+        "104° F"
+      ],
+      "correct": 3,
+      "reasoning": "Using the formula °F = (°C × 9/5) + 32: (40 × 9/5) + 32 = 72 + 32 = 104°F. This is a basic conversion that gas technicians need to know for reading specifications and manuals.",
+      "csaReference": "Basic HVAC Mathematics",
+      "notes": "Formula: °F = (°C × 1.8) + 32"
+    },
+    {
+      "id": 13,
+      "question": "Sheathing on copper wire should be removed with:",
+      "options": [
+        "a knife",
+        "pliers",
+        "side cutters",
+        "a wire stripper"
+      ],
+      "correct": 3,
+      "reasoning": "Wire strippers are the proper tool for removing insulation from electrical wires as they are designed to strip the sheathing without damaging the conductor. Using improper tools can nick or damage the wire, creating weak points.",
+      "csaReference": "Electrical Code; Safe Work Practices",
+      "notes": "Wire strippers have gauged openings to prevent conductor damage"
+    },
+    {
+      "id": 14,
+      "question": "What type of fastener is used to join two electrical wires:",
+      "options": [
+        "electrical bonding clamp",
+        "BX connector",
+        "wire nut (marrette)",
+        "electrical tape"
+      ],
+      "correct": 2,
+      "reasoning": "Wire nuts (also called marrettes) are the standard approved method for joining electrical wires. They provide both mechanical connection and electrical insulation when properly installed.",
+      "csaReference": "Canadian Electrical Code",
+      "notes": "Wire nuts must be properly sized for the wire gauge and number of conductors"
+    },
+    {
+      "id": 15,
+      "question": "To determine the indicated gas pressure on a \"simple\" or traditional water-filled \"U\" tube manometer:",
+      "options": [
+        "read the amount of water column displaced on the pressure side",
+        "read the amount of water column displaced on the atmospheric side",
+        "read the amount of water column displaced on the pressure side and add it to the amount displaced on the atmospheric side",
+        "read the amount of water column displaced on the pressure side and subtract it from the amount displaced on the atmospheric side"
+      ],
+      "correct": 2,
+      "reasoning": "In a U-tube manometer, the pressure is determined by the total difference in water column height between both sides. You must add the displacement on the pressure side to the displacement on the atmospheric side to get the total pressure reading.",
+      "csaReference": "CSA B149.1 - Pressure Testing Requirements",
+      "notes": "Total pressure = rise on one side + drop on other side"
+    },
+    {
+      "id": 16,
+      "question": "A foot has ________ inches and a meter has ______ centimeters.",
+      "options": [
+        "12 inches, 100 centimeters",
+        "10 inches, 100 centimeters",
+        "100 inches, 12 centimeters",
+        "10 inches, 100 centimeters"
+      ],
+      "correct": 0,
+      "reasoning": "Basic units of measurement: 1 foot = 12 inches and 1 meter = 100 centimeters. These are fundamental conversions that gas technicians must know for reading specifications and performing calculations.",
+      "csaReference": "Basic Mathematics for Gas Technicians",
+      "notes": "Standard imperial and metric conversions"
+    },
+    {
+      "id": 17,
+      "question": "A reading of 7.0\" w.c. equals:",
+      "options": [
+        "1/4 psig. (1.72 kPa)",
+        "1/2 psig. (3.45 kPa)",
+        "3/4 psig. (5.17kPa)",
+        "1 psig. (6.9kPa)"
+      ],
+      "correct": 0,
+      "reasoning": "7 inches water column equals approximately 1/4 psig (1.72 kPa). The conversion factor is 27.7 inches w.c. = 1 psig, so 7 ÷ 27.7 = 0.25 psig.",
+      "csaReference": "CSA B149.1 - Pressure Conversions",
+      "notes": "27.7 inches w.c. = 1 psig; 1 inch w.c. = 249 Pa"
+    },
+    {
+      "id": 18,
+      "question": "The fastener used to connect a drain hose to a fan coil unit is:",
+      "options": [
+        "a gear clamp",
+        "copper bailing wire",
+        "electrical tape",
+        "a grappler bar"
+      ],
+      "correct": 0,
+      "reasoning": "Gear clamps (also known as hose clamps) are the proper fastener for securing flexible drain hoses to fan coil units. They provide adjustable, secure connections that can be tightened to prevent leaks.",
+      "csaReference": "HVAC Installation Standards",
+      "notes": "Gear clamps provide secure, adjustable connections for drain lines"
+    },
+    {
+      "id": 19,
+      "question": "Lag shield anchors are generally used to anchor fasteners into:",
+      "options": [
+        "steel",
+        "wood",
+        "plastic",
+        "concrete"
+      ],
+      "correct": 3,
+      "reasoning": "Lag shield anchors are expansion-type anchors specifically designed for use in concrete and masonry. They expand when a lag screw is tightened into them, creating a secure hold in the concrete.",
+      "csaReference": "Building Code; Fastener Standards",
+      "notes": "Also called lag shields or concrete anchors"
+    },
+    {
+      "id": 20,
+      "question": "What is the volume of a room measuring 16' x 12' x 7':",
+      "options": [
+        "84 square feet",
+        "192 cubic feet",
+        "1344 cubic feet",
+        "16,128 square feet"
+      ],
+      "correct": 2,
+      "reasoning": "Volume = length × width × height = 16' × 12' × 7' = 1,344 cubic feet. Volume is always expressed in cubic units, not square units.",
+      "csaReference": "Basic Mathematics for HVAC",
+      "notes": "Volume calculations are essential for combustion air requirements"
+    },
+    {
+      "id": 21,
+      "question": "When propane changes from a liquid to a vapour, it expands and its volume increases by:",
+      "options": [
+        "5 times",
+        "17 times",
+        "185 times",
+        "270 times"
+      ],
+      "correct": 3,
+      "reasoning": "Propane expands approximately 270 times its liquid volume when it vaporizes. This significant expansion ratio is why propane tanks must never be overfilled and why proper relief valves are critical.",
+      "csaReference": "CSA B149.2 - Propane Storage and Handling Code",
+      "notes": "1 gallon of liquid propane = 270 gallons of vapor"
+    },
+    {
+      "id": 22,
+      "question": "The flame temperature of propane is approximately:",
+      "options": [
+        "1500°F (816°C)",
+        "1500°C (2732°F)",
+        "3650°F (2010°C)",
+        "3650°C (6602°F)"
+      ],
+      "correct": 2,
+      "reasoning": "Propane burns at approximately 3,650°F (2,010°C) in air. This high flame temperature makes propane suitable for many heating and industrial applications.",
+      "csaReference": "Gas Technician Reference Manual - Fuel Properties",
+      "notes": "Propane flame is hotter than natural gas (3,500°F)"
+    },
+    {
+      "id": 23,
+      "question": "The heat content of 1 cubic foot of natural gas is approximately:",
+      "options": [
+        "1,000 Btu",
+        "2,520 Btu",
+        "10,000 Btu",
+        "25,000 Btu"
+      ],
+      "correct": 0,
+      "reasoning": "Natural gas has approximately 1,000 BTU per cubic foot. This is the standard value used for sizing calculations and appliance input ratings in the gas industry.",
+      "csaReference": "CSA B149.1 - Natural Gas Properties",
+      "notes": "Exact value varies by gas composition but 1,000 BTU/ft³ is standard"
+    },
+    {
+      "id": 24,
+      "question": "What theoretical gas to air ratio is necessary to achieve perfect combustion with an atmospheric natural gas burner:",
+      "options": [
+        "1 part of natural gas to 10 parts of air",
+        "5 parts of natural gas to 5 parts of air",
+        "5 parts of natural gas to 15 parts of air",
+        "20 parts of natural gas to 1 part of air"
+      ],
+      "correct": 0,
+      "reasoning": "Natural gas requires approximately 10 parts of air to 1 part of gas for complete combustion (10:1 ratio). This provides the stoichiometric mixture for perfect combustion.",
+      "csaReference": "Gas Technician Training - Combustion Theory",
+      "notes": "Actual installations use excess air for safety (12-15:1)"
+    },
+    {
+      "id": 25,
+      "question": "What is the approximate ignition temperature of natural gas:",
+      "options": [
+        "800° F (427° C)",
+        "1300° F (704° C)",
+        "2100° F (1149° C)",
+        "3000° F (1649° C)"
+      ],
+      "correct": 1,
+      "reasoning": "Natural gas has an ignition temperature of approximately 1,300°F (704°C). This is the minimum temperature required to ignite a natural gas-air mixture.",
+      "csaReference": "Gas Technician Reference Manual - Fuel Properties",
+      "notes": "Higher than propane (920-1020°F) ignition temperature"
+    },
+    {
+      "id": 26,
+      "question": "When cylinders are being transported, they shall be secured:",
+      "options": [
+        "vertically with chains and straps and a relief valve, in a well-ventilated space",
+        "in an upright position with chains and straps and a relief valve, in a well-ventilated space",
+        "in an upright position, in a well-ventilated location with the relief valve communicating with the vapour space only",
+        "in an upright position, in a well-ventilated location with the relief valve communicating with the liquid space only"
+      ],
+      "correct": 2,
+      "reasoning": "Propane cylinders must be transported upright in a well-ventilated location with the relief valve communicating with the vapor space only. This ensures the relief valve releases vapor, not liquid, if activated.",
+      "csaReference": "CSA B149.2; Transport Canada Regulations",
+      "notes": "Relief valve must be in vapor space to function properly"
+    },
+    {
+      "id": 27,
+      "question": "Two undesirable products of incomplete combustion are:",
+      "options": [
+        "CO and aldehydes",
+        "CO and N2",
+        "CO2 and aldehydes",
+        "CO and heat"
+      ],
+      "correct": 0,
+      "reasoning": "Carbon monoxide (CO) and aldehydes are both toxic products of incomplete combustion. These form when there is insufficient oxygen for complete combustion and are serious health hazards.",
+      "csaReference": "Gas Technician Training - Combustion Theory",
+      "notes": "CO is odorless, colorless, and deadly; aldehydes cause eye irritation"
+    },
+    {
+      "id": 28,
+      "question": "Air that is mixed with fuel prior to ignition is called:",
+      "options": [
+        "primary air",
+        "secondary air",
+        "excess air",
+        "theoretical air"
+      ],
+      "correct": 0,
+      "reasoning": "Primary air is the air that mixes with the gas before combustion occurs, typically drawn in through the venturi of an atmospheric burner. This pre-mixing is essential for proper combustion.",
+      "csaReference": "Gas Technician Training - Burner Theory",
+      "notes": "Secondary air is supplied around the flame after ignition"
+    },
+    {
+      "id": 29,
+      "question": "Carbon monoxide is a product of:",
+      "options": [
+        "perfect combustion",
+        "complete combustion with excess air present",
+        "incomplete combustion",
+        "incomplete mixing of primary air and secondary air"
+      ],
+      "correct": 2,
+      "reasoning": "Carbon monoxide (CO) is produced during incomplete combustion when there is insufficient oxygen to fully oxidize the carbon in the fuel to carbon dioxide (CO2).",
+      "csaReference": "Gas Technician Training - Combustion Products",
+      "notes": "CO indicates combustion problems requiring immediate attention"
+    },
+    {
+      "id": 30,
+      "question": "The ignition temperature of propane is in the range of:",
+      "options": [
+        "920° F - 1020° F (493° C - 549° C)",
+        "920° C - 1020° C (1688° F - 1868° F)",
+        "1210° F - 1260° F (654° C - 682° C)",
+        "1210° C - 1260° C (2210° F - 2300° F)"
+      ],
+      "correct": 0,
+      "reasoning": "Propane has an ignition temperature range of 920°F to 1020°F (493°C to 549°C). This is lower than natural gas, making propane somewhat easier to ignite.",
+      "csaReference": "CSA B149.2 - Propane Properties",
+      "notes": "Lower ignition temperature than natural gas (1300°F)"
+    },
+    {
+      "id": 31,
+      "question": "The flame temperature of natural gas is approximately:",
+      "options": [
+        "2500° F (1371° C)",
+        "2500° C (4532° F)",
+        "3500° F (1927° C)",
+        "3500° C (6332° F)"
+      ],
+      "correct": 2,
+      "reasoning": "Natural gas burns at approximately 3,500°F (1,927°C) in air. This is slightly cooler than propane but still hot enough for all residential and commercial heating applications.",
+      "csaReference": "Gas Technician Reference Manual - Fuel Properties",
+      "notes": "Slightly cooler than propane flame (3,650°F)"
+    },
+    {
+      "id": 32,
+      "question": "A luminous flame is caused by:",
+      "options": [
+        "premixing air and fuel prior to combustion",
+        "not premixing air and fuel prior to combustion",
+        "a low ignition temperature",
+        "the presence of carbon monoxide"
+      ],
+      "correct": 1,
+      "reasoning": "A luminous (yellow) flame occurs when air and fuel are not premixed before combustion. The lack of primary air causes incomplete combustion, producing carbon particles that glow yellow.",
+      "csaReference": "Gas Technician Training - Flame Characteristics",
+      "notes": "Luminous flames indicate insufficient primary air"
+    },
+    {
+      "id": 33,
+      "question": "The odourant added to natural gas and propane for detection purposes is:",
+      "options": [
+        "sulphur",
+        "mustard",
+        "carbon dioxide",
+        "mercaptan"
+      ],
+      "correct": 3,
+      "reasoning": "Mercaptan is the odorant added to natural gas and propane to give them their distinctive 'rotten egg' smell. This allows for detection of gas leaks since both gases are naturally odorless.",
+      "csaReference": "CSA B149.1 - Gas Properties and Safety",
+      "notes": "Added at ~1 pound per million cubic feet"
+    },
+    {
+      "id": 34,
+      "question": "Which of the following are symptoms of carbon monoxide poisoning:",
+      "options": [
+        "headaches, nausea",
+        "dizziness, confusion",
+        "rapid heart rate, death",
+        "all of the listed choices"
+      ],
+      "correct": 3,
+      "reasoning": "All listed symptoms are associated with carbon monoxide poisoning. CO binds to hemoglobin preventing oxygen transport, causing headaches, nausea, dizziness, confusion, rapid heart rate, and can be fatal.",
+      "csaReference": "Gas Safety Training - CO Hazards",
+      "notes": "CO detectors required near all sleeping areas"
+    },
+    {
+      "id": 35,
+      "question": "The relative density of propane in a liquid state is approximately:",
+      "options": [
+        "0.5",
+        "1.0",
+        "1.5",
+        "2.0"
+      ],
+      "correct": 0,
+      "reasoning": "Liquid propane has a relative density of approximately 0.5 (specific gravity compared to water). This means liquid propane is about half as dense as water and will float on water.",
+      "csaReference": "CSA B149.2 - Propane Properties",
+      "notes": "Liquid propane is lighter than water but vapor is heavier than air"
+    },
+    {
+      "id": 36,
+      "question": "The specific gravity of propane is:",
+      "options": [
+        "0.6",
+        "1",
+        "1.52",
+        "3.5"
+      ],
+      "correct": 2,
+      "reasoning": "Propane vapor has a specific gravity of 1.52 relative to air. This means propane is heavier than air and will settle in low areas, creating potential hazards in basements or pits.",
+      "csaReference": "CSA B149.2 - Propane Properties",
+      "notes": "Being heavier than air, propane settles in low areas"
+    },
+    {
+      "id": 37,
+      "question": "Natural gas and propane are composed mainly of:",
+      "options": [
+        "carbon and nitrogen",
+        "carbon and hydrogen",
+        "carbon monoxide and nitrogen",
+        "carbon dioxide and hydrogen"
+      ],
+      "correct": 1,
+      "reasoning": "Natural gas (primarily methane CH4) and propane (C3H8) are hydrocarbons composed mainly of carbon and hydrogen atoms. These are the fuel elements that combust to produce heat.",
+      "csaReference": "Gas Technician Training - Fuel Chemistry",
+      "notes": "Hydrocarbons: compounds of hydrogen and carbon"
+    },
+    {
+      "id": 38,
+      "question": "At 60° F (15.5° C) one pound of liquid propane will produce ______ cubic feet of vapour.",
+      "options": [
+        "2.12",
+        "4.30",
+        "8.50",
+        "10.10"
+      ],
+      "correct": 2,
+      "reasoning": "One pound of liquid propane produces approximately 8.5 cubic feet of vapor at standard conditions (60°F). This expansion ratio is important for understanding propane system capacity.",
+      "csaReference": "CSA B149.2 - Propane Properties",
+      "notes": "1 gallon liquid = 36.5 ft³ vapor; 1 pound = 8.5 ft³"
+    },
+    {
+      "id": 39,
+      "question": "Which of the following are characteristics of carbon monoxide:",
+      "options": [
+        "colourless, tasteless",
+        "odorless, combustible",
+        "lighter than air and extremely toxic",
+        "all of the listed choices"
+      ],
+      "correct": 3,
+      "reasoning": "Carbon monoxide has all these characteristics: it's colorless, tasteless, odorless, combustible, slightly lighter than air (specific gravity 0.97), and extremely toxic.",
+      "csaReference": "Gas Safety Training - CO Properties",
+      "notes": "CO is called the 'silent killer' due to these properties"
+    },
+    {
+      "id": 40,
+      "question": "Air is approximately:",
+      "options": [
+        "50% nitrogen and 50% oxygen",
+        "60% nitrogen and 40% oxygen",
+        "70% nitrogen and 30% oxygen",
+        "80% nitrogen and 20% oxygen"
+      ],
+      "correct": 3,
+      "reasoning": "Air is approximately 78% nitrogen and 21% oxygen (roughly 80/20), with the remaining 1% being other gases. This ratio is important for combustion calculations.",
+      "csaReference": "Gas Technician Training - Combustion Air",
+      "notes": "Actual: 78% N2, 21% O2, 1% other gases"
+    },
+    {
+      "id": 41,
+      "question": "Is the holder of a valid G.2 certificate certified to work on the carburation system of a propane powered highway vehicle:",
+      "options": [
+        "yes",
+        "no",
+        "yes, but only up to the fuel lock-off",
+        "no, unless under the direct supervision of a Class \"A\" mechanic"
+      ],
+      "correct": 1,
+      "reasoning": "No, G.2 certificate holders are not certified to work on propane vehicle carburation systems. This requires specific automotive propane certification separate from stationary equipment certification.",
+      "csaReference": "O. Reg. 215/01 - Fuel Industry Certificates",
+      "notes": "Vehicle propane systems require separate certification"
+    },
+    {
+      "id": 42,
+      "question": "Which of the following observations is true:",
+      "options": [
+        "appliances must be installed with a minimum 24 inches (600 mm) clearance on any side(s) where service is required",
+        "appliances must be installed with a minimum 24 inches (600 mm) clearance on every side",
+        "appliances installed outdoors must have a minimum 36 inches (600 mm) service clearance to the burner access panel only",
+        "appliances must be installed with a minimum 36 inches (1 m) clearance on the side(s) where service is required"
+      ],
+      "correct": 0,
+      "reasoning": "Appliances must have a minimum 24 inches (600 mm) clearance on sides where service access is required. This ensures adequate space for maintenance and repairs.",
+      "csaReference": "CSA B149.1-25, Clause 8.2",
+      "notes": "Service clearance is different from combustible clearance"
+    },
+    {
+      "id": 43,
+      "question": "In the case of a fuel related accident, the Director shall:",
+      "options": [
+        "order an appropriate investigation",
+        "supply medical assistance for all injuries",
+        "prepare a cost estimate for the damages",
+        "check the victim's drivers license and proof of insurance"
+      ],
+      "correct": 0,
+      "reasoning": "The Director has the authority and responsibility to order an appropriate investigation into fuel-related accidents to determine causes and prevent future occurrences.",
+      "csaReference": "Technical Standards and Safety Act, 2000",
+      "notes": "Director's role is investigative and regulatory, not medical"
+    },
+    {
+      "id": 44,
+      "question": "The holder of a G.1 certificate is permitted to work:",
+      "options": [
+        "only on appliances with inputs under 200,000 Btuh",
+        "only on appliances with inputs up to 400,000 Btuh",
+        "only on appliances with inputs from 400,000 Btuh, to 1,000,000 Btuh",
+        "on appliances with any input or heat output phase"
+      ],
+      "correct": 3,
+      "reasoning": "G.1 certificate holders can work on appliances of any input rating. G.1 is the highest level of gas technician certification with no input limitations.",
+      "csaReference": "O. Reg. 215/01 - Fuel Industry Certificates",
+      "notes": "G.1 = unlimited, G.2 = up to 400,000 BTU/hr, G.3 = activation only"
+    },
+    {
+      "id": 45,
+      "question": "What is the expression for the maximum pressure to which any component or portion of the fuel system can be subjected:",
+      "options": [
+        "maximum operating pressure",
+        "ultimate stress pressure",
+        "relief pressure",
+        "maximum working pressure"
+      ],
+      "correct": 3,
+      "reasoning": "Maximum working pressure (MWP) is the correct term for the maximum pressure rating of fuel system components. This is the highest pressure the component can safely handle under normal operation.",
+      "csaReference": "CSA B149.1-25 - Definitions",
+      "notes": "Components must be rated for MWP of the system"
+    },
+    {
+      "id": 46,
+      "question": "An interrupted ignition source:",
+      "options": [
+        "continues to function during the entire period that the flame is present",
+        "ceases to function after a trial for ignition period",
+        "always functions, regardless if there is a call for heat",
+        "is manually activated"
+      ],
+      "correct": 1,
+      "reasoning": "An interrupted ignition source operates only during the trial for ignition period and then shuts off once the main flame is established. This differs from continuous ignition which operates constantly.",
+      "csaReference": "CSA B149.1-25 - Ignition Systems",
+      "notes": "Saves energy compared to continuous pilot systems"
+    },
+    {
+      "id": 47,
+      "question": "Any contractor operating under the Gaseous Fuels Regulation is required to:",
+      "options": [
+        "register as a contractor",
+        "inform all employees to comply with the Act and regulations",
+        "monitor all employees to ensure that they comply with the Act and regulations",
+        "All of the available choices"
+      ],
+      "correct": 3,
+      "reasoning": "Contractors must register, inform employees of requirements, and monitor compliance with the Act and regulations. All these responsibilities are mandatory for contractors working with gaseous fuels.",
+      "csaReference": "O. Reg. 215/01 - Contractor Requirements",
+      "notes": "Contractors have comprehensive compliance obligations"
+    },
+    {
+      "id": 48,
+      "question": "If an Inspector under the Technical Standards and Safety Act issues an order, or if a Director under the Technical Standards and Safety Act refuses to renew a licence, registration or certificate, there is no means of appealing or changing the order or decision.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct": 1,
+      "reasoning": "False. The Technical Standards and Safety Act provides appeal mechanisms for orders and decisions. Appeals can be made to the Director and ultimately to the Divisional Court.",
+      "csaReference": "Technical Standards and Safety Act, 2000 - Appeals",
+      "notes": "Appeal rights are fundamental to due process"
+    },
+    {
+      "id": 49,
+      "question": "Who is responsible for ensuring at the time of installation that there is a proper and adequate venting and air supply for an appliance:",
+      "options": [
+        "the installer",
+        "the gas distributor",
+        "the owner",
+        "the local inspector"
+      ],
+      "correct": 0,
+      "reasoning": "The installer is responsible for ensuring proper venting and air supply at the time of installation. This is a critical safety requirement that must be verified before putting any appliance into service.",
+      "csaReference": "CSA B149.1-25, Section 8 - Venting and Air Supply",
+      "notes": "Installer must verify code compliance before activation"
+    },
+    {
+      "id": 50,
+      "question": "What is the name of the device that is installed either externally or internally to a venting system to extract heat from flue gases:",
+      "options": [
+        "draft hood",
+        "draft control device",
+        "heat diverter",
+        "heat reclaimer"
+      ],
+      "correct": 3,
+      "reasoning": "A heat reclaimer is a device designed to extract useable heat from flue gases before they exit the venting system. This improves overall system efficiency by recovering waste heat.",
+      "csaReference": "CSA B149.1-25 - Venting Definitions",
+      "notes": "Must not interfere with proper venting operation"
+    },
+    {
+      "id": 51,
+      "question": "Which of the following code expressions describes a building used by a gathering of persons for civic, political, travel, religious, social, educational, recreational, or like purposes, or for the consumption of food and drink:",
+      "options": [
+        "commercial building",
+        "assembly building",
+        "industrial building",
+        "care or detention occupancy building"
+      ],
+      "correct": 1,
+      "reasoning": "An assembly building is defined as one used for gathering of persons for the listed purposes. This classification affects requirements for gas installations due to occupancy loads and safety considerations.",
+      "csaReference": "CSA B149.1-25 - Building Classifications",
+      "notes": "Assembly buildings have specific ventilation and safety requirements"
+    },
+    {
+      "id": 52,
+      "question": "What is a Category IV Appliance:",
+      "options": [
+        "an appliance with a power burner",
+        "a natural gas or propane-fired water heater or central furnace",
+        "an appliance that operates with a positive vent static pressure and a flue loss of less than 17%",
+        "an appliance that operates with a positive vent static pressure and a flue loss of not less than 17%"
+      ],
+      "correct": 2,
+      "reasoning": "A Category IV appliance operates with positive vent static pressure (condensing) and has a flue loss of less than 17%, indicating high efficiency. These require special venting materials for condensate.",
+      "csaReference": "CSA B149.1-25 - Appliance Categories",
+      "notes": "Category IV = positive pressure, condensing (high efficiency)"
+    },
+    {
+      "id": 53,
+      "question": "Which type of appliance does not have the flue gases mixed with the medium being heated:",
+      "options": [
+        "direct-fired appliance",
+        "non vented space heater",
+        "immersion appliance",
+        "indirect fired appliance"
+      ],
+      "correct": 3,
+      "reasoning": "An indirect fired appliance keeps combustion products separate from the medium being heated through a heat exchanger. This prevents contamination of the heated medium with combustion products.",
+      "csaReference": "CSA B149.1-25 - Appliance Types",
+      "notes": "Direct-fired mixes products with heated medium"
+    },
+    {
+      "id": 54,
+      "question": "The holder of a G.2 certificate may install and service gas-fired equipment with inputs up to:",
+      "options": [
+        "500,000 Btuh (150 kW)",
+        "400,000 Btuh (120 kW)",
+        "1,000,000 Btuh (300 kW)",
+        "250,000 Btuh (75 kW)"
+      ],
+      "correct": 1,
+      "reasoning": "G.2 certificate holders are qualified to work on appliances with inputs up to 400,000 BTU/hr (120 kW). This covers most residential and light commercial equipment.",
+      "csaReference": "O. Reg. 215/01 - Certificate Classes",
+      "notes": "G.2 covers most residential/light commercial work"
+    },
+    {
+      "id": 55,
+      "question": "The requalification of refillable propane cylinders used in Ontario must be done in accordance with the procedures for cylinders as established by (the):",
+      "options": [
+        "Transport Canada",
+        "Compressed Gas Association",
+        "Propane Gas Association",
+        "Ontario Propane Association"
+      ],
+      "correct": 0,
+      "reasoning": "Transport Canada regulates the requalification of propane cylinders as they are considered dangerous goods. Cylinders must be requalified every 10 years according to Transport Canada standards.",
+      "csaReference": "Transport Canada - Transportation of Dangerous Goods",
+      "notes": "Cylinders require requalification every 10 years"
+    },
+    {
+      "id": 56,
+      "question": "Which type of pilot burns at low turndown throughout the entire time the burner is in service, whether or not the main burner is firing, except that upon a call for heat, the ignite the main burner fuel:",
+      "options": [
+        "turndown pilot",
+        "throttling pilot",
+        "expanding pilot",
+        "cycling pilot"
+      ],
+      "correct": 2,
+      "reasoning": "An expanding pilot operates at low fire continuously but expands (increases in size) when there's a call for heat to reliably ignite the main burner. This provides energy savings while maintaining reliability.",
+      "csaReference": "CSA B149.1-25 - Pilot Types",
+      "notes": "Combines efficiency of intermittent with reliability of continuous"
+    },
+    {
+      "id": 57,
+      "question": "Where in the B149.1 code book will a person find the table required to size a natural gas piping system made of Schedule 40 pipe and that is to be operated at a pressure of 7\" in w.c. (1.75 kPa) up to 14 in w.c., based on a pressure drop of 1\" w.c. (250 Pa):",
+      "options": [
+        "Annex A, table A.1 A.1 (M)",
+        "Annex A, table A.2 A.2 (M)",
+        "Annex A, table A.8 A.8 (M)",
+        "Annex A, table A.9 A.9 (M)"
+      ],
+      "correct": 1,
+      "reasoning": "Table A.2 in Annex A is used for natural gas systems operating at 7 to 14 inches w.c. with Schedule 40 pipe. This is the standard low-pressure natural gas sizing table.",
+      "csaReference": "CSA B149.1-25, Annex A - Pipe Sizing Tables",
+      "notes": "Different tables for different pressures and pipe types"
+    },
+    {
+      "id": 58,
+      "question": "Where the Divisional Court hears an appeal of a Director's ruling, the Courts decision is:",
+      "options": [
+        "subject to appeal to the Supreme Court of Ontario",
+        "subject to appeal to the Ministry of Consumer and Business Services",
+        "final",
+        "subject to appeal to the federal government"
+      ],
+      "correct": 2,
+      "reasoning": "The Divisional Court's decision on appeals from the Director under the Technical Standards and Safety Act is final. This is the highest level of appeal available for these matters.",
+      "csaReference": "Technical Standards and Safety Act - Appeal Process",
+      "notes": "Divisional Court is the final appeal level"
+    },
+    {
+      "id": 59,
+      "question": "Venting and air supply requirements are in section _____________ of the B149.1 Code.",
+      "options": [
+        "3",
+        "5",
+        "7",
+        "8"
+      ],
+      "correct": 3,
+      "reasoning": "Section 8 of CSA B149.1 covers all venting and air supply requirements for gas appliances. This is one of the most critical sections for ensuring safe appliance operation.",
+      "csaReference": "CSA B149.1-25, Section 8",
+      "notes": "Section 8 is comprehensive for venting/air supply"
+    },
+    {
+      "id": 60,
+      "question": "Gas piping codes are in section __________ of the B149.1 code.",
+      "options": [
+        "3",
+        "4",
+        "6",
+        "9"
+      ],
+      "correct": 2,
+      "reasoning": "Section 6 of CSA B149.1 contains all requirements for gas piping and tubing systems, including materials, installation, testing, and sizing requirements.",
+      "csaReference": "CSA B149.1-25, Section 6",
+      "notes": "Section 6 covers piping and tubing systems"
+    },
+    {
+      "id": 61,
+      "question": "The B149.1 Code is used to determine:",
+      "options": [
+        "the best method to clean gas appliances",
+        "the input of gas appliances",
+        "requirements for installing gas appliances",
+        "the gas pressure for gas entering a house"
+      ],
+      "correct": 2,
+      "reasoning": "CSA B149.1 is the Natural Gas and Propane Installation Code that provides requirements for safe installation of gas appliances, piping, venting, and related equipment.",
+      "csaReference": "CSA B149.1-25 - Scope",
+      "notes": "Primary code for gas installations in Canada"
+    },
+    {
+      "id": 62,
+      "question": "The installation of gas burning appliances in recreational vehicles shall be in accordance with:",
+      "options": [
+        "CSA Standard Z240.4.1",
+        "CSA Standard Z240.4.2",
+        "CSA Code B139",
+        "CSA Code B149.2"
+      ],
+      "correct": 1,
+      "reasoning": "CSA Z240.4.2 is the specific standard for installation of gas systems and appliances in recreational vehicles. This standard addresses the unique requirements of RV installations.",
+      "csaReference": "CSA Z240.4.2 - Gas Systems in RVs",
+      "notes": "RVs have special requirements due to mobility"
+    },
+    {
+      "id": 63,
+      "question": "A G.2 Technician:",
+      "options": [
+        "may replace a defective residential automatic gas-fired water heater",
+        "must advise the owner of the appliance that a plumber is required to replace the defective automatic water heater",
+        "may recharge an add-on central air conditioner with refrigerant",
+        "may design and install the duct work required for a new installation"
+      ],
+      "correct": 0,
+      "reasoning": "A G.2 technician may replace a residential gas-fired water heater as it falls within their scope (under 400,000 BTU/hr). They can perform the gas work but may need a plumber for water connections depending on local requirements.",
+      "csaReference": "O. Reg. 215/01 - G.2 Scope of Work",
+      "notes": "G.2 can do gas work; plumbing may require separate trade"
+    },
+    {
+      "id": 64,
+      "question": "Where in the B149.1 code book will a person find the table required to size a propane tubing system that is to be operated at a pressure of 11\" w.c. (2.7 kPa), based on a pressure drop of 1\" w.c. (250 Pa):",
+      "options": [
+        "Annex A, table A.8, A.8 (M)",
+        "Annex A, Table A.10, A.10 (M)",
+        "Annex B, Table B.6, B.6 (M)",
+        "Annex B, Table B.7, B.7 (M)"
+      ],
+      "correct": 3,
+      "reasoning": "Table B.7 in Annex B is used for propane tubing systems operating at 11 inches w.c. This table provides sizing for low-pressure propane tubing installations.",
+      "csaReference": "CSA B149.1-25, Annex B - Propane Sizing Tables",
+      "notes": "Annex B for propane, different tables for pipe vs tubing"
+    },
+    {
+      "id": 65,
+      "question": "What is the term for a device used to control and maintain within acceptable limits, a uniform outlet pressure:",
+      "options": [
+        "pressure control",
+        "pressure transducer",
+        "pressure regulator",
+        "uniform pressure device"
+      ],
+      "correct": 2,
+      "reasoning": "A pressure regulator is the device that controls and maintains uniform outlet pressure regardless of inlet pressure variations. This is essential for safe appliance operation.",
+      "csaReference": "CSA B149.1-25 - Pressure Control Devices",
+      "notes": "Regulators protect appliances from overpressure"
+    },
+    {
+      "id": 66,
+      "question": "Every person commits an offense against the TSS Act who:",
+      "options": [
+        "contravenes the Act",
+        "makes a false statement",
+        "fails to comply with an authorization or",
+        "all of the available choices"
+      ],
+      "correct": 3,
+      "reasoning": "All listed actions constitute offenses under the Technical Standards and Safety Act: contravening the Act, making false statements, and failing to comply with authorizations are all punishable offenses.",
+      "csaReference": "Technical Standards and Safety Act - Offenses",
+      "notes": "Violations can result in fines and/or imprisonment"
+    },
+    {
+      "id": 67,
+      "question": "The Minister may make orders:",
+      "options": [
+        "establishing qualifications for Inspectors",
+        "regarding inspections by Inspectors",
+        "establishing grades of gasoline",
+        "all of the available choices"
+      ],
+      "correct": 3,
+      "reasoning": "The Minister has broad authority under the Act to make orders regarding inspector qualifications, inspection procedures, fuel grades, and other safety-related matters.",
+      "csaReference": "Technical Standards and Safety Act - Ministerial Powers",
+      "notes": "Minister has comprehensive regulatory authority"
+    },
+    {
+      "id": 68,
+      "question": "What is meant by \"purging\" a pipe system:",
+      "options": [
+        "painting the pipe, or identifying it with markings or yellow bands (tape)",
+        "reaming the ends of the pipe to eliminate all burrs",
+        "filling the piping with nitrogen or carbon dioxide to ensure there is no air trapped within",
+        "replacing the existing (gaseous or liquid) fluid in the piping or tubing with a desired fluid"
+      ],
+      "correct": 3,
+      "reasoning": "Purging means replacing the existing contents of piping with the desired fluid, typically removing air from gas lines before use or removing gas before service. This is a critical safety procedure.",
+      "csaReference": "CSA B149.1-25, Section 6 - Purging Requirements",
+      "notes": "Essential safety procedure before activation or service"
+    },
+    {
+      "id": 69,
+      "question": "A \"relief device\" in a piping system is a/an:",
+      "options": [
+        "device used to divert the flow of gas in the event of a runaway condition",
+        "device used to relieve high temperatures that could cause over-pressure",
+        "device designed to open to prevent a rise of gas pressure in excess of a specified value due to emergency or abnormal conditions",
+        "assembly installed in the outlet plenum of a forced air furnace, which opens in the event of high static pressure"
+      ],
+      "correct": 2,
+      "reasoning": "A relief device is designed to open automatically to prevent pressure from exceeding safe limits due to emergency or abnormal conditions. This is a critical safety component in gas systems.",
+      "csaReference": "CSA B149.1-25 - Safety Devices",
+      "notes": "Prevents dangerous overpressure conditions"
+    },
+    {
+      "id": 70,
+      "question": "Which of the following is covered in the B149.1 Natural Gas and Propane Installation Code?",
+      "options": [
+        "installation of feedstock gas in chemical plants",
+        "installation of gas venting systems",
+        "petroleum refineries",
+        "gas distribution pipelines"
+      ],
+      "correct": 1,
+      "reasoning": "The B149.1 code covers installation of gas venting systems for appliances. It does not cover industrial processes, refineries, or distribution pipelines which have separate regulations.",
+      "csaReference": "CSA B149.1-25, Scope",
+      "notes": "B149.1 covers appliance installations, not industrial/utility"
+    },
+    {
+      "id": 71,
+      "question": "During an inspection by a TSSA Inspector, every person shall:",
+      "options": [
+        "keep silent",
+        "assist the inspector, but not be responsible to produce anything",
+        "assist the inspector and produce anything where necessary",
+        "vacate the premises"
+      ],
+      "correct": 2,
+      "reasoning": "During TSSA inspections, persons must assist the inspector and produce any required documentation or items. This cooperation is legally required to ensure safety compliance.",
+      "csaReference": "Technical Standards and Safety Act - Inspection Powers",
+      "notes": "Legal obligation to cooperate with inspections"
+    },
+    {
+      "id": 72,
+      "question": "Which type of appliance is constructed so that all the combustion air is supplied directly from, and the products of combustion are vented directly to the outdoors by independent enclosed passageways connected directly to the appliance:",
+      "options": [
+        "direct vent appliance",
+        "indirect fired appliance",
+        "indoor / outdoor appliance",
+        "direct fired appliance"
+      ],
+      "correct": 0,
+      "reasoning": "A direct vent appliance has sealed combustion with separate intake and exhaust pipes directly connected to outdoors. This isolates combustion from indoor air completely.",
+      "csaReference": "CSA B149.1-25 - Direct Vent Appliances",
+      "notes": "Most efficient and safe venting method"
+    },
+    {
+      "id": 73,
+      "question": "Vent sizing for central heating furnaces, boilers and water heaters that have an input of less than 400,000 Btuh (120 kW) shall be provided in accordance with:",
+      "options": [
+        "clauses 8.2 & 8.3 of the B149.1 Natural Gas and Propane Installation Code",
+        "clause 8.4 of the B149.1 Natural Gas and Propane Installation Code",
+        "clause 8.14 of the B149.1 Natural Gas and Propane Installation Code",
+        "Annex C of the B149.1 Natural Gas and Propane Installation Code"
+      ],
+      "correct": 3,
+      "reasoning": "Annex C of B149.1 contains the venting tables and sizing methods for Category I appliances under 400,000 BTU/hr. This includes most residential furnaces, boilers, and water heaters.",
+      "csaReference": "CSA B149.1-25, Annex C",
+      "notes": "Annex C has comprehensive venting tables"
+    },
+    {
+      "id": 74,
+      "question": "The maximum fine for an individual found guilty under the Technical Standards and Safety Act is:",
+      "options": [
+        "$ 100.00",
+        "$ 25,000.00",
+        "one year in jail",
+        "$ 50,000.00 and/or one year in jail"
+      ],
+      "correct": 3,
+      "reasoning": "Under the Technical Standards and Safety Act, individuals can face maximum penalties of $50,000 in fines and/or one year imprisonment for violations.",
+      "csaReference": "Technical Standards and Safety Act - Penalties",
+      "notes": "Corporations face higher maximum fines"
+    },
+    {
+      "id": 75,
+      "question": "An appliance shall be installed with a minimum service clearance of:",
+      "options": [
+        "12 inches (0.3 m)",
+        "24 inches (0.6 m)",
+        "36 inches (1 m)",
+        "48 inches (1.2 m)"
+      ],
+      "correct": 1,
+      "reasoning": "Appliances require a minimum service clearance of 24 inches (0.6 m) on sides requiring service access. This ensures adequate space for maintenance and repairs.",
+      "csaReference": "CSA B149.1-25, Clause 5.3",
+      "notes": "Service clearance ensures safe maintenance access"
+    },
+    {
+      "id": 76,
+      "question": "Which word describes the phrase \"acceptable to the authority having jurisdiction\":",
+      "options": [
+        "certified",
+        "licensed",
+        "approved",
+        "endorsed"
+      ],
+      "correct": 2,
+      "reasoning": "\"Approved\" is the standard term meaning acceptable to the authority having jurisdiction. This indicates compliance with applicable codes and standards as determined by the regulatory authority.",
+      "csaReference": "CSA B149.1-25 - Definitions",
+      "notes": "AHJ determines what is approved for use"
+    },
+    {
+      "id": 77,
+      "question": "Which testing agency is NOT recognized for certifying propane appliances in the province of Ontario:",
+      "options": [
+        "Underwriters Laboratories Incorporated International",
+        "Canadian Standards Association",
+        "Transport Canada",
+        "Underwriters Laboratories of Canada"
+      ],
+      "correct": 2,
+      "reasoning": "Transport Canada regulates transportation of dangerous goods, not appliance certification. CSA, UL, and ULC are recognized certification bodies for gas appliances in Ontario.",
+      "csaReference": "TSSA Recognized Certification Bodies",
+      "notes": "Transport Canada handles cylinders, not appliances"
+    },
+    {
+      "id": 78,
+      "question": "Which organization is responsible for administering fuel regulations for the installation of gas appliances in Ontario:",
+      "options": [
+        "Technical Standards and Safety Authority",
+        "Canadian Gas Association",
+        "Energy Mines & Resources",
+        "Canadian Standards Association"
+      ],
+      "correct": 0,
+      "reasoning": "The Technical Standards and Safety Authority (TSSA) is the regulatory body responsible for administering and enforcing fuel safety regulations in Ontario, including gas appliance installations.",
+      "csaReference": "Technical Standards and Safety Act, 2000",
+      "notes": "TSSA is Ontario's safety regulator"
+    },
+    {
+      "id": 79,
+      "question": "What is the B149.1 Natural Gas and Propane Installation Code term for an automatic valve that has a closing time of less than 5 seconds upon being de-energized:",
+      "options": [
+        "quick shut off valve",
+        "fast closing valve",
+        "safety shut off valve",
+        "5 second valve"
+      ],
+      "correct": 2,
+      "reasoning": "A safety shut-off valve is defined as an automatic valve with a closing time of less than 5 seconds when de-energized. This rapid closure is essential for safety in emergency situations.",
+      "csaReference": "CSA B149.1-25 - Safety Shut-off Valve Definition",
+      "notes": "Fast closure prevents gas flow in emergencies"
+    },
+    {
+      "id": 80,
+      "question": "If a heat exchanger is found to be cracked on a residential furnace, a gas technician shall:",
+      "options": [
+        "shut off the gas supply and inform the gas distributor of the situation immediately",
+        "shut off the gas supply and inform the Technical Standards and Safety Authority of the situation immediately",
+        "shut off the gas supply and inform the Ontario Fire Marshal's Office of the situation immediately",
+        "shut off the gas supply and inform the Department of Labour of the situation immediately"
+      ],
+      "correct": 0,
+      "reasoning": "When a cracked heat exchanger is found, the technician must shut off the gas supply and immediately notify the gas distributor (utility company), who will red-tag the appliance as unsafe.",
+      "csaReference": "CSA B149.1-25 - Unsafe Conditions",
+      "notes": "Cracked heat exchanger = immediate hazard requiring shutdown"
+    },
+    {
+      "id": 81,
+      "question": "Propane cylinders manufactured in Canada after January 1, 1993 are to be built and marked to the specifications of:",
+      "options": [
+        "The Boiler and Pressure Vessels Code",
+        "The Canadian Standards Association",
+        "Transport Canada",
+        "The Ministry of Consumer and Business Services"
+      ],
+      "correct": 2,
+      "reasoning": "Transport Canada regulates the manufacture and certification of propane cylinders as they are classified as pressure vessels for dangerous goods. Cylinders must meet TC specifications.",
+      "csaReference": "Transport Canada - Transportation of Dangerous Goods Regulations",
+      "notes": "TC stamp required on all cylinders"
+    },
+    {
+      "id": 82,
+      "question": "A certificate holder must inform the Technical Standards and Safety Authority of a change of address within _________ days.",
+      "options": [
+        "15",
+        "30",
+        "60",
+        "90"
+      ],
+      "correct": 0,
+      "reasoning": "Certificate holders must notify TSSA of address changes within 15 days. This ensures TSSA can maintain current records and contact information for all certified technicians.",
+      "csaReference": "O. Reg. 215/01 - Certificate Holder Obligations",
+      "notes": "Timely notification ensures proper regulatory communication"
+    },
+    {
+      "id": 83,
+      "question": "The current required to operate a device rated for 1500 watts at 120 volts is:",
+      "options": [
+        "11.2 amp",
+        "12.5 amp",
+        "13.2 amp",
+        "18.5 amp"
+      ],
+      "correct": 1,
+      "reasoning": "Using Ohm's law: I = P/V = 1500W / 120V = 12.5 amps. This calculation is essential for proper circuit sizing and electrical safety.",
+      "csaReference": "Electrical Theory - Ohm's Law",
+      "notes": "P = V × I, therefore I = P ÷ V"
+    },
+    {
+      "id": 84,
+      "question": "When checking an electrical circuit and an analog meter reads ∞, what does this indicate?",
+      "options": [
+        "no resistance",
+        "measurable resistance",
+        "closed circuit",
+        "open circuit"
+      ],
+      "correct": 3,
+      "reasoning": "An infinity (∞) reading on an ohmmeter indicates infinite resistance, meaning an open circuit with no continuity. Current cannot flow through an open circuit.",
+      "csaReference": "Electrical Testing Fundamentals",
+      "notes": "Infinity = open circuit, zero = closed circuit"
+    },
+    {
+      "id": 85,
+      "question": "The resistance reading across a good fuse will be:",
+      "options": [
+        "0 volts",
+        "0 ohms",
+        "0 amps",
+        "infinity"
+      ],
+      "correct": 1,
+      "reasoning": "A good fuse should show 0 ohms (or very close to zero) resistance, indicating continuity. This means the fuse element is intact and current can flow through it.",
+      "csaReference": "Electrical Testing - Fuse Testing",
+      "notes": "0 ohms = good fuse, infinity = blown fuse"
+    },
+    {
+      "id": 86,
+      "question": "Consider a series electrical circuit connected to a 120VAC power source. The circuit contains two resistors connected in series: R1 with a resistance of 10 ohms and R2 with a resistance of 20 ohms. The current flows from the power source through R1, then through R2, and returns to the power source. Draw or visualize this series circuit. What is the total current in this series circuit?",
+      "options": [
+        "10 Amps",
+        "3 Amps",
+        "6 Amps",
+        "4 Amps"
+      ],
+      "correct": 3,
+      "reasoning": "In a series circuit with 120V and total resistance of 30Ω (10Ω + 20Ω), current I = V/R = 120V / 30Ω = 4 amps. Current is the same throughout a series circuit.",
+      "csaReference": "Electrical Theory - Series Circuits",
+      "notes": "Question rewritten to include series circuit diagram description for student visualization"
+    },
+    {
+      "id": 87,
+      "question": "Referring to the series circuit with 120VAC power source and two resistors (R1 = 10 ohms, R2 = 20 ohms) connected in series, what is the total resistance in the circuit?",
+      "options": [
+        "30 Ω",
+        "200 Ω",
+        "10 Ω",
+        "2 Ω"
+      ],
+      "correct": 0,
+      "reasoning": "In a series circuit, total resistance is the sum of individual resistances: RT = R1 + R2 = 10Ω + 20Ω = 30Ω.",
+      "csaReference": "Electrical Theory - Series Circuit Resistance",
+      "notes": "Question rewritten to include circuit component values for student visualization"
+    },
+    {
+      "id": 88,
+      "question": "In a series circuit with 120VAC power source and two resistors (R1 = 10 ohms, R2 = 20 ohms), where the current flows through R1 first then R2, what is the voltage drop across R1?",
+      "options": [
+        "20 Volts",
+        "40 Volts",
+        "24 Volts",
+        "120 Volts"
+      ],
+      "correct": 1,
+      "reasoning": "Using Ohm's law with current of 4A through R1 (10Ω): V = I × R = 4A × 10Ω = 40 volts. Voltage divides proportionally to resistance in series circuits.",
+      "csaReference": "Electrical Theory - Voltage Division",
+      "notes": "Question rewritten to include circuit description for student visualization"
+    },
+    {
+      "id": 89,
+      "question": "In a series circuit with 120VAC power source and two resistors (R1 = 10 ohms, R2 = 20 ohms), where the current flows through R1 first then R2, what is the voltage drop across R2?",
+      "options": [
+        "80 Volts",
+        "5 Volts",
+        "120 Volts",
+        "60 Volts"
+      ],
+      "correct": 0,
+      "reasoning": "Using Ohm's law with current of 4A through R2 (20Ω): V = I × R = 4A × 20Ω = 80 volts. This plus the 40V across R1 equals the 120V supply.",
+      "csaReference": "Electrical Theory - Voltage Division",
+      "notes": "Question rewritten to include circuit description for student visualization"
+    },
+    {
+      "id": 90,
+      "question": "Consider a complete series circuit with a 120VAC power source connected to two resistors in series (R1 = 10 ohms and R2 = 20 ohms). The circuit forms a closed loop from the positive terminal through R1, then R2, and back to the negative terminal. What is the total voltage drop across the circuit in this figure?",
+      "options": [
+        "30 Volts",
+        "120 Volts",
+        "10 Volts",
+        "240 Volts"
+      ],
+      "correct": 1,
+      "reasoning": "The total voltage drop across the circuit equals the supply voltage of 120 volts. The sum of individual voltage drops (40V + 80V) equals the source voltage.",
+      "csaReference": "Electrical Theory - Kirchhoff's Voltage Law",
+      "notes": "Question rewritten to include complete circuit description for student visualization"
+    },
+    {
+      "id": 91,
+      "question": "Which of the following statements concerning ohmmeters is correct?",
+      "options": [
+        "An ohmmeter must never be connected to a live circuit.",
+        "An ohmmeter must always be connected to a live circuit.",
+        "The ohmmeter scale on an analog meter is divided into equal increments.",
+        "Using an ohmmeter requires the connection of only one lead."
+      ],
+      "correct": 0,
+      "reasoning": "An ohmmeter must never be connected to a live circuit as it supplies its own voltage for resistance measurement. Connecting to a live circuit can damage the meter and create safety hazards.",
+      "csaReference": "Electrical Testing Safety",
+      "notes": "Always verify circuit is de-energized before resistance testing"
+    },
+    {
+      "id": 92,
+      "question": "Which of the following will most digital ohmmeters display when connected across an open circuit?",
+      "options": [
+        "1,000 kΩ",
+        "OL",
+        "1,000 MΩ",
+        "2,000 MΩ"
+      ],
+      "correct": 1,
+      "reasoning": "Digital ohmmeters typically display 'OL' (overload or over limit) when measuring an open circuit, indicating resistance beyond the meter's measuring range (infinite resistance).",
+      "csaReference": "Digital Multimeter Operation",
+      "notes": "OL = Over Limit = open circuit"
+    },
+    {
+      "id": 93,
+      "question": "As the current increases in a conductor the magnetic field around the conductor:",
+      "options": [
+        "increases",
+        "decreases",
+        "fluctuates",
+        "remains the same"
+      ],
+      "correct": 0,
+      "reasoning": "The magnetic field strength around a conductor is directly proportional to the current flowing through it. As current increases, the magnetic field increases proportionally.",
+      "csaReference": "Electrical Theory - Electromagnetism",
+      "notes": "Basis for transformer and motor operation"
+    },
+    {
+      "id": 94,
+      "question": "Which statement is correct concerning a parallel circuit?",
+      "options": [
+        "The total resistance of the circuit is the sum of each individual resistance in the circuit",
+        "The total resistance of the circuit will be less than the smallest resistance in the circuit",
+        "The current reading will be the same no matter where it is taken in the circuit",
+        "Voltage drop across each load is less than the voltage supplied"
+      ],
+      "correct": 1,
+      "reasoning": "In a parallel circuit, the total resistance is always less than the smallest individual resistance. This is because parallel paths provide multiple routes for current flow.",
+      "csaReference": "Electrical Theory - Parallel Circuits",
+      "notes": "1/RT = 1/R1 + 1/R2 + 1/R3..."
+    },
+    {
+      "id": 95,
+      "question": "On a 120 volt receptacle, the ground connection terminals are:",
+      "options": [
+        "white",
+        "green",
+        "gold",
+        "silver"
+      ],
+      "correct": 1,
+      "reasoning": "The ground connection on a receptacle is identified by green color (or green with yellow stripe). The ground terminal may also have a green screw.",
+      "csaReference": "Canadian Electrical Code - Grounding",
+      "notes": "Green = ground, white = neutral, black/red = hot"
+    },
+    {
+      "id": 96,
+      "question": "The total current in a parallel circuit (i.e. taken at source) will be:",
+      "options": [
+        "0 volts",
+        "the supply amperage",
+        "0 amps",
+        "the sum of the current passing through each branch circuit"
+      ],
+      "correct": 3,
+      "reasoning": "In a parallel circuit, the total current from the source equals the sum of all branch currents. This follows Kirchhoff's Current Law.",
+      "csaReference": "Electrical Theory - Kirchhoff's Current Law",
+      "notes": "IT = I1 + I2 + I3..."
+    },
+    {
+      "id": 97,
+      "question": "The resistance reading across a blown fuse will be:",
+      "options": [
+        "0 volts",
+        "0 ohms",
+        "0 amps",
+        "infinity"
+      ],
+      "correct": 3,
+      "reasoning": "A blown fuse shows infinite resistance (open circuit) because the fuse element is broken, preventing current flow. The meter will read infinity or OL.",
+      "csaReference": "Electrical Testing - Fuse Testing",
+      "notes": "Blown fuse = open circuit = infinite resistance"
+    },
+    {
+      "id": 98,
+      "question": "When a voltage measurement is being taken on a DC circuit, the needle on the analog meter moves to below zero on the scale. What does this indicate?",
+      "options": [
+        "The meter is broken.",
+        "The battery in the meter is dead.",
+        "There is no voltage.",
+        "The test leads are reversed."
+      ],
+      "correct": 3,
+      "reasoning": "When an analog meter needle goes below zero on DC voltage measurement, it indicates reversed polarity - the test leads are connected backwards (positive to negative and vice versa).",
+      "csaReference": "DC Measurement Techniques",
+      "notes": "DC measurements are polarity sensitive"
+    },
+    {
+      "id": 99,
+      "question": "The equivalent resistance of two 10 Ohm resistors connected in parallel is:",
+      "options": [
+        "0.1 Ω",
+        "0.2 Ω",
+        "5.0 Ω",
+        "20.0 Ω"
+      ],
+      "correct": 2,
+      "reasoning": "For two equal resistors in parallel: RT = R/2 = 10Ω/2 = 5Ω. The parallel combination always results in less resistance than any individual resistor.",
+      "csaReference": "Electrical Theory - Parallel Resistance",
+      "notes": "Equal resistors in parallel: RT = R/n"
+    },
+    {
+      "id": 100,
+      "question": "The branch electrical circuit to a heating appliance may be used to supply power to:",
+      "options": [
+        "lighting in the furnace room.",
+        "other electrical devices as long as the total amp draw is less than 15 amps.",
+        "accessories necessary for the safe operation of the appliance",
+        "other electrical devices as long as a 20 amp fuse is installed."
+      ],
+      "correct": 2,
+      "reasoning": "The dedicated circuit for a heating appliance may only supply power to accessories necessary for safe appliance operation (controls, pumps, fans). It cannot be shared with other loads.",
+      "csaReference": "Canadian Electrical Code - Appliance Circuits",
+      "notes": "Dedicated circuit ensures reliable appliance operation"
+    },
+    {
+      "id": 101,
+      "question": "Which statement is correct?",
+      "options": [
+        "A clamp-on ammeter must never be used on a live circuit",
+        "A clamp-on ammeter must pinch the wire or terminal for a proper reading.",
+        "A clamp-on ammeter must be clamped around one conductor only.",
+        "A clamp-on ammeter must be clamped around both conductors."
+      ],
+      "correct": 2,
+      "reasoning": "A clamp-on ammeter must be clamped around only one conductor to measure current. Clamping around multiple conductors will cause magnetic fields to cancel, resulting in no reading.",
+      "csaReference": "Electrical Testing - Clamp Meter Use",
+      "notes": "One conductor only for accurate current measurement"
+    },
+    {
+      "id": 102,
+      "question": "Which of the following statements is true?",
+      "options": [
+        "Direct current electricity alternates polarity (i.e. +/-) regularly",
+        "Direct current flows from the positive terminal to the negative terminal",
+        "Batteries supply alternating current (AC)",
+        "Direct current measurements are not polarity sensitive (i.e. black test probe must be on negative terminal)"
+      ],
+      "correct": 1,
+      "reasoning": "Direct current (DC) flows in one direction from positive to negative terminal. This is conventional current flow, though electrons actually flow from negative to positive.",
+      "csaReference": "Electrical Theory - DC Circuits",
+      "notes": "DC has constant polarity, AC alternates"
+    },
+    {
+      "id": 103,
+      "question": "Electromotive Force is another expression for:",
+      "options": [
+        "voltage",
+        "current",
+        "resistance",
+        "power"
+      ],
+      "correct": 0,
+      "reasoning": "Electromotive Force (EMF) is another term for voltage - the electrical pressure that causes current to flow through a circuit. It's measured in volts.",
+      "csaReference": "Electrical Theory - Basic Terms",
+      "notes": "EMF = voltage = electrical potential difference"
+    },
+    {
+      "id": 104,
+      "question": "If a co-worker is suffering a shock from an electrical circuit and cannot let go of the circuit, the first action to take is to:",
+      "options": [
+        "call the emergency response phone number.",
+        "give the co-worker a quick push to free him or her from the circuit.",
+        "disconnect the power to the electrical circuit.",
+        "grab the closest object and shove the person away from the circuit."
+      ],
+      "correct": 2,
+      "reasoning": "The first priority is to disconnect power to prevent continued electrocution. Never touch the victim directly as you may also be shocked. De-energize the circuit immediately.",
+      "csaReference": "Electrical Safety - Emergency Response",
+      "notes": "Never touch electrocution victim until power is off"
+    },
+    {
+      "id": 105,
+      "question": "If resistance is constant in a resistive circuit and there is a voltage surge, the current:",
+      "options": [
+        "increases",
+        "decreases",
+        "remains the same",
+        "fluctuates"
+      ],
+      "correct": 0,
+      "reasoning": "According to Ohm's law (I = V/R), if voltage increases and resistance remains constant, current must increase proportionally. They have a direct relationship.",
+      "csaReference": "Electrical Theory - Ohm's Law",
+      "notes": "I = V/R; if V increases and R is constant, I increases"
+    },
+    {
+      "id": 106,
+      "question": "One motor horsepower equals approximately ____ watts.",
+      "options": [
+        "340",
+        "750",
+        "850",
+        "1000"
+      ],
+      "correct": 1,
+      "reasoning": "One horsepower equals approximately 746 watts (rounded to 750W for practical calculations). This conversion is essential for electrical load calculations.",
+      "csaReference": "Electrical Power Conversions",
+      "notes": "1 HP = 746 watts (use 750W for calculations)"
+    },
+    {
+      "id": 107,
+      "question": "If the voltage drop across a load in a simple circuit is not the applied voltage, this indicates:",
+      "options": [
+        "a poor connection in the circuit.",
+        "there is more than one load wired in parallel with the tested load.",
+        "the reading is normal",
+        "all of the above"
+      ],
+      "correct": 0,
+      "reasoning": "In a simple circuit with one load, the entire supply voltage should drop across that load. If not, there's resistance elsewhere (poor connection) causing additional voltage drop.",
+      "csaReference": "Electrical Troubleshooting",
+      "notes": "Poor connections create unwanted resistance and voltage drop"
+    },
+    {
+      "id": 108,
+      "question": "Which of the following statements concerning electrical conductors is correct?",
+      "options": [
+        "Armoured cable can only be used outdoors.",
+        "A gouge in an electrical wire should be repaired with electrical tape.",
+        "A junction box connector approved for the box and wire type must be used.",
+        "Wires should be bent around terminal connection screws in a counter clockwise direction."
+      ],
+      "correct": 2,
+      "reasoning": "Proper junction box connectors approved for the specific box and wire type must be used to ensure safe, code-compliant connections. This prevents damage to conductors and ensures proper grounding.",
+      "csaReference": "Canadian Electrical Code - Wiring Methods",
+      "notes": "Always use approved connectors for safety"
+    },
+    {
+      "id": 109,
+      "question": "What is the Btuh output of an electric heater rated at 15 kW:",
+      "options": [
+        "511",
+        "5,118",
+        "51,180",
+        "511,800"
+      ],
+      "correct": 2,
+      "reasoning": "To convert kW to BTU/hr: 15 kW × 3,412 BTU/kWh = 51,180 BTU/hr. The conversion factor 3,412 is standard for electrical to thermal energy.",
+      "csaReference": "Energy Conversion Factors",
+      "notes": "1 kW = 3,412 BTU/hr"
+    },
+    {
+      "id": 110,
+      "question": "Which of the following statements is true?",
+      "options": [
+        "# 14 AWG electrical wire is approved for use on 30 amp circuits.",
+        "# 14 AWG electrical wire always stranded core for flexible use.",
+        "# 14 AWG electrical wire is approved for use on 15 amp circuits.",
+        "# 14 AWG electrical wire always has two conductor wires."
+      ],
+      "correct": 2,
+      "reasoning": "#14 AWG wire is rated for 15 amp circuits maximum. This is a standard electrical code requirement for residential wiring to prevent overheating.",
+      "csaReference": "Canadian Electrical Code - Wire Sizing",
+      "notes": "#14 AWG = 15A, #12 AWG = 20A, #10 AWG = 30A"
+    },
+    {
+      "id": 111,
+      "question": "How far into a junction box must conductors extend:",
+      "options": [
+        "3 inches",
+        "6 inches",
+        "8 inches",
+        "10 inches"
+      ],
+      "correct": 1,
+      "reasoning": "Electrical code requires conductors to extend at least 6 inches into a junction box to provide adequate length for making connections and future servicing.",
+      "csaReference": "Canadian Electrical Code - Box Fill",
+      "notes": "6 inches ensures adequate working length"
+    },
+    {
+      "id": 112,
+      "question": "Which of the following statements concerning ammeters is correct?",
+      "options": [
+        "An ammeter measures resistance in ohms.",
+        "An in-line ammeter must be connected across the load.",
+        "An in-line ammeter must be connected in series with the load.",
+        "The jaws of a clamp-on ammeter must pinch the conductor."
+      ],
+      "correct": 2,
+      "reasoning": "An in-line ammeter must be connected in series with the load to measure current flow through the circuit. Connecting in parallel would create a short circuit.",
+      "csaReference": "Electrical Testing - Ammeter Use",
+      "notes": "Series connection required for current measurement"
+    },
+    {
+      "id": 113,
+      "question": "If the scale on a mechanical drawing is 1/8\" - 1'0\" then a line measuring 4\" in length is actually:",
+      "options": [
+        "32 inches",
+        "4 feet",
+        "8 feet",
+        "32 feet"
+      ],
+      "correct": 3,
+      "reasoning": "With scale 1/8\" = 1', a 4\" line represents: 4\" ÷ (1/8\") = 32 units of 1' = 32 feet. Each 1/8\" on the drawing represents 1 foot actual.",
+      "csaReference": "Technical Drawing - Scale Reading",
+      "notes": "Scale 1/8\" = 1' means multiply drawing by 96"
+    },
+    {
+      "id": 114,
+      "question": "Using the CSA B149.1 vent terminal height graph where the X-axis shows roof pitch (rise/run) from 0 to 24/12 and the Y-axis shows minimum vent height in feet from 0 to 12 feet, find the minimum vent height for a natural gas fired appliance on a roof with a 12/12 pitch (45-degree angle) and no obstructions. The graph shows a stepped line that increases as roof pitch increases, with specific heights at common roof pitches.",
+      "options": [
+        "2 feet",
+        "4 feet",
+        "6 feet",
+        "10 feet"
+      ],
+      "correct": 1,
+      "reasoning": "According to CSA B149.1 venting requirements, a 12/12 pitch (45-degree) roof requires a minimum 4-foot vent height above the roof for proper draft and clearance from the roof surface.",
+      "csaReference": "CSA B149.1-25, Figure 8.1 - Vent Terminal Heights",
+      "notes": "Question rewritten to include graph description for student visualization"
+    },
+    {
+      "id": 115,
+      "question": "T F The boiling point of water is 212°F or 100°C.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct": 0,
+      "reasoning": "True. Water boils at 212°F (Fahrenheit) or 100°C (Celsius) at standard atmospheric pressure. These are fundamental reference points for temperature scales.",
+      "csaReference": "Basic Science - Temperature Scales",
+      "notes": "At sea level standard pressure"
+    },
+    {
+      "id": 116,
+      "question": "Mechanical drawings are used to:",
+      "options": [
+        "give the building address, show the equipment location, piping layout, duct sizing and duct layout",
+        "give the building address, locate the building on the site, location of adjacent structures, piping layout, and show equipment location",
+        "give the building address, indicate the building size, show its elevations, list the mechanical equipment, and show its location, show all permits",
+        "give the building address, show the owner's name, installer's name, permit numbers, the equipment list and the warranty"
+      ],
+      "correct": 0,
+      "reasoning": "Mechanical drawings show equipment location, piping layout, duct sizing and layout - all the technical details needed for HVAC system installation. They focus on mechanical systems, not site plans or permits.",
+      "csaReference": "Technical Drawing Standards",
+      "notes": "Mechanical drawings detail HVAC system components"
+    },
+    {
+      "id": 117,
+      "question": "Using the CSA B149.1 vent terminal height graph where the X-axis shows roof pitch (rise/run) from 0 to 24/12 and the Y-axis shows minimum vent height in feet from 0 to 12 feet, find the minimum vent height for a natural gas fired appliance on a roof with a 14/12 pitch (approximately 50-degree angle) and no obstructions. The graph shows a stepped line that increases as roof pitch increases.",
+      "options": [
+        "2 feet",
+        "3 feet",
+        "5 feet",
+        "10 feet"
+      ],
+      "correct": 2,
+      "reasoning": "A 14/12 pitch roof (steeper than 45 degrees) requires approximately 5 feet minimum vent height according to B149.1 venting requirements to ensure proper clearance and draft.",
+      "csaReference": "CSA B149.1-25, Figure 8.1 - Vent Terminal Heights",
+      "notes": "Question rewritten to include graph description for student visualization"
+    },
+    {
+      "id": 118,
+      "question": "Equipment specifications indicate mainly:",
+      "options": [
+        "dimensions required to install the appliance, weight of the equipment, electrical characteristics, size and location of the vent outlet, piping inlet size, model number",
+        "size of building required to accommodate the equipment, parts list, weight of equipment, installation clearances, piping outlet size, serial number",
+        "address of installation, required appliance output, electrical characteristics, weight of equipment, branch piping size, model number",
+        "physical dimensions required to install the appliance, weight of the equipment, amount of fuel consumed, CO content of the fuel consumed, electrical characteristics, size and location of the vent outlet"
+      ],
+      "correct": 0,
+      "reasoning": "Equipment specifications provide installation dimensions, weight, electrical requirements, vent outlet size/location, gas inlet size, and model number - all critical installation information.",
+      "csaReference": "Equipment Documentation Standards",
+      "notes": "Specifications contain essential installation data"
+    },
+    {
+      "id": 119,
+      "question": "A \"bill of materials\" is a:",
+      "options": [
+        "list sent by the manufacturer as a check list of the materials delivered to the site",
+        "purchase order copy including the materials which were ordered",
+        "list indicating the materials required to complete an installation",
+        "list of all the materials used manufacturing the equipment"
+      ],
+      "correct": 2,
+      "reasoning": "A bill of materials is a comprehensive list of all materials, components, and supplies required to complete an installation project. It's used for planning and procurement.",
+      "csaReference": "Project Management Standards",
+      "notes": "BOM ensures all necessary materials are available"
+    },
+    {
+      "id": 120,
+      "question": "Equipment wiring diagrams indicate which of the following?",
+      "options": [
+        "supply voltage, wire size from panel, fuse size, internal wiring",
+        "supply voltage, internal wiring, location of controls, field wiring",
+        "supply voltage, fuse size, type of disconnect switch, factory wiring",
+        "supply voltage, size of control wiring, location of gas valve, factory wiring"
+      ],
+      "correct": 1,
+      "reasoning": "Wiring diagrams show supply voltage requirements, internal (factory) wiring, control locations, and field wiring connections. They guide proper electrical installation and troubleshooting.",
+      "csaReference": "Equipment Documentation - Wiring Diagrams",
+      "notes": "Solid lines = factory wiring, dashed = field wiring"
+    },
+    {
+      "id": 121,
+      "question": "A broken or dotted line on a manufacturer's wiring diagram normally indicates:",
+      "options": [
+        "factory installed wiring",
+        "a white conductor only",
+        "an optional accessory",
+        "field installed wiring"
+      ],
+      "correct": 3,
+      "reasoning": "Broken or dotted lines on wiring diagrams indicate field-installed wiring that the technician must install, as opposed to solid lines which show factory-installed wiring.",
+      "csaReference": "Wiring Diagram Conventions",
+      "notes": "Technician responsible for field wiring connections"
+    },
+    {
+      "id": 122,
+      "question": "To correct a symptom such as a fluctuating flame, a technician should first:",
+      "options": [
+        "notify the local utility or fuel supplier",
+        "contact the equipment supplier",
+        "consult the manufacturer's instructions",
+        "exchange the appliance and contact the manufacturer"
+      ],
+      "correct": 2,
+      "reasoning": "The first step in troubleshooting should always be consulting the manufacturer's instructions for specific troubleshooting guides and adjustment procedures for that equipment.",
+      "csaReference": "Troubleshooting Best Practices",
+      "notes": "Manufacturer's instructions are the primary reference"
+    },
+    {
+      "id": 123,
+      "question": "When asked to remove footwear at the door of a customer, the best approach is:",
+      "options": [
+        "to comply and take off your boots and leave them at the door",
+        "to refuse and push past the customer in the interest of safety",
+        "to offer to wear boot covers after explaining that they are safety boots",
+        "to remove your boots and wear slippers instead"
+      ],
+      "correct": 2,
+      "reasoning": "The professional approach is to explain that safety boots are required PPE but offer to wear boot covers to protect the customer's floors. This balances safety requirements with customer service.",
+      "csaReference": "Customer Service Best Practices; OHSA PPE Requirements",
+      "notes": "Safety boots are mandatory PPE on job sites"
+    },
+    {
+      "id": 124,
+      "question": "When listening to a customer's concerns, the best approach is:",
+      "options": [
+        "to be sympathetic",
+        "to take notes",
+        "to explain in terms they will understand",
+        "all of the above"
+      ],
+      "correct": 3,
+      "reasoning": "Effective customer service requires being sympathetic to concerns, taking notes for accuracy, and explaining technical issues in understandable terms. All these practices build trust and ensure clear communication.",
+      "csaReference": "Professional Customer Service Standards",
+      "notes": "Good communication is essential for customer satisfaction"
+    },
+    {
+      "id": 125,
+      "question": "Of the following list which choice represents a positive customer relations action:",
+      "options": [
+        "Using the washing machine as a work bench",
+        "Cleaning up waste created by your actions",
+        "Criticizing their taste in music",
+        "Advising them to call head office for answers"
+      ],
+      "correct": 1,
+      "reasoning": "Cleaning up after your work shows professionalism and respect for the customer's property. It's a basic expectation of professional service work.",
+      "csaReference": "Professional Service Standards",
+      "notes": "Leave work area as clean or cleaner than found"
+    },
+    {
+      "id": 126,
+      "question": "The fittings used to protect pipe threads during shipment are not allowed to be used in installations because they:",
+      "options": [
+        "are made of steel",
+        "are made with running threads",
+        "have no shoulder to put a pipe wrench on",
+        "tighten up too quickly"
+      ],
+      "correct": 1,
+      "reasoning": "Shipping protection fittings have running threads (straight threads) rather than tapered pipe threads, making them unsuitable for gas-tight connections required in installations.",
+      "csaReference": "CSA B149.1-25 - Approved Fittings",
+      "notes": "Only NPT tapered threads approved for gas"
+    },
+    {
+      "id": 127,
+      "question": "Propane piping of 200 ft. (61 m) in length or less operating at a pressure over 2 psig (14 kPa) but not more than 33 psig (230 kPa) shall be tested at a minimum of:",
+      "options": [
+        "5 psig (34 kPa) for 30 minutes",
+        "15 psig (100 kPa) for 15 minutes",
+        "15 psig (100 kPa) for 60 minutes",
+        "50 psig (340 kPa) for 60 minutes"
+      ],
+      "correct": 3,
+      "reasoning": "Propane piping in this pressure range must be tested at 50 psig for 60 minutes minimum. Higher test pressure ensures system integrity for propane's higher operating pressures.",
+      "csaReference": "CSA B149.1-25, Table 6.1 - Pressure Testing",
+      "notes": "Test pressure = 1.5 times operating pressure minimum"
+    },
+    {
+      "id": 128,
+      "question": "A manual shut off valve used for natural gas shall be:",
+      "options": [
+        "a lubricated eccentric type, rated for the pressure or temperature to which it will be subjected.",
+        "a gate type valve rated for the pressure or temperature to which it will be subjected, made of stainless steel, rated for the pressure or temperature to which it will be subjected.",
+        "a plug, ball or eccentric type rated for the pressure or temperature to which it will be subjected"
+      ],
+      "correct": 3,
+      "reasoning": "Manual shut-off valves for gas must be plug, ball, or eccentric type (quarter-turn valves) rated for system pressure and temperature. Gate valves are not approved for gas service.",
+      "csaReference": "CSA B149.1-25, Clause 6.18 - Shut-off Valves",
+      "notes": "Quarter-turn valves provide positive shut-off"
+    },
+    {
+      "id": 129,
+      "question": "For a piping system supplying an appliance having a rated input under 400,000 Btuh (120 kW), the supply line and branch line to the appliance may be purged:",
+      "options": [
+        "at the main burner of a furnace.",
+        "by removing the drip pocket of the appliance.",
+        "into the combustion chamber of the appliance.",
+        "at a readily accessible burner such as the open top burner of a gas range."
+      ],
+      "correct": 3,
+      "reasoning": "Small systems under 400,000 BTU/hr may be purged through a readily accessible burner like a range top burner where gas can be safely ignited. This is the approved method for small residential systems.",
+      "csaReference": "CSA B149.1-25, Clause 6.22 - Purging",
+      "notes": "Larger systems require outdoor purging"
+    },
+    {
+      "id": 130,
+      "question": "Pipe fittings in gas piping systems shall be made of:",
+      "options": [
+        "malleable iron or cast iron",
+        "cast or wrought iron",
+        "cast iron or steel",
+        "steel or malleable iron"
+      ],
+      "correct": 3,
+      "reasoning": "Gas pipe fittings must be made of steel or malleable iron. Cast iron is too brittle and not approved for gas service due to potential for cracking.",
+      "csaReference": "CSA B149.1-25, Clause 6.2 - Piping Materials",
+      "notes": "Cast iron is prohibited for gas fittings"
+    },
+    {
+      "id": 131,
+      "question": "When can plastic piping be used indoors?",
+      "options": [
+        "never",
+        "only when tested prior to concealment",
+        "only if it is under 1 inch (25 mm) in diameter",
+        "only with the permission of the local utility or the fuel supplier"
+      ],
+      "correct": 0,
+      "reasoning": "Plastic piping is never permitted for indoor gas installations. It's only approved for outdoor underground use with proper protection and transition fittings.",
+      "csaReference": "CSA B149.1-25, Clause 6.3 - Plastic Piping",
+      "notes": "Plastic only for outdoor underground installations"
+    },
+    {
+      "id": 132,
+      "question": "Are individual shut off valves for appliances in recreation vehicles necessary?",
+      "options": [
+        "yes",
+        "only where the cylinder is not readily accessible.",
+        "no",
+        "not if a quick disconnect fitting is used."
+      ],
+      "correct": 0,
+      "reasoning": "Yes, individual shut-off valves are required for each appliance in recreational vehicles to allow isolation for service and emergency shutdown.",
+      "csaReference": "CSA Z240.4.2 - RV Gas Systems",
+      "notes": "Each appliance needs individual isolation"
+    },
+    {
+      "id": 133,
+      "question": "[Missing from source images]",
+      "options": [],
+      "correct": null,
+      "reasoning": "Question 133 was not provided in the source material.",
+      "csaReference": "N/A",
+      "notes": "Question missing from exam source"
+    },
+    {
+      "id": 134,
+      "question": "[Missing from source images]",
+      "options": [],
+      "correct": null,
+      "reasoning": "Question 134 was not provided in the source material.",
+      "csaReference": "N/A",
+      "notes": "Question missing from exam source"
+    },
+    {
+      "id": 135,
+      "question": "Consider a natural gas piping system layout for a commercial building. The main gas supply enters the building and branches into multiple sections. Section 'G' is part of the main supply line that must feed several downstream loads including unit heaters, boilers, and a duct furnace with a combined load of approximately 2,000,000 BTU/hr. The piping runs for 150 feet at 7\" w.c. pressure with a 1\" w.c. pressure drop allowed. The required pipe size for section 'G' of the main supply line is:",
+      "options": [
+        "1\"",
+        "1 1/4\"",
+        "1 1/2\"",
+        "2\""
+      ],
+      "correct": 2,
+      "reasoning": "Based on typical gas piping diagrams and load calculations, section G of a main supply line typically requires 1 1/2\" pipe to handle the cumulative load downstream.",
+      "csaReference": "CSA B149.1-25, Annex A - Pipe Sizing",
+      "notes": "Question rewritten to include piping system description for student visualization"
+    },
+    {
+      "id": 136,
+      "question": "In the same natural gas piping system, section 'K' is located downstream from section 'G' and supplies a reduced load of approximately 800,000 BTU/hr to specific equipment. This section runs for 100 feet at the same 7\" w.c. pressure with 1\" w.c. allowed pressure drop. The required pipe size for section 'K' of the main supply line is:",
+      "options": [
+        "1\"",
+        "1 1/4\"",
+        "1 1/2\"",
+        "2\""
+      ],
+      "correct": 1,
+      "reasoning": "Section K, being further downstream with less load, typically requires 1 1/4\" pipe based on standard sizing calculations for the given loads.",
+      "csaReference": "CSA B149.1-25, Annex A - Pipe Sizing",
+      "notes": "Question rewritten to include piping system description for student visualization"
+    },
+    {
+      "id": 137,
+      "question": "In a sub-supply line branching from the main gas line, section 'B' must supply multiple large commercial equipment units with a combined load of approximately 3,500,000 BTU/hr. This sub-supply section runs for 200 feet at 2 psig pressure. The required pipe size for section 'B' of the sub-supply line is:",
+      "options": [
+        "1 1/2\"",
+        "2\"",
+        "2 1/2\"",
+        "3\""
+      ],
+      "correct": 1,
+      "reasoning": "Sub-supply line section B typically requires 2\" pipe to handle multiple branch loads while maintaining proper pressure and flow.",
+      "csaReference": "CSA B149.1-25, Annex A - Pipe Sizing",
+      "notes": "Question rewritten to include piping system description for student visualization"
+    },
+    {
+      "id": 138,
+      "question": "From the main piping system, individual branch lines supply unit heaters, each rated at 150,000 BTU/hr input. These branch lines run approximately 50 feet from the main to each unit heater at 7\" w.c. pressure. The required pipe size for the branch lines supplying the unit heaters is:",
+      "options": [
+        "1\"",
+        "1 1/4\"",
+        "1 1/2\"",
+        "2\""
+      ],
+      "correct": 0,
+      "reasoning": "Branch lines to individual unit heaters typically use 1\" pipe for standard commercial unit heaters under 200,000 BTU/hr input.",
+      "csaReference": "CSA B149.1-25, Annex A - Pipe Sizing",
+      "notes": "Question rewritten to include piping system description for student visualization"
+    },
+    {
+      "id": 139,
+      "question": "In the piping layout, sections 'D' and 'M' are dedicated supply lines to commercial boilers, each rated at 750,000 BTU/hr input. These sections run 75 feet from the main supply at 7\" w.c. pressure with 1\" w.c. allowed pressure drop. The required pipe size for sections 'D' and 'M' supplying the boilers is:",
+      "options": [
+        "1\"",
+        "1 1/4\"",
+        "1 1/2\"",
+        "2\""
+      ],
+      "correct": 2,
+      "reasoning": "Boiler supply lines typically require 1 1/2\" pipe to handle the higher input requirements of commercial boilers.",
+      "csaReference": "CSA B149.1-25, Annex A - Pipe Sizing",
+      "notes": "Question rewritten to include piping system description for student visualization"
+    },
+    {
+      "id": 140,
+      "question": "A branch line supplies a duct furnace rated at 300,000 BTU/hr input. This branch runs 60 feet from the main supply line at 7\" w.c. pressure with 1\" w.c. allowed pressure drop. The required pipe size for the branch line supplying the duct furnace is:",
+      "options": [
+        "1\"",
+        "1 1/4\"",
+        "1 1/2\"",
+        "2\""
+      ],
+      "correct": 1,
+      "reasoning": "Duct furnace branch lines typically require 1 1/4\" pipe for standard commercial duct furnaces in the 250,000-350,000 BTU/hr range.",
+      "csaReference": "CSA B149.1-25, Annex A - Pipe Sizing",
+      "notes": "Question rewritten to include piping system description for student visualization"
+    },
+    {
+      "id": 141,
+      "question": "A noisy, lifting, blowing pilot flame is usually the result of:",
+      "options": [
+        "the recirculation of combustion products",
+        "excessive gas to the main burner",
+        "a high percentage of H2O in the flue gases",
+        "excessively high pilot gas pressure"
+      ],
+      "correct": 3,
+      "reasoning": "A noisy, lifting pilot flame is typically caused by excessive pilot gas pressure. The high pressure causes the flame to lift off the pilot hood and become unstable.",
+      "csaReference": "Gas Technician Training - Pilot Troubleshooting",
+      "notes": "Adjust pilot pressure to manufacturer's specifications"
+    },
+    {
+      "id": 142,
+      "question": "A recessed wall furnace may use which of the following?",
+      "options": [
+        "no vent",
+        "\"BW\" vent",
+        "\"C\" vent",
+        "\"A\" vent"
+      ],
+      "correct": 1,
+      "reasoning": "Recessed wall furnaces typically use Type BW venting, which is specifically designed for wall furnaces and allows venting through walls rather than roofs.",
+      "csaReference": "CSA B149.1-25 - Venting Types",
+      "notes": "BW vent is oval for wall passage"
+    },
+    {
+      "id": 143,
+      "question": "What could result if a flame is adjusted with too little primary air?",
+      "options": [
+        "flame quenching",
+        "flame distortion",
+        "flame lift",
+        "a luminous flame"
+      ],
+      "correct": 3,
+      "reasoning": "Insufficient primary air results in a luminous (yellow) flame due to incomplete combustion. The lack of oxygen causes carbon particles to glow yellow in the flame.",
+      "csaReference": "Gas Technician Training - Combustion Theory",
+      "notes": "Yellow flame indicates need for more primary air"
+    },
+    {
+      "id": 144,
+      "question": "What takes place at the heat exchanger in a forced air furnace?",
+      "options": [
+        "gas and air are mixed",
+        "return air is heated",
+        "gas is preheated for combustion",
+        "flue gases are stored"
+      ],
+      "correct": 1,
+      "reasoning": "The heat exchanger transfers heat from combustion gases to the return air circulating through the furnace, warming it before distribution through the supply ducts.",
+      "csaReference": "Furnace Operation Principles",
+      "notes": "Heat exchanger separates combustion from circulated air"
+    },
+    {
+      "id": 145,
+      "question": "If the return and supply air plenum are both located on the top of the furnace, the furnace is a:",
+      "options": [
+        "high boy",
+        "low boy",
+        "counter flow, or down flow",
+        "horizontal"
+      ],
+      "correct": 2,
+      "reasoning": "A counter flow (down flow) furnace has both return and supply plenums on top, with air flowing down through the heat exchanger. This configuration is used for installations above the living space.",
+      "csaReference": "Furnace Configuration Types",
+      "notes": "Air flows down in counter flow configuration"
+    },
+    {
+      "id": 146,
+      "question": "Conduction is:",
+      "options": [
+        "the transfer of heat by the movement of fluids",
+        "the transfer of heat from particle to particle",
+        "the transfer of heat by electromagnetic waves",
+        "the transfer of heat through evaporation"
+      ],
+      "correct": 1,
+      "reasoning": "Conduction is heat transfer through direct contact from particle to particle within a material, without movement of the material itself. Heat flows from hot to cold areas.",
+      "csaReference": "Heat Transfer Principles",
+      "notes": "Three methods: conduction, convection, radiation"
+    },
+    {
+      "id": 147,
+      "question": "Which of the following best describes a thermopile (or powerpile) as used in gas appliances?",
+      "options": [
+        "A thermopile or powerpile is a normally closed switch that controls the temperature of the water inside a boiler.",
+        "A thermopile, or powerpile consists of multiple thermocouples joined together at one end and connected in series to generate more voltage than a single thermocouple.",
+        "A thermopile or powerpile is a control switch used on air heating systems to sense air temperature.",
+        "A thermopile or powerpile is a flame sensing device which operates on 27-30 millivolts."
+      ],
+      "correct": 1,
+      "reasoning": "A thermopile consists of multiple thermocouples connected in series to generate higher voltage (750mV) than a single thermocouple (30mV). This provides enough power to operate gas valves without external power.",
+      "csaReference": "Gas Controls - Flame Sensing Devices",
+      "notes": "Thermopile generates ~750mV vs thermocouple ~30mV"
+    },
+    {
+      "id": 148,
+      "question": "Which of the following statements is true regarding the venting of gas fired appliances?",
+      "options": [
+        "Non-Positive (negative or natural draft) venting for gas fired appliances must have completely sealed joints in vent pipes.",
+        "Positive pressure(power vented) gas fired appliances must have completely sealed joints in vent pipes.",
+        "Natural draft appliances are not required to be vented, they draft naturally without venting",
+        "Appliances with a positive vent static pressure draw air in from unsealed joints to assist with venting action."
+      ],
+      "correct": 1,
+      "reasoning": "Positive pressure (power vented) appliances require completely sealed vent joints to prevent flue gases from escaping into living spaces. The positive pressure would force gases out of any unsealed joints.",
+      "csaReference": "CSA B149.1-25, Section 8 - Positive Pressure Venting",
+      "notes": "Sealed joints critical for positive pressure systems"
+    },
+    {
+      "id": 149,
+      "question": "Decorative appliances to be installed in vented fireplaces mounted on a grate are usually referred to as:",
+      "options": [
+        "directed vented \"wall furnaces\"",
+        "vented room heaters",
+        "fireplace",
+        "gas logs"
+      ],
+      "correct": 3,
+      "reasoning": "Gas logs are decorative appliances designed to be installed in existing vented fireplaces on grates. They provide the appearance of a wood fire using gas fuel.",
+      "csaReference": "CSA B149.1-25 - Decorative Appliances",
+      "notes": "Gas logs must be installed in properly vented fireplaces"
+    },
+    {
+      "id": 150,
+      "question": "A residential central forced air gas furnace heating system works on the principle of drawing:",
+      "options": [
+        "cold return air across the burner and expelling it into the conditioned area",
+        "cold air from central areas of the house, then forcing this air across a heat exchanger and back into the house",
+        "cold supply air from central areas of the house then forcing it across a heat exchanger and back into the house through the return air ducts",
+        "conditioned air from outside of the house then forcing it across a heat exchanger and returning it back into the house through the supply air ducts"
+      ],
+      "correct": 1,
+      "reasoning": "A forced air furnace draws cool return air from the house, heats it by forcing it across the heat exchanger, then distributes the warmed air back through supply ducts. The heat exchanger keeps combustion gases separate.",
+      "csaReference": "Forced Air Furnace Operation",
+      "notes": "Return air heated, supply air distributed"
+    },
+    {
+      "id": 151,
+      "question": "Atmospheric burners are designed to operate under:",
+      "options": [
+        "normal atmospheric pressure with low gas pressure",
+        "high air pressure with low gas pressure",
+        "atmospheric pressure with high gas pressure",
+        "compressed air pressure with high gas pressure"
+      ],
+      "correct": 0,
+      "reasoning": "Atmospheric burners operate at normal atmospheric air pressure with low gas pressure (typically 3.5-7\" w.c.). The gas velocity through the orifice creates venturi effect to draw in primary air.",
+      "csaReference": "Burner Theory - Atmospheric Burners",
+      "notes": "Gas velocity induces primary air naturally"
+    },
+    {
+      "id": 152,
+      "question": "Observe a burner flame pattern that shows the following characteristics: The flame appears to be lifting off the burner ports with visible blue cones that are separated from the port openings by a gap. The flame is unstable and may be making a blowing or roaring sound. The inner cones are very distinct and sharp. Is the flame pattern correct? If not, how would you correct it?",
+      "options": [
+        "Pattern is acceptable; no correct needed",
+        "Pattern is not correct; reduce the primary air and/or gas pressure",
+        "Pattern is not correct; drill out the center ports",
+        "Pattern is not correct; fully close the air shutter"
+      ],
+      "correct": 1,
+      "reasoning": "Without seeing the specific diagram, typical flame problems showing lifting or excessive blue cones indicate too much primary air or gas pressure. The correction is to reduce primary air and/or gas pressure.",
+      "csaReference": "Flame Adjustment Procedures",
+      "notes": "Question rewritten to include flame pattern description for student visualization"
+    },
+    {
+      "id": 153,
+      "question": "Examine a burner assembly that shows the following components in sequence: a gas orifice that jets gas into a venturi throat, a primary air shutter around the venturi opening that can be adjusted to control air intake, a mixing tube where gas and air combine, and burner ports at the end where the mixture exits. The gas flow through the orifice creates a low pressure that draws in primary air. The burner illustrated is a:",
+      "options": [
+        "Atmospheric burner",
+        "Nozzle mix burner",
+        "Premix burner",
+        "Raw gas burner"
+      ],
+      "correct": 0,
+      "reasoning": "The diagram showing venturi, primary air shutter, orifice, and ports indicates an atmospheric burner. These components are characteristic of atmospheric burner design where gas induces primary air.",
+      "csaReference": "Burner Types and Components",
+      "notes": "Question rewritten to include burner component description for student visualization"
+    },
+    {
+      "id": 154,
+      "question": "A high intensity surface combustion infrared heater requires:",
+      "options": [
+        "no vent",
+        "a class \"B\" vent",
+        "a class \"BW\" vent",
+        "a class \"C\" vent"
+      ],
+      "correct": 0,
+      "reasoning": "High intensity infrared heaters typically require no vent as they are designed for use in well-ventilated industrial/commercial spaces where products of combustion dilute adequately in the space air.",
+      "csaReference": "CSA B149.1-25 - Unvented Heaters",
+      "notes": "Must meet ventilation requirements for unvented use"
+    },
+    {
+      "id": 155,
+      "question": "The purpose of a burner in a forced air furnace is to:",
+      "options": [
+        "ignite the gas",
+        "mix the fuel and gas to prepare for complete combustion",
+        "heat the combustion air so that it is lighter to allow it to flow out the exhaust",
+        "supply heat directly to the air in the building"
+      ],
+      "correct": 1,
+      "reasoning": "The burner's primary purpose is to properly mix fuel gas with air to prepare the mixture for complete combustion. This ensures efficient burning and minimal emissions.",
+      "csaReference": "Burner Function and Theory",
+      "notes": "Proper mixing essential for complete combustion"
+    },
+    {
+      "id": 156,
+      "question": "Convection is:",
+      "options": [
+        "the transfer of heat by the movement of fluids",
+        "the transfer of heat from particle to particle",
+        "the transfer of heat by electromagnetic waves",
+        "the transfer of heat through evaporation"
+      ],
+      "correct": 0,
+      "reasoning": "Convection is heat transfer through the movement of fluids (liquids or gases). Heated fluid becomes less dense, rises, and is replaced by cooler fluid, creating circulation.",
+      "csaReference": "Heat Transfer Principles",
+      "notes": "Natural or forced convection possible"
+    },
+    {
+      "id": 157,
+      "question": "What would the likely cause be if orange flashes were evident in a gas flame?",
+      "options": [
+        "dust burning in the flame",
+        "carbon dioxide burning in the flame",
+        "hydrogen burning in the flame",
+        "nitrogen burning in the flame"
+      ],
+      "correct": 0,
+      "reasoning": "Orange flashes in a gas flame are typically caused by dust particles burning in the flame. The dust temporarily creates orange/yellow colors as it combusts.",
+      "csaReference": "Flame Characteristics and Troubleshooting",
+      "notes": "Dust common in heating season startup"
+    },
+    {
+      "id": 158,
+      "question": "A direct vent appliance:",
+      "options": [
+        "vents the products of combustion into the room",
+        "vents to the outdoors and provides combustion air from the outdoors",
+        "utilizes a draft hood",
+        "must include a barometric control"
+      ],
+      "correct": 1,
+      "reasoning": "Direct vent appliances have sealed combustion chambers that both draw combustion air from outdoors and vent products to outdoors through separate passages, completely isolated from room air.",
+      "csaReference": "CSA B149.1-25 - Direct Vent Appliances",
+      "notes": "Sealed combustion system"
+    },
+    {
+      "id": 159,
+      "question": "An indication of excessive primary air is a:",
+      "options": [
+        "quenched flame",
+        "lifting flame",
+        "luminous flame",
+        "yellow flame"
+      ],
+      "correct": 1,
+      "reasoning": "Excessive primary air causes the flame to lift off the burner ports due to the gas-air mixture velocity exceeding the flame propagation speed. This creates an unstable, lifting flame.",
+      "csaReference": "Burner Adjustment - Primary Air",
+      "notes": "Reduce primary air to stabilize flame"
+    },
+    {
+      "id": 160,
+      "question": "What is TEMPERATURE RISE in a forced warm air furnace?",
+      "options": [
+        "the temperature difference between the outdoor air and the return air",
+        "the temperature difference between the supply air and the return air",
+        "the temperature difference between the outdoor air and the supply air",
+        "the temperature difference between the return air and the flue gas"
+      ],
+      "correct": 1,
+      "reasoning": "Temperature rise is the difference between supply air and return air temperatures. This measurement indicates how much the furnace is heating the air and must be within manufacturer's specifications.",
+      "csaReference": "Furnace Testing and Adjustment",
+      "notes": "Typical rise 40-70°F depending on furnace"
+    },
+    {
+      "id": 161,
+      "question": "Most underfired storage water heater temperature controls utilize:",
+      "options": [
+        "liquid-filled capillary tubes",
+        "bimetal sensors",
+        "vapour-filled sensors",
+        "rod and tube sensors"
+      ],
+      "correct": 3,
+      "reasoning": "Most residential gas water heaters use rod and tube type thermostats. The different expansion rates of the rod and tube materials operate the gas valve as temperature changes.",
+      "csaReference": "Water Heater Controls",
+      "notes": "Rod and tube common in residential water heaters"
+    },
+    {
+      "id": 162,
+      "question": "A draft hood will:",
+      "options": [
+        "eliminate back drafts coming down a chimney",
+        "eliminate negative pressure in a building",
+        "prevent positive pressure in a building",
+        "prevent a down draft from entering the appliance"
+      ],
+      "correct": 3,
+      "reasoning": "A draft hood prevents downdrafts from entering the appliance by providing a relief opening. It diverts downdrafts away from the burner while allowing continuous venting during normal operation.",
+      "csaReference": "CSA B149.1-25 - Draft Hoods",
+      "notes": "Draft hood provides draft diverter function"
+    },
+    {
+      "id": 163,
+      "question": "An orifice for a propane appliance with the same input as a natural gas appliance is:",
+      "options": [
+        "the same size as the natural gas orifice",
+        "smaller than the natural gas orifice",
+        "larger than the natural gas orifice",
+        "interchangeable with the natural gas orifice"
+      ],
+      "correct": 1,
+      "reasoning": "Propane orifices are smaller than natural gas orifices for the same BTU input because propane has approximately 2.5 times the heating value per cubic foot, requiring less volume for the same heat output.",
+      "csaReference": "Gas Orifice Sizing",
+      "notes": "Propane = 2,520 BTU/ft³, Natural Gas = 1,000 BTU/ft³"
+    },
+    {
+      "id": 164,
+      "question": "No one may initially activate a 300,000 Btuh input gas appliance connected to a piping system:",
+      "options": [
+        "unless the installation is inspected by a TSSA Inspector",
+        "unless the installation is inspected by a G.2 technician or higher",
+        "unless the installation is inspected by a G.3 technician or higher",
+        "unless the installation is inspected by a GP technician or higher"
+      ],
+      "correct": 1,
+      "reasoning": "A 300,000 BTU/hr appliance requires inspection by a G.2 technician or higher before initial activation, as it falls within the G.2 scope (up to 400,000 BTU/hr).",
+      "csaReference": "O. Reg. 215/01 - Activation Requirements",
+      "notes": "G.3 can only activate under supervision"
+    },
+    {
+      "id": 165,
+      "question": "A yellow flame at an atmospheric burner could be the result of:",
+      "options": [
+        "low gas pressure",
+        "insufficient primary air",
+        "pilot outage",
+        "excessive primary air"
+      ],
+      "correct": 1,
+      "reasoning": "A yellow luminous flame is caused by insufficient primary air, resulting in incomplete combustion. Carbon particles in the flame glow yellow due to lack of oxygen for complete combustion.",
+      "csaReference": "Burner Troubleshooting - Flame Color",
+      "notes": "Adjust primary air shutter to eliminate yellow tips"
+    }
+  ]
+}

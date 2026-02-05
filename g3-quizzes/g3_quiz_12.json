@@ -1,0 +1,20 @@
+{
+  "exam_id": "g3_quiz_12",
+  "exam_name": "CSA_GasTrade-Ed7_Quiz_u08-ch4",
+  "topic": "Unit 8 - Piping Systems",
+  "exam_type": "unit_quiz",
+  "question_count": 1,
+  "source_file": "CSA_GasTrade-Ed7_Quiz_u08-ch4.docx",
+  "questions": [
+    {
+      "question_number": 1,
+      "question_text": "What is necessary for corrosion to occur?",
+      "options": {
+        "A": "You may use uncoated _______________ in above ground applications where it is not exposed to corrosive elements or physical damage = Copper pipe and tubing",
+        "B": "You may only use _______________ for underground installations = Polyethylene pipe"
+      },
+      "correct_answer": null,
+      "source_file": "CSA_GasTrade-Ed7_Quiz_u08-ch4.docx"
+    }
+  ]
+}

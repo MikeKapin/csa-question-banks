@@ -1,0 +1,22 @@
+{
+  "exam_id": "g3_quiz_6",
+  "exam_name": "CSA_GasTrade-Ed7_Quiz_u06-ch2",
+  "topic": "Unit 6 - Technical Manuals",
+  "exam_type": "unit_quiz",
+  "question_count": 1,
+  "source_file": "CSA_GasTrade-Ed7_Quiz_u06-ch2.docx",
+  "questions": [
+    {
+      "question_number": 1,
+      "question_text": "Do manufacturers often publish one set of instructions for different models of the same series of appliances?",
+      "options": {
+        "A": "Work order directs you to check out operation of the relay controlling heating/cooling thermostat = Wiring Schematic",
+        "B": "New door switch required = Parts Assembly Chart including Parts Numbers",
+        "C": "Customer lives in a remote area and inquires whether there is some reference he can use if dryer malfunctions on the weekend = Common Problem Troubleshooting Guide",
+        "D": "Customer wants to know how to program thermostat = Operator’s Manual"
+      },
+      "correct_answer": null,
+      "source_file": "CSA_GasTrade-Ed7_Quiz_u06-ch2.docx"
+    }
+  ]
+}

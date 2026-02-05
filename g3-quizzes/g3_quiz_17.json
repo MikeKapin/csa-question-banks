@@ -1,0 +1,21 @@
+{
+  "exam_id": "g3_quiz_17",
+  "exam_name": "CSA_GasTrade-Ed7_Quiz_u09-ch3",
+  "topic": "Unit 9 - Gas Appliances",
+  "exam_type": "unit_quiz",
+  "question_count": 1,
+  "source_file": "CSA_GasTrade-Ed7_Quiz_u09-ch3.docx",
+  "questions": [
+    {
+      "question_number": 1,
+      "question_text": "Aerated and non-aerating are types of what?",
+      "options": {
+        "A": "Remains on all the time = Constant pilot",
+        "B": "Remains on during the firing cycle = Intermittent pilot",
+        "C": "Is turned on to light the main flame and is extinguished after the flame has been proved = Interrupted pilot"
+      },
+      "correct_answer": null,
+      "source_file": "CSA_GasTrade-Ed7_Quiz_u09-ch3.docx"
+    }
+  ]
+}

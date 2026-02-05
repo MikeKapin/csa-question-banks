@@ -1,0 +1,22 @@
+{
+  "exam_id": "g3_quiz_5",
+  "exam_name": "CSA_GasTrade-Ed7_Quiz_u05-ch5",
+  "topic": "Unit 5 - Electricity & Combustion",
+  "exam_type": "unit_quiz",
+  "question_count": 1,
+  "source_file": "CSA_GasTrade-Ed7_Quiz_u05-ch5.docx",
+  "questions": [
+    {
+      "question_number": 1,
+      "question_text": "Which type of electrical current flows in both directions?",
+      "options": {
+        "A": "One terminal is always negative, the other always positive.  Direction of current flow is constant, reverses only if terminal connections are reversed = Direct current",
+        "B": "As it rotates, a voltage appearing at the end of the coil is transferred to an external circuit by slip rings and brushes = AC Generator",
+        "C": "Number of current cycles per second: = Frequency/hertz",
+        "D": "Used extensively in electronic devices, small appliances, and automobile electrical systems; current flow is always in the same direction = Direct current"
+      },
+      "correct_answer": null,
+      "source_file": "CSA_GasTrade-Ed7_Quiz_u05-ch5.docx"
+    }
+  ]
+}

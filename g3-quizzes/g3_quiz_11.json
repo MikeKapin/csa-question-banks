@@ -1,0 +1,22 @@
+{
+  "exam_id": "g3_quiz_11",
+  "exam_name": "CSA_GasTrade-Ed7_Quiz_u08-ch2",
+  "topic": "Unit 8 - Piping Systems",
+  "exam_type": "unit_quiz",
+  "question_count": 1,
+  "source_file": "CSA_GasTrade-Ed7_Quiz_u08-ch2.docx",
+  "questions": [
+    {
+      "question_number": 1,
+      "question_text": "When during a piping installation should pressure testing be carried out?",
+      "options": {
+        "A": "Place a pressure gauge on the system = 2",
+        "B": "Mark the pressure gauges and observe for leakage = 5",
+        "C": "When the system is up to pressure, close the manual valves = 4",
+        "D": "Do a main manual shut-off valve seepage test = 1"
+      },
+      "correct_answer": null,
+      "source_file": "CSA_GasTrade-Ed7_Quiz_u08-ch2.docx"
+    }
+  ]
+}
