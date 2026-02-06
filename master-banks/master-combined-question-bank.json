@@ -1,15 +1,15 @@
 {
   "bank_id": "master-combined-question-bank",
-  "total_questions": 1056,
+  "total_questions": 1101,
   "created_date": "2026-02-06",
   "description": "Complete combined question bank for G2 and G3 Ontario gas technician certification",
   "distribution": {
     "G3": 638,
-    "G2": 418
+    "G2": 463
   },
   "sources": {
     "phase1_verified": 268,
-    "phase2_generated": 575,
+    "phase2_generated": 620,
     "phase3_verified": 213
   },
   "questions": [
@@ -27621,6 +27621,1267 @@
       "source_file": "verified-batch-5-g3-quiz20-prep25.json",
       "source_quiz": "g3_exam_prep_25",
       "question_id": "g3_phase1_batch5_009"
+    },
+    {
+      "question_id": "g2_unit11_036",
+      "question_text": "In a gas pressure regulator, what provides the closing force that opposes the opening force of the adjusting spring?",
+      "options": {
+        "A": "Downstream gas pressure acting on the underside of the diaphragm",
+        "B": "Atmospheric pressure acting on the top of the diaphragm",
+        "C": "Upstream gas pressure acting on the valve disc",
+        "D": "The weight of the diaphragm assembly"
+      },
+      "correct_answer": "A",
+      "explanation": "The closing force in a gas pressure regulator is provided by the downstream (outlet) pressure acting on the underside of the diaphragm. This pressure pushes upward against the diaphragm, opposing the downward opening force of the adjusting spring. When downstream pressure rises to the setpoint, the closing force equals the opening force and the valve modulates toward closed. This balance between spring force (opening) and downstream pressure (closing) is the fundamental operating principle of a direct-operated regulator.",
+      "code_references": [
+        "CSA B149.1-25 Clause 6.3"
+      ],
+      "unit_references": [
+        "Unit 11 - Pressure Regulators, Overpressure Protection, and Gas Meters"
+      ],
+      "topics": [
+        "closing force",
+        "regulator operation",
+        "spring vs gas pressure"
+      ],
+      "difficulty": "basic",
+      "question_type": "knowledge",
+      "certification_level": "G2",
+      "source_phase": "phase2",
+      "source_file": "generated-g2-unit11-expansion.json"
+    },
+    {
+      "question_id": "g2_unit11_037",
+      "question_text": "What is 'boot pressure' in the context of a gas pressure regulator?",
+      "options": {
+        "A": "The maximum pressure the regulator body can withstand",
+        "B": "The pressure at which the regulator vent begins to discharge",
+        "C": "The minimum inlet pressure required to open the regulator valve",
+        "D": "The pressure in the chamber below the diaphragm that assists the spring in opening the valve"
+      },
+      "correct_answer": "D",
+      "explanation": "Boot pressure refers to the pressure in the lower chamber (boot) of certain regulator designs that assists the adjusting spring in providing opening force. In regulators that use boot pressure, a portion of the upstream or a reference pressure is directed to the chamber below the diaphragm. This additional pressure supplements the spring force, allowing the regulator to handle higher inlet pressures or provide more precise control. Boot pressure is particularly important in pilot-operated regulators where it amplifies the control signal.",
+      "code_references": [
+        "CSA B149.1-25 Clause 6.3"
+      ],
+      "unit_references": [
+        "Unit 11 - Pressure Regulators, Overpressure Protection, and Gas Meters"
+      ],
+      "topics": [
+        "boot pressure",
+        "regulator design",
+        "opening force"
+      ],
+      "difficulty": "intermediate",
+      "question_type": "knowledge",
+      "certification_level": "G2",
+      "source_phase": "phase2",
+      "source_file": "generated-g2-unit11-expansion.json"
+    },
+    {
+      "question_id": "g2_unit11_038",
+      "question_text": "In an air/gas proportioning system, what is the primary function of the zero-governor regulator?",
+      "options": {
+        "A": "To maintain a constant gas pressure regardless of airflow",
+        "B": "To shut off the gas supply when the air pressure drops to zero",
+        "C": "To deliver gas at a pressure equal to the air supply pressure, maintaining a constant air-to-gas ratio",
+        "D": "To reduce the gas pressure to zero inches w.c. at the burner"
+      },
+      "correct_answer": "C",
+      "explanation": "In an air/gas proportioning system, the zero-governor regulator delivers gas at a pressure that matches (or is proportional to) the combustion air supply pressure. The term 'zero governor' means the regulator maintains zero differential between the gas outlet pressure and the air reference pressure. As the air pressure varies with combustion demand, the gas pressure follows proportionally, maintaining the correct air-to-gas ratio across the full firing range. This ensures proper combustion efficiency and safety at all load conditions.",
+      "code_references": [
+        "CSA B149.1-25 Clause 6.3"
+      ],
+      "unit_references": [
+        "Unit 11 - Pressure Regulators, Overpressure Protection, and Gas Meters"
+      ],
+      "topics": [
+        "zero-governor regulator",
+        "air/gas proportioning",
+        "combustion control"
+      ],
+      "difficulty": "advanced",
+      "question_type": "knowledge",
+      "certification_level": "G2",
+      "source_phase": "phase2",
+      "source_file": "generated-g2-unit11-expansion.json"
+    },
+    {
+      "question_id": "g2_unit11_039",
+      "question_text": "When sizing a regulator for a commercial application, what is the MOST critical factor to consider?",
+      "options": {
+        "A": "The physical pipe size of the installation",
+        "B": "The total connected load in Btu/hr and the required pressure drop across the regulator",
+        "C": "The color coding of the regulator body",
+        "D": "The brand of appliances being served"
+      },
+      "correct_answer": "B",
+      "explanation": "When sizing a regulator for commercial applications, the most critical factors are the total connected load (in Btu/hr) and the available pressure drop across the regulator (difference between inlet and outlet pressures). The regulator must be capable of supplying the maximum gas demand while maintaining the required outlet pressure. Simply matching the pipe size can lead to an oversized or undersized regulator. Manufacturer capacity charts must be consulted, which show regulator capacity at various inlet pressures and pressure drops. An undersized regulator will starve appliances; an oversized regulator may cause instability and poor regulation.",
+      "code_references": [
+        "CSA B149.1-25 Clause 6.3.1"
+      ],
+      "unit_references": [
+        "Unit 11 - Pressure Regulators, Overpressure Protection, and Gas Meters"
+      ],
+      "topics": [
+        "regulator sizing",
+        "commercial applications",
+        "capacity ratings"
+      ],
+      "difficulty": "intermediate",
+      "question_type": "application",
+      "certification_level": "G2",
+      "source_phase": "phase2",
+      "source_file": "generated-g2-unit11-expansion.json"
+    },
+    {
+      "question_id": "g2_unit11_040",
+      "question_text": "What is 'dead-end lockup' in a gas pressure regulator?",
+      "options": {
+        "A": "A condition where the regulator fails to open when gas is demanded",
+        "B": "A condition where the regulator cannot fully close and gas continues to leak through",
+        "C": "A condition where the regulator vent is blocked causing internal damage",
+        "D": "The pressure at which the regulator outlet stabilizes when all downstream flow is stopped"
+      },
+      "correct_answer": "D",
+      "explanation": "Dead-end lockup refers to the outlet pressure that a regulator stabilizes at when all downstream flow is stopped (zero flow condition). In an ideal regulator, lockup pressure would equal the set pressure, but in practice the lockup pressure is slightly higher than the flowing outlet pressure. This occurs because with no gas flowing, the downstream pressure builds slightly until the closing force (downstream pressure on diaphragm) fully overcomes the spring opening force and seats the valve. The difference between lockup pressure and set pressure indicates the regulator's precision. Excessive lockup can indicate a worn valve seat or incorrect spring adjustment.",
+      "code_references": [
+        "CSA B149.1-25 Clause 6.3"
+      ],
+      "unit_references": [
+        "Unit 11 - Pressure Regulators, Overpressure Protection, and Gas Meters"
+      ],
+      "topics": [
+        "dead-end lockup",
+        "regulator performance",
+        "zero flow conditions"
+      ],
+      "difficulty": "intermediate",
+      "question_type": "knowledge",
+      "certification_level": "G2",
+      "source_phase": "phase2",
+      "source_file": "generated-g2-unit11-expansion.json"
+    },
+    {
+      "question_id": "g2_unit11_041",
+      "question_text": "A regulator is rated at 500,000 Btu/hr capacity on natural gas (1,000 Btu/ft cubed). What is the equivalent capacity in cubic feet per hour?",
+      "options": {
+        "A": "250 ft cubed/hr",
+        "B": "500 ft cubed/hr",
+        "C": "750 ft cubed/hr",
+        "D": "1,000 ft cubed/hr"
+      },
+      "correct_answer": "B",
+      "explanation": "To convert regulator capacity from Btu/hr to ft cubed/hr, divide the Btu/hr rating by the heating value of the gas. For natural gas at 1,000 Btu/ft cubed: 500,000 Btu/hr divided by 1,000 Btu/ft cubed = 500 ft cubed/hr. This conversion is essential when comparing regulator capacity ratings, as manufacturers may rate their products in either Btu/hr or ft cubed/hr. Always verify the heating value being used, as natural gas heating values can range from approximately 950 to 1,050 Btu/ft cubed depending on the gas composition in a given service area.",
+      "code_references": [
+        "CSA B149.1-25 Clause 6.3.1"
+      ],
+      "unit_references": [
+        "Unit 11 - Pressure Regulators, Overpressure Protection, and Gas Meters"
+      ],
+      "topics": [
+        "regulator capacity",
+        "Btu/hr to ft3/hr conversion",
+        "calculations"
+      ],
+      "difficulty": "intermediate",
+      "question_type": "calculation",
+      "certification_level": "G2",
+      "source_phase": "phase2",
+      "source_file": "generated-g2-unit11-expansion.json"
+    },
+    {
+      "question_id": "g2_unit11_042",
+      "question_text": "In a two-stage propane system, the first-stage regulator typically reduces pressure from tank pressure to what intermediate pressure range?",
+      "options": {
+        "A": "5 psig to 10 psig",
+        "B": "50 psig to 100 psig",
+        "C": "7 in. w.c. to 14 in. w.c.",
+        "D": "0.5 psig to 2 psig"
+      },
+      "correct_answer": "A",
+      "explanation": "In a two-stage propane system, the first-stage (high-pressure) regulator reduces the varying tank pressure (which can range from approximately 10 to 200+ psig depending on temperature) to an intermediate pressure, typically in the range of 5 to 10 psig. The second-stage regulator then further reduces this intermediate pressure to the appliance supply pressure, typically 11 in. w.c. (approximately 0.4 psig). This two-stage approach provides more stable outlet pressure despite fluctuating tank pressures and allows smaller diameter piping between the first and second stage due to the elevated intermediate pressure.",
+      "code_references": [
+        "CSA B149.1-25 Clause 6.3.3"
+      ],
+      "unit_references": [
+        "Unit 11 - Pressure Regulators, Overpressure Protection, and Gas Meters"
+      ],
+      "topics": [
+        "first-stage regulator",
+        "second-stage regulator",
+        "propane systems",
+        "pressure ranges"
+      ],
+      "difficulty": "basic",
+      "question_type": "knowledge",
+      "certification_level": "G2",
+      "source_phase": "phase2",
+      "source_file": "generated-g2-unit11-expansion.json"
+    },
+    {
+      "question_id": "g2_unit11_043",
+      "question_text": "What material is required for regulator vent piping that is exposed to the outdoors?",
+      "options": {
+        "A": "PVC plastic pipe",
+        "B": "Flexible corrugated stainless steel tubing (CSST)",
+        "C": "Copper tubing only",
+        "D": "Corrosion-resistant metal such as aluminum or stainless steel, or otherwise protected steel"
+      },
+      "correct_answer": "D",
+      "explanation": "Regulator vent piping that is exposed to outdoor conditions must be made of corrosion-resistant material or be protected against corrosion. Suitable materials include aluminum, stainless steel, or steel pipe with appropriate corrosion protection. The vent line must be able to withstand weather exposure without deteriorating, as a corroded-through vent pipe could allow gas to escape at an unintended location or allow moisture intrusion that could damage the regulator diaphragm. PVC and other plastic materials are generally not permitted for regulator vent lines. The vent termination must also be protected against water and insect entry.",
+      "code_references": [
+        "CSA B149.1-25 Clause 6.3.8"
+      ],
+      "unit_references": [
+        "Unit 11 - Pressure Regulators, Overpressure Protection, and Gas Meters"
+      ],
+      "topics": [
+        "vent line material",
+        "regulator vent piping",
+        "corrosion resistance"
+      ],
+      "difficulty": "intermediate",
+      "question_type": "knowledge",
+      "certification_level": "G2",
+      "source_phase": "phase2",
+      "source_file": "generated-g2-unit11-expansion.json"
+    },
+    {
+      "question_id": "g2_unit11_044",
+      "question_text": "What is the likely consequence of an adjusting spring being set too tight in a service regulator?",
+      "options": {
+        "A": "The outlet pressure will be higher than the design setpoint, potentially causing overpressure downstream",
+        "B": "The regulator will fail to open and no gas will flow",
+        "C": "The regulator will produce excessive noise but normal pressure",
+        "D": "The diaphragm will immediately rupture"
+      },
+      "correct_answer": "A",
+      "explanation": "If the adjusting spring in a service regulator is set too tight (over-tightened), the spring exerts excessive opening force on the diaphragm. This means the downstream pressure must build higher than the design setpoint before the closing force (downstream pressure on the diaphragm) can overcome the excessive spring force to close the valve. The result is an outlet pressure that is above the intended setpoint. This is a dangerous condition because it can overpressurize downstream piping and appliances, potentially exceeding their rated working pressure. This is why overpressure protection devices are required and why only qualified personnel should adjust regulator springs.",
+      "code_references": [
+        "CSA B149.1-25 Clause 6.3.2"
+      ],
+      "unit_references": [
+        "Unit 11 - Pressure Regulators, Overpressure Protection, and Gas Meters"
+      ],
+      "topics": [
+        "spring adjustment",
+        "overpressure",
+        "regulator malfunction"
+      ],
+      "difficulty": "intermediate",
+      "question_type": "application",
+      "certification_level": "G2",
+      "source_phase": "phase2",
+      "source_file": "generated-g2-unit11-expansion.json"
+    },
+    {
+      "question_id": "g2_unit11_045",
+      "question_text": "What is the function of a step-opening regulator?",
+      "options": {
+        "A": "To gradually increase outlet pressure in defined steps over a timed sequence",
+        "B": "To step down pressure through three stages in a single regulator body",
+        "C": "To delay full gas flow to a large burner system, allowing the pilot to establish before main burner ignition",
+        "D": "To open fully in one step when downstream pressure drops below setpoint"
+      },
+      "correct_answer": "C",
+      "explanation": "A step-opening regulator (also called a slow-opening regulator) is designed to delay the full opening of the gas valve to a large-capacity burner system. When the downstream appliance calls for gas, the step-opening regulator opens gradually rather than snapping fully open. This allows the pilot or ignition source to establish a flame before the full gas volume reaches the main burner, preventing the hazardous condition of a large volume of unburned gas accumulating in the combustion chamber. Step-opening regulators are commonly used on commercial and industrial burner systems with large gas inputs where a sudden full-flow condition could cause a delayed ignition explosion.",
+      "code_references": [
+        "CSA B149.1-25 Clause 6.3"
+      ],
+      "unit_references": [
+        "Unit 11 - Pressure Regulators, Overpressure Protection, and Gas Meters"
+      ],
+      "topics": [
+        "step-opening regulator",
+        "slow-opening",
+        "burner safety"
+      ],
+      "difficulty": "intermediate",
+      "question_type": "knowledge",
+      "certification_level": "G2",
+      "source_phase": "phase2",
+      "source_file": "generated-g2-unit11-expansion.json"
+    },
+    {
+      "question_id": "g2_unit11_046",
+      "question_text": "At approximately what temperature does propane vapor pressure equal 0 psig (atmospheric pressure)?",
+      "options": {
+        "A": "-44 deg F (-42 deg C)",
+        "B": "32 deg F (0 deg C)",
+        "C": "-10 deg F (-23 deg C)",
+        "D": "60 deg F (15.5 deg C)"
+      },
+      "correct_answer": "A",
+      "explanation": "Propane has a boiling point of approximately -44 deg F (-42 deg C) at atmospheric pressure. This means that at -44 deg F, propane vapor pressure equals atmospheric pressure (0 psig) and the liquid propane will not produce sufficient vapor pressure to flow through a regulator. As the temperature rises above -44 deg F, the vapor pressure increases. For example, at 0 deg F propane has approximately 25 psig vapor pressure, and at 100 deg F it reaches approximately 190 psig. This temperature-pressure relationship is critical for propane system design, especially in cold climates where low temperatures can reduce vapor pressure to the point where the first-stage regulator cannot maintain adequate flow.",
+      "code_references": [
+        "CSA B149.1-25 Clause 6.3.3"
+      ],
+      "unit_references": [
+        "Unit 11 - Pressure Regulators, Overpressure Protection, and Gas Meters"
+      ],
+      "topics": [
+        "propane vapor pressure",
+        "temperature relationship",
+        "boiling point"
+      ],
+      "difficulty": "basic",
+      "question_type": "knowledge",
+      "certification_level": "G2",
+      "source_phase": "phase2",
+      "source_file": "generated-g2-unit11-expansion.json"
+    },
+    {
+      "question_id": "g2_unit11_047",
+      "question_text": "A standard residential service regulator for natural gas typically has an inlet pressure rating of 2 psig and delivers an outlet pressure of:",
+      "options": {
+        "A": "3.5 in. w.c.",
+        "B": "14 in. w.c.",
+        "C": "7 in. w.c.",
+        "D": "2 psig"
+      },
+      "correct_answer": "C",
+      "explanation": "A standard residential service regulator for natural gas typically receives inlet pressure at approximately 2 psig (which is the common distribution system pressure for residential areas) and reduces it to a standard appliance supply pressure of 7 in. w.c. (approximately 1/4 psig or 1.74 kPa). This 7 in. w.c. is the standard supply pressure for natural gas appliances in North America. The regulator must maintain this outlet pressure as closely as possible across the full range of flow demand, from pilot-only load to maximum demand when all appliances are operating simultaneously.",
+      "code_references": [
+        "CSA B149.1-25 Clause 6.3.1"
+      ],
+      "unit_references": [
+        "Unit 11 - Pressure Regulators, Overpressure Protection, and Gas Meters"
+      ],
+      "topics": [
+        "inlet pressure",
+        "outlet pressure",
+        "residential service regulator"
+      ],
+      "difficulty": "basic",
+      "question_type": "knowledge",
+      "certification_level": "G2",
+      "source_phase": "phase2",
+      "source_file": "generated-g2-unit11-expansion.json"
+    },
+    {
+      "question_id": "g2_unit11_048",
+      "question_text": "A line pressure regulator used on a medium-pressure gas distribution system (up to 60 psig) differs from a standard service regulator primarily in that it:",
+      "options": {
+        "A": "Does not require a vent",
+        "B": "Uses a plastic diaphragm instead of rubber",
+        "C": "Can only be installed outdoors",
+        "D": "Is designed to handle higher inlet pressures and typically has a reinforced body and heavier spring"
+      },
+      "correct_answer": "D",
+      "explanation": "Line pressure regulators used on medium-pressure distribution systems (typically up to 60 psig or higher) are designed to handle significantly higher inlet pressures than standard residential service regulators. They feature reinforced bodies rated for the higher working pressures, heavier adjusting springs capable of providing the necessary opening force against higher downstream pressures, and larger valve assemblies. These regulators are used to step down pressure from medium-pressure distribution mains to lower pressures suitable for individual service lines or buildings. They still require proper venting and can be installed in approved indoor or outdoor locations per code requirements.",
+      "code_references": [
+        "CSA B149.1-25 Clause 6.3.4"
+      ],
+      "unit_references": [
+        "Unit 11 - Pressure Regulators, Overpressure Protection, and Gas Meters"
+      ],
+      "topics": [
+        "line pressure regulator",
+        "medium-pressure systems",
+        "regulator design"
+      ],
+      "difficulty": "intermediate",
+      "question_type": "knowledge",
+      "certification_level": "G2",
+      "source_phase": "phase2",
+      "source_file": "generated-g2-unit11-expansion.json"
+    },
+    {
+      "question_id": "g2_unit11_049",
+      "question_text": "What is the minimum clearance required between a regulator vent termination and any building opening such as a window or door?",
+      "options": {
+        "A": "12 inches (300 mm)",
+        "B": "3 feet (0.9 m)",
+        "C": "6 feet (1.8 m)",
+        "D": "10 feet (3.0 m)"
+      },
+      "correct_answer": "B",
+      "explanation": "Per CSA B149.1, a regulator vent termination must be located at least 3 feet (0.9 m) from any building opening including windows, doors, and mechanical air intakes. This clearance ensures that any gas discharged from the regulator vent during normal operation (breathing) or in a diaphragm failure condition does not enter the building and create an explosion or asphyxiation hazard. The vent must also terminate in a location where gas can safely disperse to the atmosphere, pointing downward or otherwise protected from water and debris entry.",
+      "code_references": [
+        "CSA B149.1-25 Clause 6.3.8"
+      ],
+      "unit_references": [
+        "Unit 11 - Pressure Regulators, Overpressure Protection, and Gas Meters"
+      ],
+      "topics": [
+        "regulator installation",
+        "vent clearances",
+        "building openings"
+      ],
+      "difficulty": "basic",
+      "question_type": "knowledge",
+      "certification_level": "G2",
+      "source_phase": "phase2",
+      "source_file": "generated-g2-unit11-expansion.json"
+    },
+    {
+      "question_id": "g2_unit11_050",
+      "question_text": "Why must a service regulator be installed with the diaphragm in the orientation specified by the manufacturer (typically with the vent facing down or to the side)?",
+      "options": {
+        "A": "To maximize gas flow capacity",
+        "B": "To allow the regulator to be painted more easily",
+        "C": "To prevent moisture accumulation in the diaphragm chamber and ensure proper vent drainage",
+        "D": "To reduce the noise of gas flowing through the regulator"
+      },
+      "correct_answer": "C",
+      "explanation": "Regulators must be installed in the correct orientation as specified by the manufacturer to prevent moisture accumulation in the diaphragm chamber and to ensure proper drainage of the vent. If installed with the vent facing upward, condensation or rainwater could collect in the vent line and diaphragm chamber, potentially freezing in cold weather and blocking the vent. A blocked vent prevents the atmospheric reference pressure from acting on the diaphragm, which disrupts regulation and can lead to overpressure conditions. Proper orientation also ensures the internal components operate as designed, with gravity assisting rather than hindering valve operation.",
+      "code_references": [
+        "CSA B149.1-25 Clause 6.3.6"
+      ],
+      "unit_references": [
+        "Unit 11 - Pressure Regulators, Overpressure Protection, and Gas Meters"
+      ],
+      "topics": [
+        "regulator orientation",
+        "installation requirements",
+        "moisture prevention"
+      ],
+      "difficulty": "basic",
+      "question_type": "knowledge",
+      "certification_level": "G2",
+      "source_phase": "phase2",
+      "source_file": "generated-g2-unit11-expansion.json"
+    },
+    {
+      "question_id": "g2_unit11_051",
+      "question_text": "What is the key difference between a 'working pressure monitor' and a 'wide-open monitor' in an overpressure protection system?",
+      "options": {
+        "A": "A working pressure monitor uses a relief valve; a wide-open monitor uses a slam-shut device",
+        "B": "There is no difference; these are two names for the same device",
+        "C": "A working pressure monitor is installed upstream of the meter; a wide-open monitor is installed downstream",
+        "D": "A working pressure monitor is set at the same pressure as the service regulator; a wide-open monitor is set higher and only activates if the service regulator fails"
+      },
+      "correct_answer": "D",
+      "explanation": "In a working pressure monitor configuration, the monitor regulator is set at the same outlet pressure as the service (worker) regulator. Both regulators actively participate in controlling downstream pressure, with the monitor regulator partially open during normal operation. In a wide-open monitor configuration, the monitor regulator is set at a higher pressure (typically 1-2 psi above the worker setpoint), so during normal operation the monitor regulator is wide open and the worker regulator does all the pressure regulation. The monitor only begins to regulate if the worker fails and downstream pressure rises to the monitor's higher setpoint. The wide-open monitor's disadvantage is that when it activates, the downstream pressure will be higher than normal.",
+      "code_references": [
+        "CSA B149.1-25 Clause 6.4.2"
+      ],
+      "unit_references": [
+        "Unit 11 - Pressure Regulators, Overpressure Protection, and Gas Meters"
+      ],
+      "topics": [
+        "working pressure monitor",
+        "wide-open monitor",
+        "overpressure protection"
+      ],
+      "difficulty": "advanced",
+      "question_type": "knowledge",
+      "certification_level": "G2",
+      "source_phase": "phase2",
+      "source_file": "generated-g2-unit11-expansion.json"
+    },
+    {
+      "question_id": "g2_unit11_052",
+      "question_text": "In a series regulation (two-cut) overpressure protection system, what happens if the first (upstream) regulator fails open?",
+      "options": {
+        "A": "Gas supply is immediately shut off by a slam-shut device",
+        "B": "The second (downstream) regulator takes over pressure regulation, preventing overpressure to the building",
+        "C": "A relief valve activates to vent all excess gas",
+        "D": "The gas meter automatically stops registering flow"
+      },
+      "correct_answer": "B",
+      "explanation": "In a series regulation (two-cut) system, two regulators are installed in series. Under normal conditions, the first regulator does the primary pressure regulation and the second regulator is set slightly higher, remaining wide open. If the first regulator fails open (allowing full upstream pressure to pass through), the second regulator takes over and reduces the pressure to a safe level for the downstream piping and appliances. This provides a redundant layer of overpressure protection. The key advantage of series regulation is that it maintains gas supply (at a slightly higher pressure) even when the primary regulator fails, unlike a slam-shut device which cuts off gas supply entirely.",
+      "code_references": [
+        "CSA B149.1-25 Clause 6.4.2"
+      ],
+      "unit_references": [
+        "Unit 11 - Pressure Regulators, Overpressure Protection, and Gas Meters"
+      ],
+      "topics": [
+        "series regulation",
+        "two-cut system",
+        "regulator failure"
+      ],
+      "difficulty": "intermediate",
+      "question_type": "application",
+      "certification_level": "G2",
+      "source_phase": "phase2",
+      "source_file": "generated-g2-unit11-expansion.json"
+    },
+    {
+      "question_id": "g2_unit11_053",
+      "question_text": "How frequently should OPSO (Over Pressure Shut Off) slam-shut devices be tested according to best practice?",
+      "options": {
+        "A": "Annually, or as specified by the authority having jurisdiction and manufacturer's recommendations",
+        "B": "Every 5 years",
+        "C": "Only when initially installed",
+        "D": "Monthly"
+      },
+      "correct_answer": "A",
+      "explanation": "OPSO (slam-shut) devices should be tested at regular intervals to ensure they will function properly when needed. Best practice and many authorities having jurisdiction (AHJ) require annual testing, though some jurisdictions or manufacturer's instructions may specify different intervals. Testing involves verifying that the device trips (shuts off gas flow) at the correct pressure setpoint and that the manual reset mechanism functions properly. Without regular testing, an OPSO device may fail to activate during an overpressure event due to diaphragm deterioration, mechanical binding, or other degradation over time, leaving the downstream system unprotected.",
+      "code_references": [
+        "CSA B149.1-25 Clause 6.4.5"
+      ],
+      "unit_references": [
+        "Unit 11 - Pressure Regulators, Overpressure Protection, and Gas Meters"
+      ],
+      "topics": [
+        "OPSO testing",
+        "slam-shut devices",
+        "testing frequency"
+      ],
+      "difficulty": "basic",
+      "question_type": "knowledge",
+      "certification_level": "G2",
+      "source_phase": "phase2",
+      "source_file": "generated-g2-unit11-expansion.json"
+    },
+    {
+      "question_id": "g2_unit11_054",
+      "question_text": "Where must the discharge piping from a gas pressure relief valve terminate?",
+      "options": {
+        "A": "Inside the building's mechanical room near an exhaust fan",
+        "B": "Into the gas meter's bypass line",
+        "C": "Outdoors, in a safe location at least 3 feet from any building opening, source of ignition, or mechanical air intake",
+        "D": "Into the building's natural gas piping system downstream of the meter"
+      },
+      "correct_answer": "C",
+      "explanation": "Relief valve discharge piping must terminate outdoors in a safe location where released gas can disperse harmlessly into the atmosphere. The termination point must be at least 3 feet (0.9 m) from any building opening (windows, doors), sources of ignition, and mechanical air intakes. The discharge piping must be sized to handle the full relief capacity without creating excessive back pressure on the relief valve, and the termination must be protected against water and debris entry. Relief gas must never be discharged indoors or into any enclosed space, as this would create an explosion and asphyxiation hazard.",
+      "code_references": [
+        "CSA B149.1-25 Clause 6.4.4"
+      ],
+      "unit_references": [
+        "Unit 11 - Pressure Regulators, Overpressure Protection, and Gas Meters"
+      ],
+      "topics": [
+        "relief valve discharge",
+        "piping requirements",
+        "vent termination"
+      ],
+      "difficulty": "basic",
+      "question_type": "knowledge",
+      "certification_level": "G2",
+      "source_phase": "phase2",
+      "source_file": "generated-g2-unit11-expansion.json"
+    },
+    {
+      "question_id": "g2_unit11_055",
+      "question_text": "Per CSA B149.1-25, overpressure protection requirements are based primarily on:",
+      "options": {
+        "A": "The supply pressure, installation type, piping design pressure, and appliance inlet pressure ratings",
+        "B": "The number of appliances connected to the system",
+        "C": "The total Btu/hr of connected appliances exceeding 400,000 Btu/hr",
+        "D": "The age of the building"
+      },
+      "correct_answer": "A",
+      "explanation": "CSA B149.1-25 does not base the requirement for overpressure protection solely on a specific Btu/hr threshold of connected appliances. Rather, the requirement for overpressure protection depends on factors including the supply pressure, the type of installation, the piping system design pressure, and the appliance inlet pressure ratings. Overpressure protection is required whenever the available supply pressure exceeds the maximum allowable working pressure of the downstream piping system or appliance ratings. For example, any system served by a regulator where upstream pressure could potentially reach the downstream piping must have overpressure protection appropriate to the installation.",
+      "code_references": [
+        "CSA B149.1-25 Clause 6.4.1"
+      ],
+      "unit_references": [
+        "Unit 11 - Pressure Regulators, Overpressure Protection, and Gas Meters"
+      ],
+      "topics": [
+        "overpressure protection requirements",
+        "CSA code clauses",
+        "appliance ratings"
+      ],
+      "difficulty": "intermediate",
+      "question_type": "knowledge",
+      "certification_level": "G2",
+      "source_phase": "phase2",
+      "source_file": "generated-g2-unit11-expansion.json"
+    },
+    {
+      "question_id": "g2_unit11_056",
+      "question_text": "When adjusting a monitor regulator in a wide-open monitor configuration, the monitor should be set to:",
+      "options": {
+        "A": "The same pressure as the worker regulator",
+        "B": "A lower pressure than the worker regulator",
+        "C": "A pressure slightly higher than the worker regulator's setpoint, typically 1-2 psi above",
+        "D": "The maximum rated pressure of the downstream piping"
+      },
+      "correct_answer": "C",
+      "explanation": "In a wide-open monitor configuration, the monitor regulator is set slightly higher than the worker regulator, typically 1 to 2 psi above the worker's outlet pressure setpoint. This ensures that under normal operating conditions, the worker regulator controls the outlet pressure while the monitor remains wide open, offering no restriction. If the worker regulator fails and downstream pressure rises beyond the worker's setpoint, the monitor regulator begins to regulate at its higher setpoint, preventing dangerous overpressure. The monitor must not be set too high, or the downstream piping could be exposed to unacceptably high pressure during a worker failure.",
+      "code_references": [
+        "CSA B149.1-25 Clause 6.4.2"
+      ],
+      "unit_references": [
+        "Unit 11 - Pressure Regulators, Overpressure Protection, and Gas Meters"
+      ],
+      "topics": [
+        "monitor regulator",
+        "spring adjustment",
+        "series regulation"
+      ],
+      "difficulty": "intermediate",
+      "question_type": "application",
+      "certification_level": "G2",
+      "source_phase": "phase2",
+      "source_file": "generated-g2-unit11-expansion.json"
+    },
+    {
+      "question_id": "g2_unit11_057",
+      "question_text": "According to CSA B149.1-25, which clause addresses the general requirements for overpressure protection of gas piping systems?",
+      "options": {
+        "A": "Clause 4.1 - General Piping Requirements",
+        "B": "Clause 6.4 - Overpressure Protection",
+        "C": "Clause 8.1 - Appliance Installation",
+        "D": "Clause 7.2 - Venting Systems"
+      },
+      "correct_answer": "B",
+      "explanation": "CSA B149.1-25 addresses overpressure protection requirements primarily in Clause 6.4. This clause covers the general requirements for protecting gas piping systems from pressures that exceed their design limits. It includes provisions for the types of overpressure protection devices permitted (relief valves, monitoring regulators, slam-shut devices), their sizing requirements, installation standards, testing procedures, and maintenance. Gas technicians should be familiar with this clause and its subclauses as they form the regulatory basis for all overpressure protection installations in natural gas and propane systems.",
+      "code_references": [
+        "CSA B149.1-25 Clause 6.4"
+      ],
+      "unit_references": [
+        "Unit 11 - Pressure Regulators, Overpressure Protection, and Gas Meters"
+      ],
+      "topics": [
+        "CSA code clauses",
+        "overpressure protection",
+        "code references"
+      ],
+      "difficulty": "basic",
+      "question_type": "knowledge",
+      "certification_level": "G2",
+      "source_phase": "phase2",
+      "source_file": "generated-g2-unit11-expansion.json"
+    },
+    {
+      "question_id": "g2_unit11_058",
+      "question_text": "Under what circumstances would multiple overpressure protection devices be required on a single gas piping system?",
+      "options": {
+        "A": "When the building has more than one floor",
+        "B": "Multiple devices are never required; one device is always sufficient",
+        "C": "When the gas meter is located indoors",
+        "D": "When the system has multiple pressure reduction stages or when a single device cannot handle the full range of potential overpressure scenarios"
+      },
+      "correct_answer": "D",
+      "explanation": "Multiple overpressure protection devices may be required when a gas piping system has multiple pressure reduction stages (e.g., high-pressure to medium-pressure to low-pressure), when a single relief valve cannot provide adequate relief capacity for the potential overpressure volume, or when different sections of the piping system operate at different pressures. Each pressure reduction stage may need its own overpressure protection. Additionally, some installations combine methods, for example a monitor regulator providing primary overpressure protection with a relief valve as secondary protection. The specific requirements depend on the system design, pressures involved, and the authority having jurisdiction.",
+      "code_references": [
+        "CSA B149.1-25 Clause 6.4.1"
+      ],
+      "unit_references": [
+        "Unit 11 - Pressure Regulators, Overpressure Protection, and Gas Meters"
+      ],
+      "topics": [
+        "multiple overpressure devices",
+        "system design",
+        "pressure stages"
+      ],
+      "difficulty": "advanced",
+      "question_type": "application",
+      "certification_level": "G2",
+      "source_phase": "phase2",
+      "source_file": "generated-g2-unit11-expansion.json"
+    },
+    {
+      "question_id": "g2_unit11_059",
+      "question_text": "A relief valve vent termination must be at least what distance from any source of ignition?",
+      "options": {
+        "A": "1 foot (0.3 m)",
+        "B": "6 feet (1.8 m)",
+        "C": "3 feet (0.9 m)",
+        "D": "10 feet (3.0 m)"
+      },
+      "correct_answer": "C",
+      "explanation": "A relief valve vent termination must be located at least 3 feet (0.9 m) from any source of ignition, building opening, or mechanical air intake. This 3-foot clearance requirement ensures that gas discharged during a relief event has adequate distance to disperse before reaching any potential ignition source. If gas from a relief valve were to contact a source of ignition, it could result in a fire or explosion. The vent should also be directed away from areas where people may be present and should terminate in a location that promotes rapid dispersal of the gas into the atmosphere.",
+      "code_references": [
+        "CSA B149.1-25 Clause 6.4.4"
+      ],
+      "unit_references": [
+        "Unit 11 - Pressure Regulators, Overpressure Protection, and Gas Meters"
+      ],
+      "topics": [
+        "relief valve vent",
+        "termination clearance",
+        "ignition sources"
+      ],
+      "difficulty": "basic",
+      "question_type": "knowledge",
+      "certification_level": "G2",
+      "source_phase": "phase2",
+      "source_file": "generated-g2-unit11-expansion.json"
+    },
+    {
+      "question_id": "g2_unit11_060",
+      "question_text": "How often should overpressure protection devices such as relief valves and monitor regulators be inspected and tested?",
+      "options": {
+        "A": "Only at initial installation",
+        "B": "At intervals recommended by the manufacturer and the authority having jurisdiction, typically annually",
+        "C": "Every 10 years",
+        "D": "Every 6 months without exception"
+      },
+      "correct_answer": "B",
+      "explanation": "Overpressure protection devices including relief valves, monitor regulators, and slam-shut (OPSO) devices must be inspected and tested at regular intervals as recommended by the manufacturer and the authority having jurisdiction (AHJ). Annual testing is the most common requirement. Testing should verify that relief valves open at their set pressure and reseat properly, that monitor regulators activate at the correct pressure, and that slam-shut devices trip at their setpoint and the manual reset functions correctly. Regular testing is critical because these devices are safety-critical and may not operate for years between events, during which time degradation can occur.",
+      "code_references": [
+        "CSA B149.1-25 Clause 6.4.5"
+      ],
+      "unit_references": [
+        "Unit 11 - Pressure Regulators, Overpressure Protection, and Gas Meters"
+      ],
+      "topics": [
+        "testing frequency",
+        "inspection requirements",
+        "overpressure devices"
+      ],
+      "difficulty": "basic",
+      "question_type": "knowledge",
+      "certification_level": "G2",
+      "source_phase": "phase2",
+      "source_file": "generated-g2-unit11-expansion.json"
+    },
+    {
+      "question_id": "g2_unit11_061",
+      "question_text": "What is the fundamental difference between a pressure limiting device and a pressure relief device?",
+      "options": {
+        "A": "A pressure limiting device is used only on propane; a pressure relief device is used only on natural gas",
+        "B": "They are the same device with different names",
+        "C": "A pressure limiting device is installed upstream of the meter; a pressure relief device is installed downstream",
+        "D": "A pressure limiting device stops gas flow to prevent overpressure; a pressure relief device vents excess gas to reduce pressure"
+      },
+      "correct_answer": "D",
+      "explanation": "The fundamental difference is in how they respond to overpressure. A pressure limiting device (such as a slam-shut/OPSO device or monitor regulator) prevents overpressure by stopping or restricting gas flow, either shutting off supply entirely (slam-shut) or reducing the flow to maintain a safe pressure (monitor regulator). A pressure relief device (relief valve) responds to overpressure by venting excess gas to the atmosphere, thereby reducing the pressure in the system. Both achieve the goal of preventing dangerous overpressure, but through opposite approaches: limiting supply vs. releasing excess. The appropriate device depends on the installation type, gas volume, and safety considerations.",
+      "code_references": [
+        "CSA B149.1-25 Clause 6.4.1"
+      ],
+      "unit_references": [
+        "Unit 11 - Pressure Regulators, Overpressure Protection, and Gas Meters"
+      ],
+      "topics": [
+        "pressure limiting",
+        "pressure relief",
+        "device differences"
+      ],
+      "difficulty": "intermediate",
+      "question_type": "knowledge",
+      "certification_level": "G2",
+      "source_phase": "phase2",
+      "source_file": "generated-g2-unit11-expansion.json"
+    },
+    {
+      "question_id": "g2_unit11_062",
+      "question_text": "If a monitor regulator in a series regulation system fails wide open, what is the immediate consequence?",
+      "options": {
+        "A": "The system operates normally as the worker regulator continues to control pressure",
+        "B": "Gas supply is cut off entirely",
+        "C": "Downstream pressure immediately rises to full inlet pressure",
+        "D": "The relief valve activates automatically"
+      },
+      "correct_answer": "A",
+      "explanation": "If the monitor regulator fails wide open in a series regulation system, the immediate consequence is that the system continues to operate normally because the worker (downstream) regulator is still controlling the outlet pressure. Remember that in a wide-open monitor configuration, the monitor is already wide open during normal operation. The critical failure scenario is when the worker regulator fails open, as then the monitor must take over regulation. However, if the monitor fails open first, the worker continues to control pressure as usual, and the situation may go undetected until the worker also fails, at which point there would be no overpressure protection. This is why regular testing of both regulators is essential.",
+      "code_references": [
+        "CSA B149.1-25 Clause 6.4.2"
+      ],
+      "unit_references": [
+        "Unit 11 - Pressure Regulators, Overpressure Protection, and Gas Meters"
+      ],
+      "topics": [
+        "monitor regulator failure",
+        "series regulation",
+        "safety consequences"
+      ],
+      "difficulty": "advanced",
+      "question_type": "application",
+      "certification_level": "G2",
+      "source_phase": "phase2",
+      "source_file": "generated-g2-unit11-expansion.json"
+    },
+    {
+      "question_id": "g2_unit11_063",
+      "question_text": "For propane systems specifically, why is overpressure protection especially critical compared to natural gas systems?",
+      "options": {
+        "A": "Propane is stored under high pressure and the first-stage regulator must reduce pressure from up to 200+ psig, creating a greater overpressure risk if the regulator fails",
+        "B": "Propane has no odor, making leaks undetectable",
+        "C": "Propane is less flammable than natural gas",
+        "D": "Propane systems do not require overpressure protection"
+      },
+      "correct_answer": "A",
+      "explanation": "Overpressure protection is especially critical in propane systems because propane is stored as a liquid under high pressure in tanks. The vapor pressure above the liquid can exceed 200 psig in warm weather (at 100 deg F, propane vapor pressure is approximately 190 psig). The first-stage regulator must reduce this high and variable pressure to an intermediate pressure (typically 5-10 psig). If this regulator fails open, the full tank pressure would be transmitted downstream, far exceeding the design limits of the piping system and appliances. This massive pressure differential makes the consequences of regulator failure more severe than in natural gas systems, where distribution pressures are typically much lower.",
+      "code_references": [
+        "CSA B149.1-25 Clause 6.4.3"
+      ],
+      "unit_references": [
+        "Unit 11 - Pressure Regulators, Overpressure Protection, and Gas Meters"
+      ],
+      "topics": [
+        "propane overpressure",
+        "high-pressure systems",
+        "regulator failure risk"
+      ],
+      "difficulty": "advanced",
+      "question_type": "knowledge",
+      "certification_level": "G2",
+      "source_phase": "phase2",
+      "source_file": "generated-g2-unit11-expansion.json"
+    },
+    {
+      "question_id": "g2_unit11_064",
+      "question_text": "When testing a relief valve's opening point, what pressure should the test confirm the valve opens at?",
+      "options": {
+        "A": "50% of the valve's rated relief pressure",
+        "B": "Double the valve's rated relief pressure",
+        "C": "The maximum working pressure of the upstream piping",
+        "D": "At or below the valve's rated relief (set) pressure"
+      },
+      "correct_answer": "D",
+      "explanation": "When testing a relief valve, the system pressure is gradually increased up to the valve's rated relief (set) pressure. The test confirms that the valve opens (begins to relieve gas) at or below its rated set pressure. The pressure should never be intentionally raised significantly above the set pressure during testing, as this could damage the valve or downstream components. A properly functioning relief valve should begin to discharge at its set pressure and fully reseat when the pressure drops below the set pressure. If the valve fails to open at its rated pressure, or does not reseat properly, it must be repaired or replaced.",
+      "code_references": [
+        "CSA B149.1-25 Clause 6.4.5"
+      ],
+      "unit_references": [
+        "Unit 11 - Pressure Regulators, Overpressure Protection, and Gas Meters"
+      ],
+      "topics": [
+        "relief valve testing",
+        "maximum test pressure",
+        "set pressure verification"
+      ],
+      "difficulty": "intermediate",
+      "question_type": "knowledge",
+      "certification_level": "G2",
+      "source_phase": "phase2",
+      "source_file": "generated-g2-unit11-expansion.json"
+    },
+    {
+      "question_id": "g2_unit11_065",
+      "question_text": "Before resetting an OPSO (slam-shut) device after it has tripped, what safety check must be performed?",
+      "options": {
+        "A": "Verify that all downstream appliances are turned on",
+        "B": "Replace the OPSO device with a new unit",
+        "C": "Determine and correct the cause of the overpressure before restoring gas flow",
+        "D": "Wait exactly 24 hours before resetting"
+      },
+      "correct_answer": "C",
+      "explanation": "Before resetting an OPSO (slam-shut) device, the technician must first determine and correct the cause of the overpressure condition that triggered the device. Simply resetting the OPSO without addressing the root cause will likely result in the device tripping again, or worse, if the overpressure protection system itself has a fault, restoring flow could expose the downstream system to dangerous pressures. The technician should check the upstream regulator for failure, verify downstream pressures are within acceptable limits, inspect for any conditions that may have caused the overpressure (such as a failed worker regulator), and make necessary repairs before resetting the OPSO and restoring gas flow.",
+      "code_references": [
+        "CSA B149.1-25 Clause 6.4.5"
+      ],
+      "unit_references": [
+        "Unit 11 - Pressure Regulators, Overpressure Protection, and Gas Meters"
+      ],
+      "topics": [
+        "OPSO reset",
+        "safety procedures",
+        "troubleshooting"
+      ],
+      "difficulty": "intermediate",
+      "question_type": "application",
+      "certification_level": "G2",
+      "source_phase": "phase2",
+      "source_file": "generated-g2-unit11-expansion.json"
+    },
+    {
+      "question_id": "g2_unit11_066",
+      "question_text": "On a diaphragm gas meter, what is the difference between the consumption (index) dials and the test dials?",
+      "options": {
+        "A": "There is no difference; they measure the same thing at the same rate",
+        "B": "The consumption dials are digital; the test dials are analog",
+        "C": "The test dials measure pressure; the consumption dials measure volume",
+        "D": "The consumption dials show total volume for billing; the test dials show smaller increments used for meter clocking and verification"
+      },
+      "correct_answer": "D",
+      "explanation": "On a diaphragm gas meter, the consumption (index) dials show the total accumulated volume of gas that has passed through the meter and are used for billing purposes. These dials typically read in hundreds or thousands of cubic feet. The test dials (also called proving dials) show much smaller increments, typically 1/2, 1, or 2 cubic feet per revolution, and are used by technicians for meter clocking (measuring gas flow rate to individual appliances) and for meter accuracy verification (meter proof testing). The test dials allow precise measurement of small gas volumes over timed intervals, which would be impossible to detect on the larger consumption dials.",
+      "code_references": [
+        "CSA B149.1-25 Clause 6.5"
+      ],
+      "unit_references": [
+        "Unit 11 - Pressure Regulators, Overpressure Protection, and Gas Meters"
+      ],
+      "topics": [
+        "consumption dials",
+        "test dials",
+        "meter reading"
+      ],
+      "difficulty": "basic",
+      "question_type": "knowledge",
+      "certification_level": "G2",
+      "source_phase": "phase2",
+      "source_file": "generated-g2-unit11-expansion.json"
+    },
+    {
+      "question_id": "g2_unit11_067",
+      "question_text": "A technician clocks a gas meter and measures that the 1 ft cubed test dial completes one full revolution in 30 seconds. What is the gas flow rate?",
+      "options": {
+        "A": "30 ft cubed/hr",
+        "B": "60 ft cubed/hr",
+        "C": "120 ft cubed/hr",
+        "D": "180 ft cubed/hr"
+      },
+      "correct_answer": "C",
+      "explanation": "The meter clocking formula is: Flow rate (ft cubed/hr) = (Test dial volume in ft cubed x 3600 seconds/hr) / Time in seconds for one revolution. In this case: Flow rate = (1 ft cubed x 3600) / 30 seconds = 3600 / 30 = 120 ft cubed/hr. The 3600 factor converts the per-second rate to per-hour. This flow rate can then be multiplied by the heating value of the gas (typically 1,000 Btu/ft cubed for natural gas) to determine the Btu/hr input of the appliance being tested: 120 ft cubed/hr x 1,000 Btu/ft cubed = 120,000 Btu/hr.",
+      "code_references": [
+        "CSA B149.1-25 Clause 6.5"
+      ],
+      "unit_references": [
+        "Unit 11 - Pressure Regulators, Overpressure Protection, and Gas Meters"
+      ],
+      "topics": [
+        "meter clocking",
+        "flow rate calculation",
+        "test dial"
+      ],
+      "difficulty": "intermediate",
+      "question_type": "calculation",
+      "certification_level": "G2",
+      "source_phase": "phase2",
+      "source_file": "generated-g2-unit11-expansion.json"
+    },
+    {
+      "question_id": "g2_unit11_068",
+      "question_text": "The temperature compensation formula corrects measured gas volume to a standard temperature. If gas is metered at 80 deg F, what correction factor is applied? (Standard = 60 deg F; Rankine = deg F + 460)",
+      "options": {
+        "A": "0.963",
+        "B": "1.037",
+        "C": "0.750",
+        "D": "1.250"
+      },
+      "correct_answer": "A",
+      "explanation": "The temperature compensation formula corrects metered volume to the standard temperature of 60 deg F using the ratio of absolute temperatures: Temperature Factor = (60 + 460) / (Actual deg F + 460) = 520 deg R / (80 + 460) deg R = 520 / 540 = 0.963. This means the actual volume of gas at 80 deg F is 0.963 times what the meter registered because gas expands when heated. At higher temperatures, gas is less dense, so the meter registers more volume than the equivalent volume at standard conditions. The correction factor is less than 1.0 when the actual temperature is above 60 deg F (gas is expanded) and greater than 1.0 when below 60 deg F (gas is contracted).",
+      "code_references": [
+        "CSA B149.1-25 Clause 6.5"
+      ],
+      "unit_references": [
+        "Unit 11 - Pressure Regulators, Overpressure Protection, and Gas Meters"
+      ],
+      "topics": [
+        "temperature compensation",
+        "Rankine scale",
+        "volume correction"
+      ],
+      "difficulty": "advanced",
+      "question_type": "calculation",
+      "certification_level": "G2",
+      "source_phase": "phase2",
+      "source_file": "generated-g2-unit11-expansion.json"
+    },
+    {
+      "question_id": "g2_unit11_069",
+      "question_text": "A gas meter registers 1,000 ft cubed at a gauge pressure of 5 psig. Using the pressure compensation formula (standard pressure = 14.73 psia), what is the corrected volume at standard conditions?",
+      "options": {
+        "A": "746 ft cubed",
+        "B": "1,339 ft cubed",
+        "C": "1,000 ft cubed",
+        "D": "1,500 ft cubed"
+      },
+      "correct_answer": "B",
+      "explanation": "The pressure compensation formula corrects metered volume to standard pressure: Corrected Volume = Metered Volume x (Actual Absolute Pressure / Standard Absolute Pressure). First, convert gauge pressure to absolute: 5 psig + 14.73 psia = 19.73 psia. Then apply the formula: Corrected Volume = 1,000 ft cubed x (19.73 / 14.73) = 1,000 x 1.339 = 1,339 ft cubed. Gas at higher-than-standard pressure is compressed, so more gas molecules pass through the meter than the meter registers at standard conditions. The correction factor is greater than 1.0 when actual pressure exceeds standard atmospheric pressure, reflecting the additional gas content.",
+      "code_references": [
+        "CSA B149.1-25 Clause 6.5"
+      ],
+      "unit_references": [
+        "Unit 11 - Pressure Regulators, Overpressure Protection, and Gas Meters"
+      ],
+      "topics": [
+        "pressure compensation",
+        "volume correction",
+        "calculation"
+      ],
+      "difficulty": "advanced",
+      "question_type": "calculation",
+      "certification_level": "G2",
+      "source_phase": "phase2",
+      "source_file": "generated-g2-unit11-expansion.json"
+    },
+    {
+      "question_id": "g2_unit11_070",
+      "question_text": "When is a meter bypass required in a gas piping installation?",
+      "options": {
+        "A": "On all residential gas meter installations",
+        "B": "On all installations with more than one appliance",
+        "C": "When the gas meter serves critical equipment that cannot be shut down for meter maintenance or replacement",
+        "D": "A meter bypass is never permitted by code"
+      },
+      "correct_answer": "C",
+      "explanation": "A meter bypass is required (or recommended) when the gas meter serves critical equipment such as hospitals, industrial processes, or large commercial facilities where gas supply interruption for meter maintenance or replacement is unacceptable. The bypass allows gas to continue flowing to the building while the meter is removed for testing, repair, or replacement. When the bypass is in use, gas flows unmetered, so it must be locked in the closed position during normal operation and only opened by authorized personnel. Not all installations require bypasses. Most residential and small commercial installations do not, as brief shutdowns for meter work are acceptable.",
+      "code_references": [
+        "CSA B149.1-25 Clause 6.5.4"
+      ],
+      "unit_references": [
+        "Unit 11 - Pressure Regulators, Overpressure Protection, and Gas Meters"
+      ],
+      "topics": [
+        "meter bypass",
+        "installation requirements",
+        "critical equipment"
+      ],
+      "difficulty": "intermediate",
+      "question_type": "knowledge",
+      "certification_level": "G2",
+      "source_phase": "phase2",
+      "source_file": "generated-g2-unit11-expansion.json"
+    },
+    {
+      "question_id": "g2_unit11_071",
+      "question_text": "According to CSA B149.1-25, a gas meter installed outdoors must be located:",
+      "options": {
+        "A": "In an accessible location, protected from physical damage, with adequate clearance from sources of ignition and building openings",
+        "B": "On the roof of the building",
+        "C": "In a locked underground vault",
+        "D": "Inside a gas-tight enclosure at all times"
+      },
+      "correct_answer": "A",
+      "explanation": "CSA B149.1-25 requires that gas meters be installed in accessible locations where they can be read, maintained, and replaced without difficulty. Outdoor meters must be protected from physical damage (such as vehicle impact), located with adequate clearance from sources of ignition, building openings, and electrical equipment, and positioned so the regulator vent (if integral) can discharge safely. The meter should not be installed in locations where it could be submerged by flooding, buried in snow without access, or exposed to excessive heat. Proper support must be provided so the meter weight does not stress the piping connections.",
+      "code_references": [
+        "CSA B149.1-25 Clause 6.5.2"
+      ],
+      "unit_references": [
+        "Unit 11 - Pressure Regulators, Overpressure Protection, and Gas Meters"
+      ],
+      "topics": [
+        "meter location",
+        "CSA code requirements",
+        "outdoor installation"
+      ],
+      "difficulty": "basic",
+      "question_type": "knowledge",
+      "certification_level": "G2",
+      "source_phase": "phase2",
+      "source_file": "generated-g2-unit11-expansion.json"
+    },
+    {
+      "question_id": "g2_unit11_072",
+      "question_text": "What type of support and protection is required for a gas meter installation?",
+      "options": {
+        "A": "No support is needed; the gas piping provides adequate support",
+        "B": "Meters must be supported independently so their weight does not stress the piping, and protected from physical damage by posts or barriers where subject to vehicle traffic",
+        "C": "Meters must be hung from the building eave by chains",
+        "D": "Meters only need support if they exceed 100 lbs"
+      },
+      "correct_answer": "B",
+      "explanation": "Gas meters must be properly supported so their weight (especially larger commercial meters) does not place stress on the gas piping connections, which could cause leaks at joints. A meter bar, bracket, or other approved support must be provided. Additionally, where meters are located in areas subject to vehicle traffic or other physical hazards, they must be protected by bollards, posts, concrete barriers, or other means to prevent damage from impact. A damaged meter can release large volumes of gas, creating a serious fire and explosion hazard. The support and protection requirements become more stringent as meter size increases.",
+      "code_references": [
+        "CSA B149.1-25 Clause 6.5.3"
+      ],
+      "unit_references": [
+        "Unit 11 - Pressure Regulators, Overpressure Protection, and Gas Meters"
+      ],
+      "topics": [
+        "meter support",
+        "physical protection",
+        "installation requirements"
+      ],
+      "difficulty": "basic",
+      "question_type": "knowledge",
+      "certification_level": "G2",
+      "source_phase": "phase2",
+      "source_file": "generated-g2-unit11-expansion.json"
+    },
+    {
+      "question_id": "g2_unit11_073",
+      "question_text": "A meter reads 50 cubic meters. What is the approximate equivalent volume in cubic feet? (1 m cubed = 35.31 ft cubed)",
+      "options": {
+        "A": "1,766 ft cubed",
+        "B": "500 ft cubed",
+        "C": "3,531 ft cubed",
+        "D": "1,415 ft cubed"
+      },
+      "correct_answer": "A",
+      "explanation": "To convert cubic meters to cubic feet, multiply by the conversion factor of 35.31 ft cubed per m cubed: 50 m cubed x 35.31 ft cubed/m cubed = 1,765.5 ft cubed, which rounds to approximately 1,766 ft cubed. This conversion is important for gas technicians who may encounter meters calibrated in metric units (cubic meters) or imperial units (cubic feet). In Canada, the gas industry uses both systems, and billing may be in either unit depending on the utility. Technicians must be comfortable converting between the two systems for accurate flow rate calculations and appliance verification.",
+      "code_references": [
+        "CSA B149.1-25 Clause 6.5"
+      ],
+      "unit_references": [
+        "Unit 11 - Pressure Regulators, Overpressure Protection, and Gas Meters"
+      ],
+      "topics": [
+        "metric conversion",
+        "imperial conversion",
+        "cubic meters to cubic feet"
+      ],
+      "difficulty": "intermediate",
+      "question_type": "calculation",
+      "certification_level": "G2",
+      "source_phase": "phase2",
+      "source_file": "generated-g2-unit11-expansion.json"
+    },
+    {
+      "question_id": "g2_unit11_074",
+      "question_text": "What is the function of a TCI (Temperature Corrector Instrument) on a gas meter?",
+      "options": {
+        "A": "To heat the gas to a standard temperature before it enters the building",
+        "B": "To display the current temperature of the gas for the technician",
+        "C": "To automatically adjust the meter reading to compensate for the difference between actual gas temperature and the standard billing temperature of 60 deg F (15 deg C)",
+        "D": "To shut off gas flow if the temperature drops below freezing"
+      },
+      "correct_answer": "C",
+      "explanation": "A TCI (Temperature Corrector Instrument), also called a temperature compensator, is a mechanical or electronic device attached to a gas meter that automatically adjusts the volume reading to compensate for temperature variations from the standard billing temperature of 60 deg F (15 deg C). Since gas expands when warm and contracts when cold, a meter without temperature correction will over-register in warm conditions and under-register in cold conditions. The TCI contains a temperature-sensing element (such as a bimetallic strip or thermistor) that adjusts the meter gearing or index to correct the registered volume to what it would be at standard temperature, ensuring accurate billing regardless of seasonal temperature variations.",
+      "code_references": [
+        "CSA B149.1-25 Clause 6.5"
+      ],
+      "unit_references": [
+        "Unit 11 - Pressure Regulators, Overpressure Protection, and Gas Meters"
+      ],
+      "topics": [
+        "TCI",
+        "temperature compensator",
+        "meter correction"
+      ],
+      "difficulty": "intermediate",
+      "question_type": "knowledge",
+      "certification_level": "G2",
+      "source_phase": "phase2",
+      "source_file": "generated-g2-unit11-expansion.json"
+    },
+    {
+      "question_id": "g2_unit11_075",
+      "question_text": "In a standard residential gas meter set, what is the correct order of components from the service line to the building piping?",
+      "options": {
+        "A": "Meter, regulator, shut-off valve",
+        "B": "Shut-off valve, regulator, meter",
+        "C": "Regulator, meter, shut-off valve",
+        "D": "Shut-off valve, meter, regulator"
+      },
+      "correct_answer": "B",
+      "explanation": "The standard order of a residential gas meter set from the service line to the building piping is: (1) shut-off valve (allows the gas supply to be isolated), (2) regulator (reduces the service line pressure to the standard appliance supply pressure of 7 in. w.c.), and (3) meter (measures the volume of gas consumed at the regulated low pressure). The shut-off valve is placed first so the entire meter set can be isolated. The regulator is upstream of the meter so the meter operates at low pressure, which is important because meter accuracy is calibrated for a specific operating pressure. Some installations may include additional components such as overpressure protection devices or excess flow valves.",
+      "code_references": [
+        "CSA B149.1-25 Clause 6.5.1"
+      ],
+      "unit_references": [
+        "Unit 11 - Pressure Regulators, Overpressure Protection, and Gas Meters"
+      ],
+      "topics": [
+        "meter set components",
+        "installation order",
+        "residential meter set"
+      ],
+      "difficulty": "intermediate",
+      "question_type": "knowledge",
+      "certification_level": "G2",
+      "source_phase": "phase2",
+      "source_file": "generated-g2-unit11-expansion.json"
+    },
+    {
+      "question_id": "g2_unit11_076",
+      "question_text": "When sizing a gas meter for a building, what primary factor determines the required meter capacity?",
+      "options": {
+        "A": "The number of rooms in the building",
+        "B": "The diameter of the service line entering the property",
+        "C": "The distance from the meter to the farthest appliance",
+        "D": "The total maximum demand (connected load) of all gas appliances in cubic feet per hour"
+      },
+      "correct_answer": "D",
+      "explanation": "The gas meter must be sized to handle the total maximum demand (connected load) of all gas appliances it serves, measured in cubic feet per hour or cubic meters per hour. The meter capacity must equal or exceed the total gas consumption of all appliances operating simultaneously at their maximum rated input. An undersized meter will cause excessive pressure drop across the meter, starving appliances of gas and potentially causing improper combustion. An oversized meter will still function but may not register small flows accurately (such as pilot lights). Meter capacities are rated by the manufacturer and stamped on the meter nameplate.",
+      "code_references": [
+        "CSA B149.1-25 Clause 6.5.1"
+      ],
+      "unit_references": [
+        "Unit 11 - Pressure Regulators, Overpressure Protection, and Gas Meters"
+      ],
+      "topics": [
+        "meter sizing",
+        "capacity",
+        "connected load"
+      ],
+      "difficulty": "intermediate",
+      "question_type": "knowledge",
+      "certification_level": "G2",
+      "source_phase": "phase2",
+      "source_file": "generated-g2-unit11-expansion.json"
+    },
+    {
+      "question_id": "g2_unit11_077",
+      "question_text": "A gas meter's test dial makes 5 complete revolutions in 3 minutes while an appliance is operating. If the test dial represents 2 ft cubed per revolution, what is the appliance input? (Natural gas = 1,000 Btu/ft cubed)",
+      "options": {
+        "A": "100,000 Btu/hr",
+        "B": "200,000 Btu/hr",
+        "C": "300,000 Btu/hr",
+        "D": "400,000 Btu/hr"
+      },
+      "correct_answer": "B",
+      "explanation": "Step 1: Calculate volume per time period. 5 revolutions x 2 ft cubed/revolution = 10 ft cubed in 3 minutes. Step 2: Convert to hourly rate. 10 ft cubed / 3 minutes x 60 minutes/hr = 200 ft cubed/hr. Step 3: Convert to Btu/hr. 200 ft cubed/hr x 1,000 Btu/ft cubed = 200,000 Btu/hr. This is a standard meter clocking calculation used to verify that an appliance is operating at or near its rated input. If the calculated input differs significantly from the appliance nameplate rating, the technician should investigate possible causes such as incorrect gas pressure, wrong orifice size, or meter malfunction.",
+      "code_references": [
+        "CSA B149.1-25 Clause 6.5"
+      ],
+      "unit_references": [
+        "Unit 11 - Pressure Regulators, Overpressure Protection, and Gas Meters"
+      ],
+      "topics": [
+        "meter clocking",
+        "Btu/hr calculation",
+        "appliance verification"
+      ],
+      "difficulty": "advanced",
+      "question_type": "calculation",
+      "certification_level": "G2",
+      "source_phase": "phase2",
+      "source_file": "generated-g2-unit11-expansion.json"
+    },
+    {
+      "question_id": "g2_unit11_078",
+      "question_text": "A meter proof test shows the meter registered 10 ft cubed while a calibrated prover measured 10.3 ft cubed of actual gas passing through. What is the meter proof percentage?",
+      "options": {
+        "A": "100.0%",
+        "B": "103.0%",
+        "C": "96.7%",
+        "D": "97.1%"
+      },
+      "correct_answer": "D",
+      "explanation": "Meter proof (accuracy) is calculated as: Meter Proof % = (Volume registered by meter / Actual volume measured by prover) x 100. In this case: Meter Proof = (10.0 / 10.3) x 100 = 97.1%. This means the meter is reading 2.9% slow (under-registering). A meter proof of 100% means the meter is perfectly accurate. Results below 100% indicate the meter is slow (under-registering, favoring the customer), while results above 100% indicate the meter is fast (over-registering, favoring the utility). Most utilities consider meters acceptable within a range of approximately 98% to 102% proof. Meters outside this range should be recalibrated or replaced.",
+      "code_references": [
+        "CSA B149.1-25 Clause 6.5"
+      ],
+      "unit_references": [
+        "Unit 11 - Pressure Regulators, Overpressure Protection, and Gas Meters"
+      ],
+      "topics": [
+        "meter proof",
+        "accuracy testing",
+        "prover calculation"
+      ],
+      "difficulty": "advanced",
+      "question_type": "calculation",
+      "certification_level": "G2",
+      "source_phase": "phase2",
+      "source_file": "generated-g2-unit11-expansion.json"
+    },
+    {
+      "question_id": "g2_unit11_079",
+      "question_text": "How does a positive displacement (diaphragm) gas meter measure gas volume?",
+      "options": {
+        "A": "By measuring the velocity of gas flowing through an orifice",
+        "B": "By measuring the temperature change as gas flows through the meter",
+        "C": "By counting the rotations of a turbine wheel in the gas stream",
+        "D": "By using alternating diaphragm chambers that fill and empty in sequence, with each cycle displacing a known volume of gas"
+      },
+      "correct_answer": "D",
+      "explanation": "A positive displacement (diaphragm) gas meter operates using internal flexible diaphragms that divide the meter into separate chambers. Gas inlet pressure alternately fills one chamber while the other empties, and the diaphragms move back and forth with each cycle. A mechanical linkage connected to the diaphragms drives the meter index (dials), and each complete cycle of diaphragm movement displaces a precisely known volume of gas. The meter literally counts the number of times these known volumes pass through it. This is why diaphragm meters are also called positive displacement meters. They physically displace and measure discrete volumes of gas rather than inferring volume from velocity or pressure differential.",
+      "code_references": [
+        "CSA B149.1-25 Clause 6.5"
+      ],
+      "unit_references": [
+        "Unit 11 - Pressure Regulators, Overpressure Protection, and Gas Meters"
+      ],
+      "topics": [
+        "displacement meter",
+        "diaphragm meter",
+        "operating principle"
+      ],
+      "difficulty": "intermediate",
+      "question_type": "knowledge",
+      "certification_level": "G2",
+      "source_phase": "phase2",
+      "source_file": "generated-g2-unit11-expansion.json"
+    },
+    {
+      "question_id": "g2_unit11_080",
+      "question_text": "In what type of gas installation are turbine meters most commonly used instead of diaphragm meters?",
+      "options": {
+        "A": "Small residential installations with one or two appliances",
+        "B": "Large commercial and industrial installations with high gas flow rates",
+        "C": "Propane tank installations only",
+        "D": "Outdoor barbecue connections"
+      },
+      "correct_answer": "B",
+      "explanation": "Turbine meters are used in large commercial and industrial installations where gas flow rates are too high for practical diaphragm meter sizes. Turbine meters use a rotor (turbine wheel) placed in the gas stream; the gas flow spins the rotor at a speed proportional to the flow velocity, and the rotations are counted to determine volume. Turbine meters offer advantages for high-flow applications: they are physically smaller and lighter than equivalent-capacity diaphragm meters, have lower pressure drop, and can handle much higher flow rates. However, they are less accurate at low flow rates and require a minimum flow to operate, making them unsuitable for residential applications where flow varies widely from pilot loads to full demand.",
+      "code_references": [
+        "CSA B149.1-25 Clause 6.5"
+      ],
+      "unit_references": [
+        "Unit 11 - Pressure Regulators, Overpressure Protection, and Gas Meters"
+      ],
+      "topics": [
+        "turbine meter",
+        "high-flow applications",
+        "commercial/industrial"
+      ],
+      "difficulty": "basic",
+      "question_type": "knowledge",
+      "certification_level": "G2",
+      "source_phase": "phase2",
+      "source_file": "generated-g2-unit11-expansion.json"
     }
   ]
 }
